@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Briefing Pré-Abertura · WIN 09:00</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --pos-ink:#6FCF97;
+    --neg-ink:#E38181;
+    --neu-ink:#C9C6BC;
+    --amber:#E8B23D;
+    --ink-dim:#B3B0A6;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    min-height:100vh;
+    font-family:'Inter',sans-serif;
+    color:#FFFFFF;
+    padding:28px 16px 64px;
+    background:
+      radial-gradient(ellipse 900px 700px at 100% 100%, rgba(232,178,61,0.20) 0%, rgba(232,178,61,0.08) 32%, transparent 60%),
+      radial-gradient(ellipse 1200px 900px at 0% 0%, rgba(60,55,80,0.35) 0%, transparent 55%),
+      #08080A;
+    background-attachment:fixed;
+  }
+  .wrap{max-width:640px;margin:0 auto;}
+
+  header{
+    display:flex;justify-content:space-between;align-items:flex-start;
+    margin-bottom:24px;
+  }
+  .eyebrow{
+    font-size:12px;font-weight:700;color:var(--amber);
+    text-transform:uppercase;letter-spacing:0.1em;margin-bottom:6px;
+  }
+  h1{font-size:25px;font-weight:800;margin:0;color:#FFFFFF;letter-spacing:-0.01em;}
+  .meta{text-align:right;font-size:12.5px;color:var(--ink-dim);line-height:1.5;}
+  .meta strong{display:block;font-weight:700;color:#FFFFFF;font-size:14px;}
+
+  .glass{
+    background:rgba(0,0,0,0.38);
+    backdrop-filter:blur(18px) saturate(140%);
+    -webkit-backdrop-filter:blur(18px) saturate(140%);
+    border:1px solid rgba(255,255,255,0.14);
+    border-radius:20px;
+    box-shadow:0 8px 28px rgba(0,0,0,0.25);
+  }
+
+  .summary{padding:22px 24px;margin-bottom:24px;}
+  .gap-badge{
+    display:inline-block;padding:5px 14px;border-radius:100px;
+    font-size:12px;font-weight:700;margin-bottom:12px;
+  }
+  .gap-badge.positive{background:rgba(111,207,151,0.15);color:var(--pos-ink);}
+  .gap-badge.negative{background:rgba(227,129,129,0.15);color:var(--neg-ink);}
+  .gap-badge.neutral{background:rgba(201,198,188,0.15);color:var(--neu-ink);}
+  .summary p{font-size:14.5px;line-height:1.65;color:#EDEBE3;margin:0;}
+
+  .section{margin-bottom:22px;}
+  .section-title{
+    font-size:12.5px;font-weight:700;color:var(--amber);
+    margin:0 0 10px 6px;text-transform:uppercase;letter-spacing:0.06em;
+  }
+  .board{overflow:hidden;}
+  .row{
+    display:flex;justify-content:space-between;align-items:center;
+    padding:14px 20px;border-bottom:1px solid rgba(255,255,255,0.1);
+  }
+  .row:last-child{border-bottom:none;}
+  .row .label{font-size:14px;font-weight:500;color:#F1EFE8;}
+  .pill{
+    font-size:13.5px;font-weight:700;padding:5px 13px;border-radius:100px;
+    background:rgba(255,255,255,0.08);
+  }
+  .pill.positive{color:var(--pos-ink);}
+  .pill.negative{color:var(--neg-ink);}
+  .pill.neutral{color:var(--neu-ink);}
+
+  ul.plain{list-style:none;margin:0;padding:4px 0;}
+  ul.plain li{
+    padding:12px 20px;border-bottom:1px solid rgba(255,255,255,0.1);
+    font-size:13.5px;line-height:1.55;color:#EDEBE3;
+  }
+  ul.plain li:last-child{border-bottom:none;}
+  ul.plain li::before{content:"▸ ";color:var(--amber);}
+
+  .agenda-row{
+    display:flex;align-items:center;gap:10px;
+    padding:12px 16px;border-bottom:1px solid rgba(255,255,255,0.1);
+  }
+  .agenda-row:last-child{border-bottom:none;}
+  .agenda-time{font-size:12px;color:var(--ink-dim);width:38px;flex-shrink:0;}
+  .agenda-flag{
+    font-size:10.5px;font-weight:700;color:#0A0A0C;background:var(--amber);
+    padding:2px 6px;border-radius:4px;width:22px;text-align:center;flex-shrink:0;
+  }
+  .agenda-event{flex:1;font-size:13px;color:#F1EFE8;line-height:1.4;}
+  .agenda-stars{font-size:10px;color:var(--amber);letter-spacing:1px;white-space:nowrap;}
+  .agenda-nums{
+    display:flex;gap:12px;font-size:12px;font-weight:700;
+    text-align:right;flex-shrink:0;
+  }
+  .agenda-nums span{min-width:44px;}
+  .agenda-nums .num-label{
+    display:block;font-size:9px;font-weight:500;color:var(--ink-dim);
+    text-transform:uppercase;margin-bottom:1px;
+  }
+
+  footer{
+    text-align:center;font-size:11px;color:rgba(255,255,255,0.4);
+    margin-top:32px;letter-spacing:0.05em;
+  }
+  .state{
+    text-align:center;padding:60px 20px;font-size:13.5px;color:var(--ink-dim);
+  }
+  @media (max-width:480px){
+    h1{font-size:21px;}
+    .row{padding:12px 16px;}
+    .agenda-row{flex-wrap:wrap;}
+    .agenda-nums{width:100%;justify-content:flex-end;margin-top:6px;}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <div class="eyebrow">Painel: Pré-Mercado</div>
+      <h1>Briefing 08:30</h1>
+    </div>
+    <div class="meta">
+      Abertura WIN 09:00<br>
+      <strong id="updated">—</strong>
+    </div>
+  </header>
+
+  <div id="content">
+    <div class="state">Carregando dados de hoje…</div>
+  </div>
+
+  <footer>GERADO AUTOMATICAMENTE · TAREFA AGENDADA CLAUDE · 08:30 BRT</footer>
+</div>
+
+<script>
+async function loadData(){
+  const el = document.getElementById('content');
+  try{
+    const res = await fetch('data.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('sem dados');
+    const data = await res.json();
+    render(data);
+  }catch(e){
+    el.innerHTML = '<div class="glass state">Ainda não há briefing publicado hoje.<br>Volte depois das 08:30.</div>';
+  }
+}
+
+function toneClass(tone){
+  if(tone === 'positive') return 'positive';
+  if(tone === 'negative') return 'negative';
+  return 'neutral';
+}
+
+function render(data){
+  document.getElementById('updated').textContent = data.updated_at || '—';
+
+  const gapTone = toneClass(data.gap_tone);
+  let html = '';
+
+  html += `<div class="glass summary">
+    <span class="gap-badge ${gapTone}">${data.gap_estimate || 'N/D'}</span>
+    <p>${data.summary || ''}</p>
+  </div>`;
+
+  (data.sections || []).forEach(section => {
+    html += `<div class="section">
+      <div class="section-title">${section.title}</div>
+      <div class="glass board">`;
+    (section.items || []).forEach(item => {
+      html += `<div class="row">
+        <span class="label">${item.label}</span>
+        <span class="pill ${toneClass(item.tone)}">${item.value}</span>
+      </div>`;
+    });
+    html += `</div></div>`;
+  });
+
+  if(data.agenda && data.agenda.length){
+    html += `<div class="section">
+      <div class="section-title">Agenda do dia</div>
+      <div class="glass">`;
+    data.agenda.forEach(item => {
+      if(typeof item === 'string'){
+        html += `<div class="agenda-row"><span class="agenda-event">${item}</span></div>`;
+      } else {
+        const stars = '★'.repeat(item.stars || 0) + '☆'.repeat(3 - (item.stars || 0));
+        html += `<div class="agenda-row">
+          <span class="agenda-time">${item.time || ''}</span>
+          <span class="agenda-flag">${item.country || ''}</span>
+          <span class="agenda-event">${item.event || ''}</span>
+          <span class="agenda-stars">${stars}</span>
+          <span class="agenda-nums">
+            <span><span class="num-label">Atual</span>${item.actual || '-'}</span>
+            <span><span class="num-label">Prev.</span>${item.forecast || '-'}</span>
+            <span><span class="num-label">Ant.</span>${item.previous || '-'}</span>
+          </span>
+        </div>`;
+      }
+    });
+    html += `</div></div>`;
+  }
+
+  if(data.news && data.news.length){
+    html += `<div class="section">
+      <div class="section-title">Notícias overnight</div>
+      <div class="glass"><ul class="plain">${data.news.map(n => `<li>${n}</li>`).join('')}</ul></div>
+    </div>`;
+  }
+
+  document.getElementById('content').innerHTML = html;
+}
+
+loadData();
+</script>
+</body>
+</html>
