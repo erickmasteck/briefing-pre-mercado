@@ -1,69 +1,69 @@
 {
-  "updated_at": "04/08/2026 08:30",
-  "gap_estimate": "Abertura mista, viés cauteloso",
+  "updated_at": "07/08/2026 08:30",
+  "gap_estimate": "Abertura cautelosa, mercado local de olho no payroll e nos balanços",
   "gap_tone": "neutral",
-  "summary": "Bitcoin em correção (-2,4% em 24h), refletindo aversão a risco global. Câmbio e commodities seguem como principais vetores para o Ibovespa hoje. CDS Brasil em nível considerado moderado dentro da faixa histórica recente.",
+  "summary": "Payroll dos EUA mostrou perda de 23 mil vagas em julho, com desemprego estável em 4,1%, reforçando aposta de corte de juros pelo Fed e impulsionando os futuros americanos. No Brasil, Petrobras reportou lucro de R$ 52,4 bilhões no 2T26, acima do esperado, e aprovou R$ 17,4 bilhões em dividendos, enquanto o dólar recua e o petróleo cede com tensões no Oriente Médio ainda no radar.",
   "sections": [
     {
       "title": "Ajuste Mini Índice",
       "items": [
-        {"label": "Ajuste", "value": "178.924", "tone": "neutral"},
-        {"label": "Variação", "value": "4.334 pts", "tone": "positive"}
+        {"label": "Ajuste", "value": "175.825", "tone": "negative"},
+        {"label": "Variação", "value": "-2.475 pts", "tone": "negative"}
       ]
     },
     {
       "title": "Moedas",
       "items": [
-        {"label": "Dólar (USD/BRL)", "value": "R$ 5,06 (-0,30%)", "tone": "positive"},
-        {"label": "BTC (USD)", "value": "US$ 63.900 (-2,4%)", "tone": "negative"},
-        {"label": "BTC (BRL)", "value": "R$ 321.100 (-2,4%)", "tone": "negative"}
+        {"label": "Dólar (USD/BRL)", "value": "R$ 5,10 (-0,17%)", "tone": "positive"},
+        {"label": "BTC (USD)", "value": "US$ 65.370 (+1,18%)", "tone": "positive"},
+        {"label": "BTC (BRL)", "value": "R$ 333.290 (+1,18%)", "tone": "positive"}
       ]
     },
     {
       "title": "Índices",
       "items": [
-        {"label": "DXY", "value": "+0,06%", "tone": "neutral"},
-        {"label": "VIX", "value": "+5,65%", "tone": "negative"},
-        {"label": "CRB", "value": "+1,36%", "tone": "positive"},
-        {"label": "EWZ", "value": "+0,33%", "tone": "positive"}
+        {"label": "DXY", "value": "-0,37%", "tone": "positive"},
+        {"label": "VIX", "value": "-0,73%", "tone": "positive"},
+        {"label": "CRB", "value": "N/D", "tone": "neutral"},
+        {"label": "EWZ", "value": "N/D", "tone": "neutral"}
       ]
     },
     {
       "title": "ADR",
       "items": [
-        {"label": "Vale", "value": "-0,54%", "tone": "negative"},
-        {"label": "Petrobras", "value": "+1,69%", "tone": "positive"}
+        {"label": "Vale", "value": "-0,90%", "tone": "negative"},
+        {"label": "Petrobras", "value": "+1,52%", "tone": "positive"}
       ]
     },
     {
       "title": "Futuros Americanos",
       "items": [
-        {"label": "S&P 500", "value": "-0,22%", "tone": "negative"},
-        {"label": "Nasdaq", "value": "-0,57%", "tone": "negative"},
-        {"label": "Dow Jones", "value": "-0,01%", "tone": "negative"}
+        {"label": "S&P 500", "value": "+0,43%", "tone": "positive"},
+        {"label": "Nasdaq", "value": "+0,90%", "tone": "positive"},
+        {"label": "Dow Jones", "value": "+0,19%", "tone": "positive"}
       ]
     },
     {
       "title": "Ásia",
       "items": [
-        {"label": "Nikkei 225", "value": "-0,18%", "tone": "negative"},
-        {"label": "Hang Seng", "value": "-0,95%", "tone": "negative"},
-        {"label": "CSI 300", "value": "-0,5%", "tone": "negative"}
+        {"label": "Nikkei 225", "value": "-0,12%", "tone": "negative"},
+        {"label": "Hang Seng", "value": "N/D", "tone": "neutral"},
+        {"label": "CSI 300", "value": "N/D", "tone": "neutral"}
       ]
     },
     {
       "title": "Europa",
       "items": [
-        {"label": "DAX (fech. anterior)", "value": "+0,58%", "tone": "positive"},
-        {"label": "FTSE 100 (fech. anterior)", "value": "+1,09%", "tone": "positive"},
-        {"label": "Euro Stoxx 50 (fech. anterior)", "value": "+0,39%", "tone": "positive"}
+        {"label": "DAX (fech. anterior)", "value": "+0,05%", "tone": "positive"},
+        {"label": "FTSE 100 (fech. anterior)", "value": "+0,23%", "tone": "positive"},
+        {"label": "Euro Stoxx 50 (fech. anterior)", "value": "+1,05%", "tone": "positive"}
       ]
     },
     {
       "title": "Commodities",
       "items": [
-        {"label": "Petróleo Brent", "value": "US$ 98,39", "tone": "negative"},
-        {"label": "Minério de ferro", "value": "+1,69%", "tone": "positive"}
+        {"label": "Petróleo Brent", "value": "US$ 82,06", "tone": "negative"},
+        {"label": "Minério de ferro", "value": "N/D", "tone": "neutral"}
       ]
     },
     {
@@ -74,16 +74,14 @@
     }
   ],
   "agenda": [
-    {"time": "09:15", "country": "EU", "event": "Decisão da Taxa de Juros do BCE", "stars": 3, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "09:30", "country": "US", "event": "Pedidos Iniciais por Seguro-Desemprego", "stars": 3, "actual": "-", "forecast": "211K", "previous": "208K"},
-    {"time": "09:30", "country": "US", "event": "Pedidos Contínuos por Seguro-Desemprego", "stars": 2, "actual": "-", "forecast": "-", "previous": "1.805M"},
-    {"time": "09:45", "country": "EU", "event": "Coletiva de Imprensa do BCE", "stars": 3, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "14:00", "country": "US", "event": "Leilão de TIPS a 10 anos", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "17:30", "country": "US", "event": "Balanço Patrimonial do Fed", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"}
+    {"time": "09:30", "country": "US", "event": "Payroll (Folha de Pagamento Não-Agrícola) - Julho", "stars": 3, "actual": "-23K", "forecast": "80K", "previous": "57K"},
+    {"time": "09:30", "country": "US", "event": "Taxa de Desemprego - Julho", "stars": 3, "actual": "4,1%", "forecast": "4,2%", "previous": "4,1%"},
+    {"time": "09:30", "country": "US", "event": "Salário Médio por Hora (M/M)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"}
   ],
   "news": [
-    "Bitcoin cai perto de US$ 64 mil em meio a temores renovados de intervenção do iene japonês (carry trade)",
-    "Vale registrou o melhor volume de produção de minério para um segundo trimestre desde 2018",
-    "Ibovespa segue oscilando conforme fluxo estrangeiro e expectativa para a decisão do BCE hoje"
+    "Payroll dos EUA mostra perda de 23 mil vagas em julho; desemprego se mantém em 4,1%, reforçando aposta de corte de juros pelo Fed",
+    "Petrobras (PETR4) lucra R$ 52,4 bilhões no 2T26, acima do esperado, e aprova R$ 17,4 bilhões em dividendos e JCP",
+    "ADRs da Petrobras avançam em Nova York com resultado acima do esperado e anúncio de proventos bilionários",
+    "Tensões no Oriente Médio seguem no radar após alerta saudita sobre possíveis ataques coordenados de milícias apoiadas pelo Irã"
   ]
 }
