@@ -1,88 +1,87 @@
 {
-"updated_at": "11/08/2026 09:00",
-"gap_estimate": "Abertura cautelosa, mercado no aguardo da Ata do Copom e do IPCA de julho",
-"gap_tone": "neutral",
-"summary": "Mercado brasileiro amanhece à espera dos desdobramentos da Ata do Copom, divulgada mais cedo, e do IPCA de julho às 9h, com o dólar subindo para perto de R$ 5,11 em meio ao impasse nas negociações entre EUA e Irã pelo Estreito de Ormuz. No exterior, os futuros americanos operam mistos, as bolsas da Ásia fecharam majoritariamente em queda e a Europa avança puxada pelo Euro Stoxx 50, enquanto o petróleo Brent recua e o minério de ferro sobe cerca de 1%.",
-"sections": [
-{
-"title": "Ajuste Mini Índice",
-"items": [
-{"label": "Ajuste", "value": "172.250", "tone": "negative"},
-{"label": "Variação", "value": "-358 pts", "tone": "negative"}
-]
-},
-{
-"title": "Moedas",
-"items": [
-{"label": "Dólar (USD/BRL)", "value": "R$ 5,11 (+0,53%)", "tone": "negative"},
-{"label": "BTC (USD)", "value": "US$ 63.982 (-1,49%)", "tone": "negative"},
-{"label": "BTC (BRL)", "value": "R$ 327.061 (-1,49%)", "tone": "negative"}
-]
-},
-{
-"title": "Índices",
-"items": [
-{"label": "DXY", "value": "+0,28%", "tone": "negative"},
-{"label": "VIX", "value": "+3,69%", "tone": "negative"},
-{"label": "CRB", "value": "+1,03%", "tone": "positive"},
-{"label": "EWZ", "value": "-2,05%", "tone": "negative"}
-]
-},
-{
-"title": "ADR",
-"items": [
-{"label": "Vale", "value": "-0,91%", "tone": "negative"},
-{"label": "Petrobras", "value": "N/D", "tone": "neutral"}
-]
-},
-{
-"title": "Futuros Americanos",
-"items": [
-{"label": "S&P 500", "value": "+0,10%", "tone": "positive"},
-{"label": "Nasdaq", "value": "+0,26%", "tone": "positive"},
-{"label": "Dow Jones", "value": "-0,04%", "tone": "negative"}
-]
-},
-{
-"title": "Ásia",
-"items": [
-{"label": "Nikkei 225", "value": "Fechado (feriado)", "tone": "neutral"},
-{"label": "Hang Seng", "value": "-1,10%", "tone": "negative"},
-{"label": "CSI 300", "value": "-0,80%", "tone": "negative"}
-]
-},
-{
-"title": "Europa",
-"items": [
-{"label": "DAX (fech. anterior)", "value": "-0,06%", "tone": "negative"},
-{"label": "FTSE 100 (fech. anterior)", "value": "+0,07%", "tone": "positive"},
-{"label": "Euro Stoxx 50 (fech. anterior)", "value": "+1,05%", "tone": "positive"}
-]
-},
-{
-"title": "Commodities",
-"items": [
-{"label": "Petróleo Brent", "value": "US$ 87,32", "tone": "negative"},
-{"label": "Minério de ferro", "value": "+1,07%", "tone": "positive"}
-]
-},
-{
-"title": "Risco Brasil",
-"items": [
-{"label": "CDS Brasil 5a", "value": "126 pb · baixo (faixa 100-150)", "tone": "positive"}
-]
-}
-],
-"agenda": [
-{"time": "08:00", "country": "BR", "event": "Ata do Copom", "stars": 3, "actual": "-", "forecast": "-", "previous": "-"},
-{"time": "09:00", "country": "BR", "event": "IPCA (Julho)", "stars": 3, "actual": "-", "forecast": "0,03%", "previous": "-"},
-{"time": "11:00", "country": "BR", "event": "Pesquisa CNT - Cenário Eleitoral", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-{"time": "04:30", "country": "AU", "event": "Decisão de Juros RBA", "stars": 2, "actual": "4,35%", "forecast": "4,35%", "previous": "4,35%"}
-],
-"news": [
-"Ibovespa fechou a sexta baixa consecutiva, a 172.179,93 pontos (-0,19%), com Petrobras e Vale entre as poucas altas",
-"Copom reduz a Selic para 14,00% ao ano e sinaliza cautela diante da desancoragem das expectativas de inflação",
-"Esperanças de acordo entre EUA e Irã sobre o Estreito de Ormuz se esvaem após Trump exigir indenizações de Teerã",
-"BTG Pactual reporta lucro líquido de R$ 5,14 bilhões no 2T26, alta de 22,6% na comparação anual"
-]
+  "updated_at": "12/08/2026 08:30",
+  "gap_estimate": "Abertura cautelosa, Ibovespa tenta estancar sétima queda seguida à espera do CPI dos EUA",
+  "gap_tone": "neutral",
+  "summary": "Mercado brasileiro abre em compasso de espera pelo CPI de julho nos EUA, referência-chave para o próximo passo do Fed, após o mini-índice futuro encerrar a sétima sessão consecutiva em queda. O dólar opera estável perto de R$ 5,16, refletindo a cautela após o IPCA acima do esperado e o rebaixamento das ações brasileiras pelo JPMorgan. No exterior, os futuros americanos sobem com moderação, a Ásia fechou majoritariamente em alta liderada pelo Nikkei e a Europa avança puxada pelo Euro Stoxx 50, enquanto o petróleo Brent sobe pelo sexto dia seguido.",
+  "sections": [
+    {
+      "title": "Ajuste Mini Índice",
+      "items": [
+        {"label": "Ajuste", "value": "168.300", "tone": "negative"},
+        {"label": "Variação", "value": "-3.950 pts", "tone": "negative"}
+      ]
+    },
+    {
+      "title": "Moedas",
+      "items": [
+        {"label": "Dólar (USD/BRL)", "value": "R$ 5,16 (-0,04%)", "tone": "neutral"},
+        {"label": "BTC (USD)", "value": "US$ 63.850 (-0,21%)", "tone": "negative"},
+        {"label": "BTC (BRL)", "value": "R$ 329.466 (-0,21%)", "tone": "negative"}
+      ]
+    },
+    {
+      "title": "Índices",
+      "items": [
+        {"label": "DXY", "value": "+0,01%", "tone": "neutral"},
+        {"label": "VIX", "value": "-1,16%", "tone": "positive"},
+        {"label": "CRB", "value": "+0,45%", "tone": "positive"},
+        {"label": "EWZ", "value": "-1,20%", "tone": "negative"}
+      ]
+    },
+    {
+      "title": "ADR",
+      "items": [
+        {"label": "Vale", "value": "N/D", "tone": "neutral"},
+        {"label": "Petrobras", "value": "N/D", "tone": "neutral"}
+      ]
+    },
+    {
+      "title": "Futuros Americanos",
+      "items": [
+        {"label": "S&P 500", "value": "+0,10%", "tone": "positive"},
+        {"label": "Nasdaq", "value": "+0,20%", "tone": "positive"},
+        {"label": "Dow Jones", "value": "estável", "tone": "neutral"}
+      ]
+    },
+    {
+      "title": "Ásia",
+      "items": [
+        {"label": "Nikkei 225", "value": "+0,83%", "tone": "positive"},
+        {"label": "Hang Seng", "value": "-0,83%", "tone": "negative"},
+        {"label": "CSI 300", "value": "+0,32%", "tone": "positive"}
+      ]
+    },
+    {
+      "title": "Europa",
+      "items": [
+        {"label": "DAX (fech. anterior)", "value": "+0,15%", "tone": "positive"},
+        {"label": "FTSE 100 (fech. anterior)", "value": "+0,01%", "tone": "positive"},
+        {"label": "Euro Stoxx 50 (fech. anterior)", "value": "+0,26%", "tone": "positive"}
+      ]
+    },
+    {
+      "title": "Commodities",
+      "items": [
+        {"label": "Petróleo Brent", "value": "US$ 89,26", "tone": "positive"},
+        {"label": "Minério de ferro", "value": "+0,07%", "tone": "positive"}
+      ]
+    },
+    {
+      "title": "Risco Brasil",
+      "items": [
+        {"label": "CDS Brasil 5a", "value": "126 pb · baixo (faixa 100-150)", "tone": "positive"}
+      ]
+    }
+  ],
+  "agenda": [
+    {"time": "09:00", "country": "BR", "event": "Pesquisa Mensal de Serviços (Junho)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
+    {"time": "09:30", "country": "US", "event": "CPI (Julho)", "stars": 3, "actual": "-", "forecast": "0,1% m/m | 3,4% a/a", "previous": "3,5% a/a"},
+    {"time": "16:00", "country": "US", "event": "Balanço Orçamentário Federal (Julho)", "stars": 2, "actual": "-", "forecast": "-US$ 361,2 bi", "previous": "-US$ 120,0 bi"}
+  ],
+  "news": [
+    "Ibovespa acumula sete pregões seguidos de perdas e cai mais de 5,6% em agosto, pressionado por risco fiscal e político",
+    "Mini-índice futuro (WINQ26) recua pela sétima sessão consecutiva, aos 168.300 pontos, com CPI dos EUA no radar",
+    "Dólar opera estável perto de R$ 5,16 enquanto mercado aguarda o CPI de julho nos Estados Unidos",
+    "Bolsas da Ásia fecham majoritariamente em alta, lideradas pelo Nikkei, e Euro Stoxx 50 busca novo recorde na Europa"
+  ]
 }
