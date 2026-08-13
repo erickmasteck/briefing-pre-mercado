@@ -1,31 +1,31 @@
 {
-  "updated_at": "12/08/2026 08:30",
-  "gap_estimate": "Abertura cautelosa, Ibovespa tenta estancar sétima queda seguida à espera do CPI dos EUA",
+  "updated_at": "13/08/2026 08:30",
+  "gap_estimate": "Abertura mista, Ibovespa cauteloso à espera do PPI dos EUA e do varejo no Brasil",
   "gap_tone": "neutral",
-  "summary": "Mercado brasileiro abre em compasso de espera pelo CPI de julho nos EUA, referência-chave para o próximo passo do Fed, após o mini-índice futuro encerrar a sétima sessão consecutiva em queda. O dólar opera estável perto de R$ 5,16, refletindo a cautela após o IPCA acima do esperado e o rebaixamento das ações brasileiras pelo JPMorgan. No exterior, os futuros americanos sobem com moderação, a Ásia fechou majoritariamente em alta liderada pelo Nikkei e a Europa avança puxada pelo Euro Stoxx 50, enquanto o petróleo Brent sobe pelo sexto dia seguido.",
+  "summary": "Mercado brasileiro abre em compasso de espera pelo índice de preços ao produtor (PPI) dos EUA e pela pesquisa de varejo no Brasil, após o Ibovespa fechar em leve queda na quarta-feira. O dólar recua discretamente para perto de R$ 5,17, enquanto o mini-índice futuro opera perto dos 168 mil pontos. No exterior, os futuros americanos sobem com moderação, a Ásia fechou em alta firme puxada pelo Nikkei e a Europa avança perto de máximas recordes, com o petróleo Brent em leve queda.",
   "sections": [
     {
       "title": "Ajuste Mini Índice",
       "items": [
-        {"label": "Ajuste", "value": "168.300", "tone": "negative"},
-        {"label": "Variação", "value": "-3.950 pts", "tone": "negative"}
+        {"label": "Ajuste", "value": "168.017", "tone": "negative"},
+        {"label": "Variação", "value": "-283 pts", "tone": "negative"}
       ]
     },
     {
       "title": "Moedas",
       "items": [
-        {"label": "Dólar (USD/BRL)", "value": "R$ 5,16 (-0,04%)", "tone": "neutral"},
-        {"label": "BTC (USD)", "value": "US$ 63.850 (-0,21%)", "tone": "negative"},
-        {"label": "BTC (BRL)", "value": "R$ 329.466 (-0,21%)", "tone": "negative"}
+        {"label": "Dólar (USD/BRL)", "value": "R$ 5,17 (-0,08%)", "tone": "neutral"},
+        {"label": "BTC (USD)", "value": "US$ 63.799 (-0,02%)", "tone": "neutral"},
+        {"label": "BTC (BRL)", "value": "R$ 328.542 (-0,02%)", "tone": "neutral"}
       ]
     },
     {
       "title": "Índices",
       "items": [
-        {"label": "DXY", "value": "+0,01%", "tone": "neutral"},
-        {"label": "VIX", "value": "-1,16%", "tone": "positive"},
-        {"label": "CRB", "value": "+0,45%", "tone": "positive"},
-        {"label": "EWZ", "value": "-1,20%", "tone": "negative"}
+        {"label": "DXY", "value": "-0,03%", "tone": "neutral"},
+        {"label": "VIX", "value": "-4,78%", "tone": "positive"},
+        {"label": "CRB", "value": "+0,10%", "tone": "neutral"},
+        {"label": "EWZ", "value": "-1,31%", "tone": "negative"}
       ]
     },
     {
@@ -38,50 +38,50 @@
     {
       "title": "Futuros Americanos",
       "items": [
-        {"label": "S&P 500", "value": "+0,10%", "tone": "positive"},
-        {"label": "Nasdaq", "value": "+0,20%", "tone": "positive"},
-        {"label": "Dow Jones", "value": "estável", "tone": "neutral"}
+        {"label": "S&P 500", "value": "+0,14%", "tone": "positive"},
+        {"label": "Nasdaq", "value": "estável", "tone": "neutral"},
+        {"label": "Dow Jones", "value": "+0,18%", "tone": "positive"}
       ]
     },
     {
       "title": "Ásia",
       "items": [
-        {"label": "Nikkei 225", "value": "+0,83%", "tone": "positive"},
-        {"label": "Hang Seng", "value": "-0,83%", "tone": "negative"},
-        {"label": "CSI 300", "value": "+0,32%", "tone": "positive"}
+        {"label": "Nikkei 225", "value": "+4,03%", "tone": "positive"},
+        {"label": "Hang Seng", "value": "+0,10%", "tone": "positive"},
+        {"label": "CSI 300", "value": "+0,85%", "tone": "positive"}
       ]
     },
-    {
-      "title": "Europa",
-      "items": [
-        {"label": "DAX (fech. anterior)", "value": "+0,15%", "tone": "positive"},
-        {"label": "FTSE 100 (fech. anterior)", "value": "+0,01%", "tone": "positive"},
-        {"label": "Euro Stoxx 50 (fech. anterior)", "value": "+0,26%", "tone": "positive"}
-      ]
-    },
+        {
+          "title": "Europa",
+          "items": [
+            {"label": "DAX (fech. anterior)", "value": "+0,60%", "tone": "positive"},
+            {"label": "FTSE 100 (fech. anterior)", "value": "+0,10%", "tone": "positive"},
+            {"label": "Euro Stoxx 50 (fech. anterior)", "value": "+0,42%", "tone": "positive"}
+          ]
+        },
     {
       "title": "Commodities",
       "items": [
-        {"label": "Petróleo Brent", "value": "US$ 89,26", "tone": "positive"},
-        {"label": "Minério de ferro", "value": "+0,07%", "tone": "positive"}
+        {"label": "Petróleo Brent", "value": "US$ 87,99", "tone": "negative"},
+        {"label": "Minério de ferro", "value": "N/D", "tone": "neutral"}
       ]
     },
     {
       "title": "Risco Brasil",
       "items": [
-        {"label": "CDS Brasil 5a", "value": "126 pb · baixo (faixa 100-150)", "tone": "positive"}
+        {"label": "CDS Brasil 5a", "value": "N/D · moderado (faixa 150-220)", "tone": "neutral"}
       ]
     }
   ],
   "agenda": [
-    {"time": "09:00", "country": "BR", "event": "Pesquisa Mensal de Serviços (Junho)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "09:30", "country": "US", "event": "CPI (Julho)", "stars": 3, "actual": "-", "forecast": "0,1% m/m | 3,4% a/a", "previous": "3,5% a/a"},
-    {"time": "16:00", "country": "US", "event": "Balanço Orçamentário Federal (Julho)", "stars": 2, "actual": "-", "forecast": "-US$ 361,2 bi", "previous": "-US$ 120,0 bi"}
+    {"time": "06:00", "country": "EU", "event": "Produção Industrial (Junho)", "stars": 1, "actual": "-", "forecast": "-", "previous": "-"},
+    {"time": "09:00", "country": "BR", "event": "Vendas no Varejo (Junho)", "stars": 2, "actual": "-", "forecast": "0,3% m/m | 2,4% a/a", "previous": "-"},
+    {"time": "09:30", "country": "US", "event": "PPI (Julho)", "stars": 3, "actual": "-", "forecast": "-", "previous": "-"}
   ],
   "news": [
-    "Ibovespa acumula sete pregões seguidos de perdas e cai mais de 5,6% em agosto, pressionado por risco fiscal e político",
-    "Mini-índice futuro (WINQ26) recua pela sétima sessão consecutiva, aos 168.300 pontos, com CPI dos EUA no radar",
-    "Dólar opera estável perto de R$ 5,16 enquanto mercado aguarda o CPI de julho nos Estados Unidos",
-    "Bolsas da Ásia fecham majoritariamente em alta, lideradas pelo Nikkei, e Euro Stoxx 50 busca novo recorde na Europa"
+    "Ibovespa fecha em queda de 0,16% na quarta-feira, aos 167.600 pontos, pressionado por cautela fiscal",
+    "Mini-índice futuro opera perto dos 168 mil pontos nesta quinta, com PPI dos EUA e varejo no Brasil no radar",
+    "Dólar cede a R$ 5,17 na véspera da divulgação do PPI americano",
+    "Bolsas da Ásia fecham em alta firme, lideradas pelo Nikkei, enquanto Europa opera perto de recordes na Europa"
   ]
 }
