@@ -1,87 +1,90 @@
 {
-  "updated_at": "14/08/2026 08:30",
-  "gap_estimate": "Abertura cautelosa, com Ibovespa de olho no varejo dos EUA e no desemprego no Brasil após oitava queda seguida",
-  "gap_tone": "neutral",
-  "summary": "Mercado brasileiro abre em compasso de espera pelas vendas no varejo dos EUA e pela taxa de desemprego no Brasil, após o Ibovespa emendar a oitava sessão seguida de queda, aos 167.101 pontos. O dólar sobe pela quarta sessão consecutiva, a R$ 5,19, com saída de capital estrangeiro, enquanto o mini-índice futuro rompeu a sequência negativa e fechou perto dos 170.775 pontos na véspera. No exterior, Wall Street encerrou em recorde acima dos 7.800 pontos do S&P 500 após o PPI dos EUA vir abaixo do esperado, a Ásia fechou mista (Nikkei em alta, Hang Seng em queda) e a Europa também variou sem direção única, com o petróleo Brent estável perto de US$ 87.",
-  "sections": [
-    {
-      "title": "Ajuste Mini Índice",
-      "items": [
-        {"label": "Ajuste", "value": "170.775", "tone": "positive"},
-        {"label": "Variação", "value": "+359 pts", "tone": "positive"}
-      ]
-    },
-    {
-      "title": "Moedas",
-      "items": [
-        {"label": "Dólar (USD/BRL)", "value": "R$ 5,19 (+0,25%)", "tone": "negative"},
-        {"label": "BTC (USD)", "value": "US$ 63.460 (+0,10%)", "tone": "neutral"},
-        {"label": "BTC (BRL)", "value": "R$ 329.548 (+0,10%)", "tone": "neutral"}
-      ]
-    },
-    {
-      "title": "Índices",
-      "items": [
-        {"label": "DXY", "value": "-0,04%", "tone": "neutral"},
-        {"label": "VIX", "value": "+0,55%", "tone": "negative"},
-        {"label": "CRB", "value": "N/D", "tone": "neutral"},
-        {"label": "EWZ", "value": "-0,27%", "tone": "negative"}
-      ]
-    },
-    {
-      "title": "ADR",
-      "items": [
-        {"label": "Vale", "value": "N/D", "tone": "neutral"},
-        {"label": "Petrobras", "value": "N/D", "tone": "neutral"}
-      ]
-    },
-    {
-      "title": "Futuros Americanos",
-      "items": [
-        {"label": "S&P 500", "value": "+0,01%", "tone": "positive"},
-        {"label": "Nasdaq", "value": "-0,15%", "tone": "negative"},
-        {"label": "Dow Jones", "value": "+0,06%", "tone": "positive"}
-      ]
-    },
-    {
-      "title": "Ásia",
-      "items": [
-        {"label": "Nikkei 225", "value": "+0,59%", "tone": "positive"},
-        {"label": "Hang Seng", "value": "-1,10%", "tone": "negative"},
-        {"label": "CSI 300", "value": "N/D", "tone": "neutral"}
-      ]
-    },
-    {
-      "title": "Europa",
-      "items": [
-        {"label": "DAX (fech. anterior)", "value": "-0,12%", "tone": "negative"},
-        {"label": "FTSE 100 (fech. anterior)", "value": "-0,56%", "tone": "negative"},
-        {"label": "Euro Stoxx 50 (fech. anterior)", "value": "+0,20%", "tone": "positive"}
-      ]
-    },
-    {
-      "title": "Commodities",
-      "items": [
-        {"label": "Petróleo Brent", "value": "US$ 87,16", "tone": "neutral"},
-        {"label": "Minério de ferro", "value": "-0,87%", "tone": "negative"}
-      ]
-    },
-    {
-      "title": "Risco Brasil",
-      "items": [
-        {"label": "CDS Brasil 5a", "value": "N/D · moderado (faixa 150-220)", "tone": "neutral"}
-      ]
-    }
-  ],
-  "agenda": [
-    {"time": "05:00", "country": "EU", "event": "PIB (2º Tri, revisão)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "09:00", "country": "BR", "event": "Taxa de Desemprego (PNAD Contínua)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "09:30", "country": "US", "event": "Vendas no Varejo (Julho)", "stars": 3, "actual": "-", "forecast": "0,1% m/m", "previous": "-"}
-  ],
-  "news": [
-    "Ibovespa acumula oitava queda seguida e fecha aos 167.101 pontos, pressionado por temores fiscais e eleitorais",
-    "Mini-índice futuro rompe sequência negativa e sobe 0,21%, aos 170.775 pontos, na véspera",
-    "Dólar sobe pela quarta sessão seguida e vai a R$ 5,19, com saída de capital estrangeiro",
-    "S&P 500 fecha em recorde acima dos 7.800 pontos após PPI dos EUA vir abaixo do esperado"
-  ]
+    "updated_at": "17/08/2026 08:30",
+    "gap_estimate": "Abertura com viés positivo, dólar em queda e exterior favorável, mas juros locais ainda pressionam",
+    "gap_tone": "positive",
+    "summary": "O mercado brasileiro abre a semana com viés mais positivo após o Ibovespa acumular nove quedas seguidas na sexta-feira, aos 166.934 pontos. O dólar recua a R$ 5,21 nesta manhã e os juros futuros também cedem, enquanto o IBC-Br (prévia do PIB) caiu 0,6% em junho, um pouco pior que o esperado. No exterior, os futuros de Nova York sobem com o mercado reduzindo apostas de alta de juros pelo Fed em setembro, a Ásia fechou em alta puxada pelo PIB do Japão e a Europa opera positiva, enquanto o petróleo Brent sobe perto de US$ 88,85 em meio à tensão entre EUA e Irã.",
+    "sections": [
+          {
+                  "title": "Ajuste Mini Índice",
+                  "items": [
+                            {"label": "Ajuste", "value": "169.975", "tone": "negative"},
+                            {"label": "Variação", "value": "-800 pts", "tone": "negative"}
+                  ]
+          },
+          {
+                  "title": "Moedas",
+                  "items": [
+                            {"label": "Dólar (USD/BRL)", "value": "R$ 5,21 (-0,20%)", "tone": "positive"},
+                            {"label": "BTC (USD)", "value": "US$ 63.260 (-0,19%)", "tone": "negative"},
+                            {"label": "BTC (BRL)", "value": "R$ 329.584 (-0,19%)", "tone": "negative"}
+                  ]
+          },
+          {
+                  "title": "Índices",
+                  "items": [
+                            {"label": "DXY", "value": "-0,10%", "tone": "positive"},
+                            {"label": "VIX", "value": "N/D", "tone": "neutral"},
+                            {"label": "CRB", "value": "N/D", "tone": "neutral"},
+                            {"label": "EWZ", "value": "N/D", "tone": "neutral"}
+                  ]
+          },
+          {
+                  "title": "ADR",
+                  "items": [
+                            {"label": "Vale", "value": "N/D", "tone": "neutral"},
+                            {"label": "Petrobras", "value": "US$ 17,96", "tone": "neutral"}
+                  ]
+          },
+          {
+                  "title": "Futuros Americanos",
+                  "items": [
+                            {"label": "S&P 500", "value": "+0,11%", "tone": "positive"},
+                            {"label": "Nasdaq", "value": "+0,34%", "tone": "positive"},
+                            {"label": "Dow Jones", "value": "-0,09%", "tone": "negative"}
+                  ]
+          },
+          {
+                  "title": "Ásia",
+                  "items": [
+                            {"label": "Nikkei 225", "value": "+0,74%", "tone": "positive"},
+                            {"label": "Hang Seng", "value": "+1,34%", "tone": "positive"},
+                            {"label": "CSI 300", "value": "N/D", "tone": "neutral"}
+                  ]
+          },
+          {
+                  "title": "Europa",
+                  "items": [
+                            {"label": "DAX (fech. anterior)", "value": "+0,15%", "tone": "positive"},
+                            {"label": "FTSE 100 (fech. anterior)", "value": "+0,01%", "tone": "positive"},
+                            {"label": "Euro Stoxx 50 (fech. anterior)", "value": "+0,26%", "tone": "positive"}
+                  ]
+          },
+          {
+                  "title": "Commodities",
+                  "items": [
+                            {"label": "Petróleo Brent", "value": "US$ 88,85", "tone": "neutral"},
+                            {"label": "Minério de ferro", "value": "N/D", "tone": "neutral"}
+                  ]
+          },
+          {
+                  "title": "Risco Brasil",
+                  "items": [
+                            {"label": "CDS Brasil 5a", "value": "N/D · baixo (~116 pts, mín. do mandato)", "tone": "positive"}
+                  ]
+          }
+    ],
+    "agenda": [
+          {"time": "06:00", "country": "EU", "event": "Índice ZEW de Sentimento Econômico", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
+          {"time": "07:45", "country": "EU", "event": "Discurso da presidente do BCE, Christine Lagarde", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
+          {"time": "08:00", "country": "BR", "event": "IGP-10 (FGV)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
+          {"time": "08:25", "country": "BR", "event": "Boletim Focus (Banco Central)", "stars": 1, "actual": "-", "forecast": "-", "previous": "-"},
+          {"time": "09:00", "country": "BR", "event": "IBC-Br (prévia do PIB, junho)", "stars": 3, "actual": "-0,6% m/m", "forecast": "-", "previous": "-"}
+    ],
+    "news": [
+          "Ibovespa acumula nona queda seguida na sexta-feira e fecha aos 166.934 pontos, pressionado por saída de estrangeiros e alta dos juros futuros",
+          "IBC-Br, prévia do PIB, cai 0,6% em junho, resultado um pouco pior que o esperado pelo mercado",
+          "Dólar recua a R$ 5,21 nesta segunda-feira, com juros futuros também em queda",
+          "Bolsas da Ásia fecham em alta após PIB do Japão crescer 1,1% no 2º trimestre; Nikkei sobe 0,74%"
+    ]
+}
 }
