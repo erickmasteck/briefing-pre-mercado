@@ -1,89 +1,88 @@
 {
-    "updated_at": "17/08/2026 08:30",
-    "gap_estimate": "Abertura com viés positivo, dólar em queda e exterior favorável, mas juros locais ainda pressionam",
-    "gap_tone": "positive",
-    "summary": "O mercado brasileiro abre a semana com viés mais positivo após o Ibovespa acumular nove quedas seguidas na sexta-feira, aos 166.934 pontos. O dólar recua a R$ 5,21 nesta manhã e os juros futuros também cedem, enquanto o IBC-Br (prévia do PIB) caiu 0,6% em junho, um pouco pior que o esperado. No exterior, os futuros de Nova York sobem com o mercado reduzindo apostas de alta de juros pelo Fed em setembro, a Ásia fechou em alta puxada pelo PIB do Japão e a Europa opera positiva, enquanto o petróleo Brent sobe perto de US$ 88,85 em meio à tensão entre EUA e Irã.",
-    "sections": [
-          {
-                  "title": "Ajuste Mini Índice",
-                  "items": [
-                            {"label": "Ajuste", "value": "169.975", "tone": "negative"},
-                            {"label": "Variação", "value": "-800 pts", "tone": "negative"}
-                  ]
-          },
-          {
-                  "title": "Moedas",
-                  "items": [
-                            {"label": "Dólar (USD/BRL)", "value": "R$ 5,21 (-0,20%)", "tone": "positive"},
-                            {"label": "BTC (USD)", "value": "US$ 63.260 (-0,19%)", "tone": "negative"},
-                            {"label": "BTC (BRL)", "value": "R$ 329.584 (-0,19%)", "tone": "negative"}
-                  ]
-          },
-          {
-                  "title": "Índices",
-                  "items": [
-                            {"label": "DXY", "value": "-0,10%", "tone": "positive"},
-                            {"label": "VIX", "value": "N/D", "tone": "neutral"},
-                            {"label": "CRB", "value": "N/D", "tone": "neutral"},
-                            {"label": "EWZ", "value": "N/D", "tone": "neutral"}
-                  ]
-          },
-          {
-                  "title": "ADR",
-                  "items": [
-                            {"label": "Vale", "value": "N/D", "tone": "neutral"},
-                            {"label": "Petrobras", "value": "US$ 17,96", "tone": "neutral"}
-                  ]
-          },
-          {
-                  "title": "Futuros Americanos",
-                  "items": [
-                            {"label": "S&P 500", "value": "+0,11%", "tone": "positive"},
-                            {"label": "Nasdaq", "value": "+0,34%", "tone": "positive"},
-                            {"label": "Dow Jones", "value": "-0,09%", "tone": "negative"}
-                  ]
-          },
-          {
-                  "title": "Ásia",
-                  "items": [
-                            {"label": "Nikkei 225", "value": "+0,74%", "tone": "positive"},
-                            {"label": "Hang Seng", "value": "+1,34%", "tone": "positive"},
-                            {"label": "CSI 300", "value": "N/D", "tone": "neutral"}
-                  ]
-          },
-          {
-                  "title": "Europa",
-                  "items": [
-                            {"label": "DAX (fech. anterior)", "value": "+0,15%", "tone": "positive"},
-                            {"label": "FTSE 100 (fech. anterior)", "value": "+0,01%", "tone": "positive"},
-                            {"label": "Euro Stoxx 50 (fech. anterior)", "value": "+0,26%", "tone": "positive"}
-                  ]
-          },
-          {
-                  "title": "Commodities",
-                  "items": [
-                            {"label": "Petróleo Brent", "value": "US$ 88,85", "tone": "neutral"},
-                            {"label": "Minério de ferro", "value": "N/D", "tone": "neutral"}
-                  ]
-          },
-          {
-                  "title": "Risco Brasil",
-                  "items": [
-                            {"label": "CDS Brasil 5a", "value": "N/D · baixo (~116 pts, mín. do mandato)", "tone": "positive"}
-                  ]
-          }
-    ],
-    "agenda": [
-          {"time": "06:00", "country": "EU", "event": "Índice ZEW de Sentimento Econômico", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-          {"time": "07:45", "country": "EU", "event": "Discurso da presidente do BCE, Christine Lagarde", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-          {"time": "08:00", "country": "BR", "event": "IGP-10 (FGV)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-          {"time": "08:25", "country": "BR", "event": "Boletim Focus (Banco Central)", "stars": 1, "actual": "-", "forecast": "-", "previous": "-"},
-          {"time": "09:00", "country": "BR", "event": "IBC-Br (prévia do PIB, junho)", "stars": 3, "actual": "-0,6% m/m", "forecast": "-", "previous": "-"}
-    ],
-    "news": [
-          "Ibovespa acumula nona queda seguida na sexta-feira e fecha aos 166.934 pontos, pressionado por saída de estrangeiros e alta dos juros futuros",
-          "IBC-Br, prévia do PIB, cai 0,6% em junho, resultado um pouco pior que o esperado pelo mercado",
-          "Dólar recua a R$ 5,21 nesta segunda-feira, com juros futuros também em queda",
-          "Bolsas da Ásia fecham em alta após PIB do Japão crescer 1,1% no 2º trimestre; Nikkei sobe 0,74%"
-    ]
+  "updated_at": "18/08/2026 08:30",
+  "gap_estimate": "Abertura pressionada, com petróleo em alta por tensão entre EUA e Irã e exterior negativo",
+  "gap_tone": "negative",
+  "summary": "O mercado brasileiro abre a terça-feira sob pressão após o Ibovespa acumular dez pregões seguidos de queda, aos 166.783 pontos, com saída de R$ 15,6 bilhões em capital estrangeiro no mês. O dólar recua a R$ 5,20 nesta manhã, mas o exterior é o principal vetor negativo: a escalada da tensão entre EUA e Irã levou o petróleo Brent a mais de US$ 91 e pressiona os futuros de Wall Street, enquanto a Ásia fecha mista com o Nikkei em forte queda de mais de 4% e a Europa opera no negativo.",
+  "sections": [
+    {
+      "title": "Ajuste Mini Índice",
+      "items": [
+        {"label": "Ajuste", "value": "169.975", "tone": "neutral"},
+        {"label": "Variação", "value": "0 pts", "tone": "neutral"}
+      ]
+    },
+    {
+      "title": "Moedas",
+      "items": [
+        {"label": "Dólar (USD/BRL)", "value": "R$ 5,20 (-0,41%)", "tone": "positive"},
+        {"label": "BTC (USD)", "value": "US$ 64.340 (+1,01%)", "tone": "positive"},
+        {"label": "BTC (BRL)", "value": "R$ 334.570 (+1,01%)", "tone": "positive"}
+      ]
+    },
+    {
+      "title": "Índices",
+      "items": [
+        {"label": "DXY", "value": "+0,23%", "tone": "negative"},
+        {"label": "VIX", "value": "-2,60%", "tone": "positive"},
+        {"label": "CRB", "value": "-1,22%", "tone": "negative"},
+        {"label": "EWZ", "value": "+0,47%", "tone": "positive"}
+      ]
+    },
+    {
+      "title": "ADR",
+      "items": [
+        {"label": "Vale", "value": "US$ 16,19 (-1,82%)", "tone": "negative"},
+        {"label": "Petrobras", "value": "US$ 18,02 (+0,73%)", "tone": "positive"}
+      ]
+    },
+    {
+      "title": "Futuros Americanos",
+      "items": [
+        {"label": "S&P 500", "value": "-0,4%", "tone": "negative"},
+        {"label": "Nasdaq", "value": "-1,1%", "tone": "negative"},
+        {"label": "Dow Jones", "value": "0,0%", "tone": "neutral"}
+      ]
+    },
+    {
+      "title": "Ásia",
+      "items": [
+        {"label": "Nikkei 225", "value": "-4,03%", "tone": "negative"},
+        {"label": "Hang Seng", "value": "+0,07%", "tone": "positive"},
+        {"label": "CSI 300", "value": "+1,61%", "tone": "positive"}
+      ]
+    },
+    {
+      "title": "Europa",
+      "items": [
+        {"label": "DAX (fech. anterior)", "value": "-0,38%", "tone": "negative"},
+        {"label": "FTSE 100 (fech. anterior)", "value": "-0,29%", "tone": "negative"},
+        {"label": "Euro Stoxx 50 (fech. anterior)", "value": "-0,19%", "tone": "negative"}
+      ]
+    },
+    {
+      "title": "Commodities",
+      "items": [
+        {"label": "Petróleo Brent", "value": "US$ 91,02", "tone": "negative"},
+        {"label": "Minério de ferro", "value": "-2,6%", "tone": "negative"}
+      ]
+    },
+    {
+      "title": "Risco Brasil",
+      "items": [
+        {"label": "CDS Brasil 5a", "value": "N/D · baixo (~116-120 pts)", "tone": "positive"}
+      ]
+    }
+  ],
+  "agenda": [
+    {"time": "07:30", "country": "US", "event": "Balanço trimestral do Home Depot (HD)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
+    {"time": "08:25", "country": "BR", "event": "Boletim Focus (Banco Central)", "stars": 1, "actual": "-", "forecast": "-", "previous": "-"},
+    {"time": "10:00", "country": "US", "event": "Índice NAHB do Mercado Imobiliário (agosto)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
+    {"time": "11:30", "country": "US", "event": "Discursos de dirigentes do Federal Reserve", "stars": 1, "actual": "-", "forecast": "-", "previous": "-"}
+  ],
+  "news": [
+    "Ibovespa fecha décima sessão seguida de queda, aos 166.783 pontos, com saída de R$ 15,6 bi em capital estrangeiro no mês",
+    "Tensão entre EUA e Irã eleva petróleo Brent a mais de US$ 91 e pressiona futuros de Wall Street",
+    "Nikkei despenca mais de 4% na Ásia com temores de inflação puxados pela alta do petróleo",
+    "Itaú Unibanco recebe aprovação regulatória preliminar dos EUA para novo banco americano, o Itaú Bank"
+  ]
 }
