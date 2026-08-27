@@ -7,9 +7,9 @@
                       {
                                     "title": "Taxas - Frequências",
                                     "items": [
-                                                    {"label": "Nível 1", "value": "N/D", "tone": "neutral"},
-                                                    {"label": "Nível 2", "value": "N/D", "tone": "neutral"},
-                                                    {"label": "Nível 3", "value": "N/D", "tone": "neutral"}
+                                                    {"label": "Nível 1", "value":"177.125", "tone": "neutral"},
+                                                    {"label": "Nível 2", "value":"177.030", "tone": "neutral"},
+                                                    {"label": "Nível 3", "value":"176.600", "tone": "neutral"}
                                     ]
                       },
                       {
