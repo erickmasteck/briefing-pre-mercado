@@ -1,97 +1,105 @@
 {
-          "updated_at": "27/08/2026 09:00",
-          "gap_estimate": "Abertura com viés de leve alta",
-          "gap_tone": "positive",
-          "summary": "Futuros americanos operam em alta moderada após balanço bem recebido da Nvidia, com Ásia mista e Europa praticamente estável. Real levemente mais fraco e projeção local (via VIX) aponta abertura do índice futuro em torno de +0,5%, mas agenda pesada no Brasil (PNAD às 9h e contas externas às 8h30) pode mexer com o humor perto da abertura.",
-          "sections": [
-                      {
-                                    "title": "Taxas - Frequências",
-                                    "items": [
-                                                    {"label": "Nível 1", "value":"177.125", "tone": "neutral"},
-                                                    {"label": "Nível 2", "value":"177.030", "tone": "neutral"},
-                                                    {"label": "Nível 3", "value":"176.600", "tone": "neutral"}
-                                    ]
-                      },
-                      {
-                                    "title": "Ajuste Mini Índice",
-                                    "items": [
-                                                    {"label": "Fechamento anterior (contrato cheio)", "value": "177.900 pts", "tone": "neutral"},
-                                                    {"label": "Projeção de abertura (via VIX)", "value": "178.807 pts (+0,51%)", "tone": "positive"}
-                                    ]
-                      },
-                      {
-                                    "title": "Moedas",
-                                    "items": [
-                                                    {"label": "Dólar (USD/BRL)", "value": "R$ 5,15 (+0,22%)", "tone": "negative"},
-                                                    {"label": "Bitcoin (USD)", "value": "US$ 79.027 (-0,10%)", "tone": "neutral"},
-                                                    {"label": "Bitcoin (BRL)", "value": "R$ 407.100 (-0,10%)", "tone": "neutral"}
-                                    ]
-                      },
-                      {
-                                    "title": "Índices",
-                                    "items": [
-                                                    {"label": "DXY", "value": "99,16 (+0,07%)", "tone": "negative"},
-                                                    {"label": "VIX", "value": "15,0 (-1,4%)", "tone": "positive"},
-                                                    {"label": "CRB", "value": "N/D", "tone": "neutral"},
-                                                    {"label": "EWZ (pré-market)", "value": "N/D", "tone": "neutral"}
-                                    ]
-                      },
-                      {
-                                    "title": "ADR",
-                                    "items": [
-                                                    {"label": "Vale (VALE)", "value": "-0,91% pré-market", "tone": "negative"},
-                                                    {"label": "Petrobras (PBR)", "value": "-2,14% pré-market", "tone": "negative"}
-                                    ]
-                      },
-                      {
-                                    "title": "Futuros Americanos",
-                                    "items": [
-                                                    {"label": "S&P 500 (ES)", "value": "+0,38%", "tone": "positive"},
-                                                    {"label": "Dow (YM)", "value": "-0,02%", "tone": "neutral"},
-                                                    {"label": "Nasdaq (NQ)", "value": "+0,9% (após balanço da Nvidia)", "tone": "positive"}
-                                    ]
-                      },
-                      {
-                                    "title": "Ásia",
-                                    "items": [
-                                                    {"label": "Nikkei 225", "value": "+0,88%", "tone": "positive"},
-                                                    {"label": "Hang Seng", "value": "N/D", "tone": "neutral"},
-                                                    {"label": "CSI 300", "value": "N/D", "tone": "neutral"}
-                                    ]
-                      },
-                      {
-                                    "title": "Europa",
-                                    "items": [
-                                                    {"label": "DAX", "value": "+0,08%", "tone": "positive"},
-                                                    {"label": "FTSE 100", "value": "-0,07%", "tone": "neutral"},
-                                                    {"label": "Euro Stoxx 50", "value": "N/D", "tone": "neutral"}
-                                    ]
-                      },
-                      {
-                                    "title": "Commodities",
-                                    "items": [
-                                                    {"label": "Petróleo Brent", "value": "US$ 88,88 (-0,03%)", "tone": "neutral"},
-                                                    {"label": "Minério de ferro", "value": "161,91 (estável)", "tone": "neutral"}
-                                    ]
-                      },
-                      {
-                                    "title": "Risco Brasil",
-                                    "items": [
-                                                    {"label": "CDS Brasil 5 anos", "value": "N/D", "tone": "neutral"}
-                                    ]
-                      }
-          ],
-          "agenda": [
-                      {"time": "05:00", "country": "EU", "event": "M3 Money Supply (YoY)", "stars": 2, "actual": "3.4%", "forecast": "3.5%", "previous": "3.3%"},
-                      {"time": "08:30", "country": "EU", "event": "ECB Publishes Account of Monetary Policy Meeting", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-                      {"time": "08:30", "country": "BR", "event": "Current Account (USD)", "stars": 2, "actual": "-8.11B", "forecast": "-6.60B", "previous": "-2.33B"},
-                      {"time": "09:00", "country": "BR", "event": "Unemployment Rate (PNAD)", "stars": 3, "actual": "-", "forecast": "5.3%", "previous": "5.4%"},
-                      {"time": "09:00", "country": "US", "event": "Jackson Hole Symposium (abertura)", "stars": 3, "actual": "-", "forecast": "-", "previous": "-"},
-                      {"time": "09:30", "country": "US", "event": "Initial Jobless Claims", "stars": 2, "actual": "-", "forecast": "208K", "previous": "206K"}
-          ],
-          "news": [
-                      "IPCA-15 de agosto caiu 0,40%, acima da queda de 0,30% esperada pelo mercado — leitura favorável para novos cortes da Selic.",
-                      "PNAD contínua (desemprego) sai às 9h com mercado projetando 5,3%-5,4%, mesmo patamar do mês anterior; dado deve calibrar apostas para o próximo Copom.",
-                      "Petrobras e Vale devem operar hoje mais atreladas ao humor global de commodities, sem catalisador doméstico relevante no radar overnight; Ibovespa fechou ontem praticamente estável em 174.586 pts (+0,01%), sexto pregão seguido de alta."
-]
+            "updated_at": "28/08/2026 09:23",
+            "gap_estimate": "Abertura em leve alta",
+            "gap_tone": "positive",
+            "summary": "Petrobras deve puxar a abertura após decisão judicial suspender imposto de exportação sobre petróleo bruto. Exterior misto: Europa e Ásia majoritariamente positivas, futuros dos EUA levemente negativos com mercado de olho no discurso de Warsh em Jackson Hole às 11h. WIN fechou ontem em alta e risco Brasil (CDS) segue em nível baixo.",
+            "sections": [
+                          {
+                                          "title": "Taxas - Frequências",
+                                          "items": [
+                                                            {"label": "Nível 1", "value": "176.540", "tone": "neutral"},
+                                                            {"label": "Nível 2", "value": "176.065", "tone": "neutral"},
+                                                            {"label": "Nível 3", "value": "175.970", "tone": "neutral"}
+                                          ]
+                          },
+                          {
+                                          "title": "Ajuste Mini Índice",
+                                          "items": [
+                                                            {"label": "Ajuste", "value": "177.822 pts", "tone": "positive"},
+                                                            {"label": "Variação", "value": "+333 pts (+0,19%)", "tone": "positive"}
+                                          ]
+                          },
+                          {
+                                          "title": "Moedas",
+                                          "items": [
+                                                            {"label": "Dólar (USD/BRL)", "value": "R$ 5,1645 (+0,06%)", "tone": "neutral"},
+                                                            {"label": "Bitcoin (USD)", "value": "US$ 79.649,10 (+0,47%)", "tone": "positive"},
+                                                            {"label": "Bitcoin (BRL)", "value": "R$ 411.347,80 (+0,47%)", "tone": "positive"}
+                                          ]
+                          },
+                          {
+                                          "title": "Índices",
+                                          "items": [
+                                                            {"label": "DXY", "value": "99,145 (+0,05%)", "tone": "neutral"},
+                                                            {"label": "VIX", "value": "14,41 (-0,69%)", "tone": "positive"},
+                                                            {"label": "CRB", "value": "400,18 (+0,86%)", "tone": "neutral"},
+                                                            {"label": "EWZ (pré-market)", "value": "US$ 35,86 (+0,28%)", "tone": "positive"}
+                                          ]
+                          },
+                          {
+                                          "title": "ADR",
+                                          "items": [
+                                                            {"label": "Vale (pré-market NYSE)", "value": "+0,13%", "tone": "positive"},
+                                                            {"label": "Petrobras (pré-market NYSE)", "value": "+0,22%", "tone": "positive"}
+                                          ]
+                          },
+                          {
+                                          "title": "Futuros Americanos",
+                                          "items": [
+                                                            {"label": "S&P 500 (ES)", "value": "-0,02%", "tone": "negative"},
+                                                            {"label": "Dow (YM)", "value": "+0,08%", "tone": "positive"},
+                                                            {"label": "Nasdaq (NQ)", "value": "-0,32%", "tone": "negative"}
+                                          ]
+                          },
+                          {
+                                          "title": "Ásia",
+                                          "items": [
+                                                            {"label": "Nikkei 225", "value": "+0,41%", "tone": "positive"},
+                                                            {"label": "Hang Seng", "value": "+0,07%", "tone": "positive"},
+                                                            {"label": "CSI 300", "value": "-0,46%", "tone": "negative"}
+                                          ]
+                          },
+                          {
+                                          "title": "Europa",
+                                          "items": [
+                                                            {"label": "DAX", "value": "+0,56%", "tone": "positive"},
+                                                            {"label": "FTSE 100", "value": "+0,13%", "tone": "positive"},
+                                                            {"label": "Euro Stoxx 50", "value": "+0,71%", "tone": "positive"}
+                                          ]
+                          },
+                          {
+                                          "title": "Commodities",
+                                          "items": [
+                                                            {"label": "Petróleo Brent", "value": "US$ 87,87 (-0,73%)", "tone": "negative"},
+                                                            {"label": "Minério de ferro", "value": "-0,39%", "tone": "negative"}
+                                          ]
+                          },
+                          {
+                                          "title": "Risco Brasil",
+                                          "items": [
+                                                            {"label": "CDS Brasil 5 anos", "value": "118 pts · baixo", "tone": "positive"}
+                                          ]
+                          }
+            ],
+            "agenda": [
+                          {"time": "08:00", "country": "BR", "event": "IGP-M (Mensal)", "stars": 3, "actual": "-0,22%", "forecast": "-0,25%", "previous": "-1,16%"},
+                          {"time": "08:30", "country": "BR", "event": "Empréstimos Bancários (Mensal)", "stars": 2, "actual": "-", "forecast": "0,3%", "previous": "0,7%"},
+                          {"time": "09:00", "country": "US", "event": "Simpósio de Jackson Hole", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
+                          {"time": "09:00", "country": "BR", "event": "IPP (Mensal)", "stars": 2, "actual": "-0,83%", "forecast": "-", "previous": "-0,81%"},
+                          {"time": "10:45", "country": "US", "event": "PMI de Chicago", "stars": 3, "actual": "-", "forecast": "57,9", "previous": "57,6"},
+                          {"time": "11:00", "country": "US", "event": "Discurso de Warsh, Governador do Fed", "stars": 3, "actual": "-", "forecast": "-", "previous": "-"},
+                          {"time": "11:00", "country": "US", "event": "Expectativas de Inflação Michigan", "stars": 2, "actual": "-", "forecast": "4,3%", "previous": "4,2%"},
+                          {"time": "11:00", "country": "US", "event": "Expectativas de Inflação a 5 anos Michigan", "stars": 2, "actual": "-", "forecast": "3,3%", "previous": "3,3%"},
+                          {"time": "11:00", "country": "US", "event": "Índice Michigan de Percepção do Consumidor", "stars": 2, "actual": "-", "forecast": "51,0", "previous": "55,2"},
+                          {"time": "11:00", "country": "US", "event": "Confiança do Consumidor Michigan - Leitura Final", "stars": 2, "actual": "-", "forecast": "50,6", "previous": "55,4"},
+                          {"time": "11:00", "country": "US", "event": "Payrolls Benchmark, sem ajuste sazonal", "stars": 2, "actual": "-", "forecast": "-", "previous": "-862,00K"},
+                          {"time": "11:30", "country": "UK", "event": "Discurso de Mann, membro do CPM do BoE", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
+                          {"time": "12:55", "country": "EU", "event": "Pronunciamento de Schnabel, do BCE", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
+                          {"time": "14:30", "country": "BR", "event": "CAGED - Índice de Evolução de Emprego (Jul)", "stars": 3, "actual": "-", "forecast": "112,00K", "previous": "145,16K"}
+            ],
+            "news": [
+                          "Justiça suspende cobrança de imposto de 12% sobre exportação de petróleo bruto; Petrobras salta cerca de 3% e lidera altas na B3.",
+                          "Mercado de olho no discurso de Kevin Warsh em Jackson Hole às 11h (horário de Brasília) — primeiro grande pronunciamento do novo presidente do Fed.",
+                          "Ibovespa fechou a sessão de ontem (27/08) em alta de 0,31%, aos 175.135 pontos, com força de Vale e do setor bancário."
+            ]
 }
