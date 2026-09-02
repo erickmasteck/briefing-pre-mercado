@@ -1,97 +1,65 @@
 {
-  "updated_at": "01/09/2026 09:12",
-  "gap_estimate": "Abertura mista, com viés cauteloso",
-  "gap_tone": "neutral",
-  "summary": "Futuros americanos e bolsas europeias operam em leve baixa em meio às tensões no Oriente Médio, após um petroleiro ser atingido por projéteis ao deixar o Estreito de Ormuz, o que sustenta a alta do petróleo e favorece Petrobras. O risco Brasil segue baixo (121 pts) e o real se fortalece, mas o mercado local aguarda o PIB do 2º trimestre após nove altas consecutivas do Ibovespa.",
-  "sections": [
-    {
-      "title": "Taxas - Frequências",
-      "items": [
-        {"label": "Nível 1", "value": "179.885", "tone": "neutral"},
-        {"label": "Nível 2", "value": "179.790", "tone": "neutral"},
-        {"label": "Nível 3", "value": "179.360", "tone": "neutral"}
-      ]
-    },
-    {
-      "title": "Ajuste Mini Índice",
-      "items": [
-        {"label": "Ajuste (fechamento anterior)", "value": "180.075 pts (+1,35%)", "tone": "positive"}
-      ]
-    },
-    {
-      "title": "Moedas",
-      "items": [
-        {"label": "Dólar (USD/BRL)", "value": "R$ 5,18 (-0,29%)", "tone": "positive"},
-        {"label": "Bitcoin (USD)", "value": "US$ 78.770 (+0,79%)", "tone": "neutral"},
-        {"label": "Bitcoin (BRL)", "value": "R$ 408.030 (+0,79%)", "tone": "neutral"}
-      ]
-    },
-    {
-      "title": "Índices",
-      "items": [
-        {"label": "DXY", "value": "99,60 (+0,22%)", "tone": "neutral"},
-        {"label": "VIX", "value": "15,89 (+6,50%)", "tone": "negative"},
-        {"label": "CRB", "value": "488,07 (var. N/D)", "tone": "neutral"},
-        {"label": "EWZ (pré-market)", "value": "35,96 (+1,15%)", "tone": "positive"}
-      ]
-    },
-    {
-      "title": "ADR",
-      "items": [
-        {"label": "Vale (VALE) pré-market", "value": "N/D", "tone": "neutral"},
-        {"label": "Petrobras (PBR) pré-market", "value": "N/D", "tone": "neutral"}
-      ]
-    },
-    {
-      "title": "Futuros Americanos",
-      "items": [
-        {"label": "S&P 500 (ES)", "value": "-0,60%", "tone": "negative"},
-        {"label": "Dow (YM)", "value": "-0,69%", "tone": "negative"},
-        {"label": "Nasdaq (NQ)", "value": "-0,12%", "tone": "negative"}
-      ]
-    },
-    {
-      "title": "Ásia",
-      "items": [
-        {"label": "Nikkei 225", "value": "+0,25%", "tone": "positive"},
-        {"label": "Hang Seng", "value": "-0,46%", "tone": "negative"},
-        {"label": "CSI 300", "value": "-0,19%", "tone": "negative"}
-      ]
-    },
-    {
-      "title": "Europa",
-      "items": [
-        {"label": "DAX", "value": "-0,41%", "tone": "negative"},
-        {"label": "FTSE 100", "value": "-0,20%", "tone": "negative"},
-        {"label": "Euro Stoxx 50", "value": "-0,03%", "tone": "negative"}
-      ]
-    },
-    {
-      "title": "Commodities",
-      "items": [
-        {"label": "Petróleo Brent", "value": "US$ 88,29 (+0,22%)", "tone": "positive"},
-        {"label": "Minério de ferro", "value": "161,91 (var. N/D)", "tone": "neutral"}
-      ]
-    },
-    {
-      "title": "Risco Brasil",
-      "items": [
-        {"label": "CDS Brasil 5 anos", "value": "121 pts · baixo", "tone": "positive"}
-      ]
-    }
-  ],
-  "agenda": [
-    {"time": "09:00", "country": "BR", "event": "PIB (2º trimestre, QoQ)", "stars": 3, "actual": "-", "forecast": "0,4%", "previous": "1,1%"},
-    {"time": "10:00", "country": "BR", "event": "PMI Industrial (S&P Global)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "04:00", "country": "EU", "event": "PMI Industrial Final (Zona do Euro)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "04:30", "country": "UK", "event": "PMI Industrial Final", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "11:00", "country": "US", "event": "Relatório JOLTS (vagas de emprego, jul)", "stars": 3, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "11:00", "country": "US", "event": "ISM PMI Industrial", "stars": 3, "actual": "-", "forecast": "-", "previous": "-"}
-  ],
-  "news": [
-    "Petroleiro é atingido por três projéteis ao deixar o Estreito de Ormuz, elevando o petróleo Brent e pressionando o mercado global em meio às tensões EUA-Irã.",
-    "Petrobras recebe novas parcelas do Programa de Subvenção Econômica ao diesel, de R$ 1,2 bi e R$ 1,5 bi, referentes a abril e maio de 2026.",
-    "Daniel André Stieler renuncia à presidência e ao conselho de administração da Vale, com efeitos imediatos.",
-    "Ibovespa encerrou a última sessão em alta de 1,00%, aos 177.418,78 pontos, completando a nona alta consecutiva; WIN (WINV26) fechou em 180.075 pontos (+1,35%)."
-  ]
+    "updated_at": "02/09/2026 09:13",
+    "gap_estimate": "Abertura com cautela",
+    "gap_tone": "neutral",
+    "summary": "Exterior negativo, com bolsas da Asia, Europa e futuros dos EUA em queda refletindo a tensao entre EUA e Ira. O petroleo em forte alta favorece Petrobras, enquanto o dolar mais fraco sustenta o fluxo para ativos brasileiros. Ibovespa e WIN vem de dez altas consecutivas e podem testar realizacao de lucros.",
+    "sections": [
+          {"title":"Taxas - Frequencias","items":[
+                  {"label":"Nivel 1","value":"N/D","tone":"neutral"},
+                  {"label":"Nivel 2","value":"N/D","tone":"neutral"},
+                  {"label":"Nivel 3","value":"N/D","tone":"neutral"}
+          ]},
+          {"title":"Ajuste Mini Indice","items":[
+                  {"label":"Ajuste","value":"182.390 pts","tone":"positive"},
+                  {"label":"Variacao","value":"+2.254 pts (+1,25%)","tone":"positive"}
+          ]},
+          {"title":"Moedas","items":[
+                  {"label":"Dolar (USD/BRL)","value":"R$ 5,1556 - -0,47%","tone":"positive"},
+                  {"label":"Bitcoin (USD)","value":"US$ 76.830","tone":"neutral"},
+                  {"label":"Bitcoin (BRL)","value":"R$ 396.100","tone":"neutral"}
+          ]},
+          {"title":"Indices","items":[
+                  {"label":"DXY","value":"99,64 - +0,55%","tone":"negative"},
+                  {"label":"VIX","value":"14,43 - -0,55%","tone":"positive"},
+                  {"label":"CRB","value":"N/D","tone":"neutral"},
+                  {"label":"EWZ (pre-market)","value":"US$ 36,10","tone":"neutral"}
+          ]},
+          {"title":"ADR","items":[
+                  {"label":"Vale (pre-market)","value":"N/D","tone":"neutral"},
+                  {"label":"Petrobras (pre-market)","value":"N/D","tone":"neutral"}
+          ]},
+          {"title":"Futuros Americanos","items":[
+                  {"label":"S&P 500 (ES)","value":"-0,24%","tone":"negative"},
+                  {"label":"Dow (YM)","value":"-0,03%","tone":"negative"},
+                  {"label":"Nasdaq (NQ)","value":"-0,22%","tone":"negative"}
+          ]},
+          {"title":"Asia","items":[
+                  {"label":"Nikkei 225","value":"-0,30%","tone":"negative"},
+                  {"label":"Hang Seng","value":"-0,23%","tone":"negative"},
+                  {"label":"CSI 300","value":"N/D","tone":"neutral"}
+          ]},
+          {"title":"Europa","items":[
+                  {"label":"DAX","value":"-1,13%","tone":"negative"},
+                  {"label":"FTSE 100","value":"-1,08%","tone":"negative"},
+                  {"label":"Euro Stoxx 50","value":"-0,80%","tone":"negative"}
+          ]},
+          {"title":"Commodities","items":[
+                  {"label":"Petroleo Brent","value":"US$ 95,35 - +4,13%","tone":"positive"},
+                  {"label":"Minerio de Ferro","value":"-0,10%","tone":"negative"}
+          ]},
+          {"title":"Risco Brasil","items":[
+                  {"label":"CDS Brasil 5 anos","value":"N/D","tone":"neutral"}
+          ]}
+    ],
+    "agenda": [
+          {"time":"06:00","country":"BR","event":"IPC-Fipe (agosto)","stars":2,"actual":"-","forecast":"-","previous":"-"},
+          {"time":"09:00","country":"BR","event":"Producao Industrial (julho)","stars":2,"actual":"-","forecast":"-","previous":"-"},
+          {"time":"09:15","country":"US","event":"ADP Emprego Privado (agosto)","stars":3,"actual":"-","forecast":"-","previous":"-"},
+          {"time":"15:00","country":"US","event":"Fed Beige Book","stars":2,"actual":"-","forecast":"-","previous":"-"}
+    ],
+    "news": [
+          "Petrobras avancou 4,1% na sessao anterior e anunciou alta de 13,9% no preco medio de venda do QAV; producao recorde de 4,5 milhoes de bpd em julho (ANP).",
+          "Tensao entre EUA e Ira eleva o petroleo e pressiona bolsas americanas e europeias no inicio da semana.",
+          "Vale paga R$ 2,03/acao em dividendos e JCP nesta quarta; acao fechou em alta de 0,58% ontem, descolada da fraqueza das mineradoras no exterior."
+    ]
 }
