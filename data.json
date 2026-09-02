@@ -1,65 +1,65 @@
 {
-    "updated_at": "02/09/2026 09:13",
-    "gap_estimate": "Abertura com cautela",
-    "gap_tone": "neutral",
-    "summary": "Exterior negativo, com bolsas da Asia, Europa e futuros dos EUA em queda refletindo a tensao entre EUA e Ira. O petroleo em forte alta favorece Petrobras, enquanto o dolar mais fraco sustenta o fluxo para ativos brasileiros. Ibovespa e WIN vem de dez altas consecutivas e podem testar realizacao de lucros.",
-    "sections": [
-          {"title":"Taxas - Frequencias","items":[
-                  {"label":"Nivel 1","value":"N/D","tone":"neutral"},
-                  {"label":"Nivel 2","value":"N/D","tone":"neutral"},
-                  {"label":"Nivel 3","value":"N/D","tone":"neutral"}
-          ]},
-          {"title":"Ajuste Mini Indice","items":[
-                  {"label":"Ajuste","value":"182.390 pts","tone":"positive"},
-                  {"label":"Variacao","value":"+2.254 pts (+1,25%)","tone":"positive"}
-          ]},
-          {"title":"Moedas","items":[
-                  {"label":"Dolar (USD/BRL)","value":"R$ 5,1556 - -0,47%","tone":"positive"},
-                  {"label":"Bitcoin (USD)","value":"US$ 76.830","tone":"neutral"},
-                  {"label":"Bitcoin (BRL)","value":"R$ 396.100","tone":"neutral"}
-          ]},
-          {"title":"Indices","items":[
-                  {"label":"DXY","value":"99,64 - +0,55%","tone":"negative"},
-                  {"label":"VIX","value":"14,43 - -0,55%","tone":"positive"},
-                  {"label":"CRB","value":"N/D","tone":"neutral"},
-                  {"label":"EWZ (pre-market)","value":"US$ 36,10","tone":"neutral"}
-          ]},
-          {"title":"ADR","items":[
-                  {"label":"Vale (pre-market)","value":"N/D","tone":"neutral"},
-                  {"label":"Petrobras (pre-market)","value":"N/D","tone":"neutral"}
-          ]},
-          {"title":"Futuros Americanos","items":[
-                  {"label":"S&P 500 (ES)","value":"-0,24%","tone":"negative"},
-                  {"label":"Dow (YM)","value":"-0,03%","tone":"negative"},
-                  {"label":"Nasdaq (NQ)","value":"-0,22%","tone":"negative"}
-          ]},
-          {"title":"Asia","items":[
-                  {"label":"Nikkei 225","value":"-0,30%","tone":"negative"},
-                  {"label":"Hang Seng","value":"-0,23%","tone":"negative"},
-                  {"label":"CSI 300","value":"N/D","tone":"neutral"}
-          ]},
-          {"title":"Europa","items":[
-                  {"label":"DAX","value":"-1,13%","tone":"negative"},
-                  {"label":"FTSE 100","value":"-1,08%","tone":"negative"},
-                  {"label":"Euro Stoxx 50","value":"-0,80%","tone":"negative"}
-          ]},
-          {"title":"Commodities","items":[
-                  {"label":"Petroleo Brent","value":"US$ 95,35 - +4,13%","tone":"positive"},
-                  {"label":"Minerio de Ferro","value":"-0,10%","tone":"negative"}
-          ]},
-          {"title":"Risco Brasil","items":[
-                  {"label":"CDS Brasil 5 anos","value":"N/D","tone":"neutral"}
-          ]}
-    ],
-    "agenda": [
-          {"time":"06:00","country":"BR","event":"IPC-Fipe (agosto)","stars":2,"actual":"-","forecast":"-","previous":"-"},
-          {"time":"09:00","country":"BR","event":"Producao Industrial (julho)","stars":2,"actual":"-","forecast":"-","previous":"-"},
-          {"time":"09:15","country":"US","event":"ADP Emprego Privado (agosto)","stars":3,"actual":"-","forecast":"-","previous":"-"},
-          {"time":"15:00","country":"US","event":"Fed Beige Book","stars":2,"actual":"-","forecast":"-","previous":"-"}
-    ],
-    "news": [
-          "Petrobras avancou 4,1% na sessao anterior e anunciou alta de 13,9% no preco medio de venda do QAV; producao recorde de 4,5 milhoes de bpd em julho (ANP).",
-          "Tensao entre EUA e Ira eleva o petroleo e pressiona bolsas americanas e europeias no inicio da semana.",
-          "Vale paga R$ 2,03/acao em dividendos e JCP nesta quarta; acao fechou em alta de 0,58% ontem, descolada da fraqueza das mineradoras no exterior."
-    ]
+      "updated_at": "02/09/2026 09:34",
+      "gap_estimate": "Abertura com cautela",
+      "gap_tone": "neutral",
+      "summary": "Exterior negativo, com bolsas da Asia, Europa e futuros dos EUA em queda refletindo a tensao entre EUA e Ira. O petroleo em forte alta favorece Petrobras, enquanto o dolar mais fraco sustenta o fluxo para ativos brasileiros. Ibovespa e WIN vem de dez altas consecutivas e podem testar realizacao de lucros.",
+      "sections": [
+              {"title":"Taxas - Frequencias","items":[
+                        {"label":"Nivel 1","value":"182.825","tone":"neutral"},
+                        {"label":"Nivel 2","value":"182.730","tone":"neutral"},
+                        {"label":"Nivel 3","value":"182.300","tone":"neutral"}
+              ]},
+              {"title":"Ajuste Mini Indice","items":[
+                        {"label":"Ajuste","value":"182.390 pts","tone":"positive"},
+                        {"label":"Variacao","value":"+2.254 pts (+1,25%)","tone":"positive"}
+              ]},
+              {"title":"Moedas","items":[
+                        {"label":"Dolar (USD/BRL)","value":"R$ 5,1556 - -0,47%","tone":"positive"},
+                        {"label":"Bitcoin (USD)","value":"US$ 76.830","tone":"neutral"},
+                        {"label":"Bitcoin (BRL)","value":"R$ 396.100","tone":"neutral"}
+              ]},
+              {"title":"Indices","items":[
+                        {"label":"DXY","value":"99,64 - +0,55%","tone":"negative"},
+                        {"label":"VIX","value":"14,43 - -0,55%","tone":"positive"},
+                        {"label":"CRB","value":"N/D","tone":"neutral"},
+                        {"label":"EWZ (pre-market)","value":"US$ 36,10","tone":"neutral"}
+              ]},
+              {"title":"ADR","items":[
+                        {"label":"Vale (pre-market)","value":"N/D","tone":"neutral"},
+                        {"label":"Petrobras (pre-market)","value":"N/D","tone":"neutral"}
+              ]},
+              {"title":"Futuros Americanos","items":[
+                        {"label":"S&P 500 (ES)","value":"-0,24%","tone":"negative"},
+                        {"label":"Dow (YM)","value":"-0,03%","tone":"negative"},
+                        {"label":"Nasdaq (NQ)","value":"-0,22%","tone":"negative"}
+              ]},
+              {"title":"Asia","items":[
+                        {"label":"Nikkei 225","value":"-0,30%","tone":"negative"},
+                        {"label":"Hang Seng","value":"-0,23%","tone":"negative"},
+                        {"label":"CSI 300","value":"N/D","tone":"neutral"}
+              ]},
+              {"title":"Europa","items":[
+                        {"label":"DAX","value":"-1,13%","tone":"negative"},
+                        {"label":"FTSE 100","value":"-1,08%","tone":"negative"},
+                        {"label":"Euro Stoxx 50","value":"-0,80%","tone":"negative"}
+              ]},
+              {"title":"Commodities","items":[
+                        {"label":"Petroleo Brent","value":"US$ 95,35 - +4,13%","tone":"positive"},
+                        {"label":"Minerio de Ferro","value":"-0,10%","tone":"negative"}
+              ]},
+              {"title":"Risco Brasil","items":[
+                        {"label":"CDS Brasil 5 anos","value":"N/D","tone":"neutral"}
+              ]}
+      ],
+      "agenda": [
+              {"time":"06:00","country":"BR","event":"IPC-Fipe (agosto)","stars":2,"actual":"-","forecast":"-","previous":"-"},
+              {"time":"09:00","country":"BR","event":"Producao Industrial (julho)","stars":2,"actual":"-","forecast":"-","previous":"-"},
+              {"time":"09:15","country":"US","event":"ADP Emprego Privado (agosto)","stars":3,"actual":"-","forecast":"-","previous":"-"},
+              {"time":"15:00","country":"US","event":"Fed Beige Book","stars":2,"actual":"-","forecast":"-","previous":"-"}
+      ],
+      "news": [
+              "Petrobras avancou 4,1% na sessao anterior e anunciou alta de 13,9% no preco medio de venda do QAV; producao recorde de 4,5 milhoes de bpd em julho (ANP).",
+              "Tensao entre EUA e Ira eleva o petroleo e pressiona bolsas americanas e europeias no inicio da semana.",
+              "Vale paga R$ 2,03/acao em dividendos e JCP nesta quarta; acao fechou em alta de 0,58% ontem, descolada da fraqueza das mineradoras no exterior."
+      ]
 }
