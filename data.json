@@ -1,1 +1,97 @@
-{"updated_at": "09/09/2026 08:45", "gap_estimate": "Abertura mista, com viés levemente positivo", "gap_tone": "positive", "summary": "Futuros americanos operam em queda com tensão EUA-Irã pressionando o petróleo para cima de US$ 97/barril. Ásia e Europa mistas, mas minério de ferro em alta, CDS Brasil no menor patamar em anos e EWZ subindo no pré-mercado sugerem viés levemente favorável para o Ibovespa/WIN na abertura.", "sections": [{"title": "Taxas - Frequências", "items": [{"label": "Nível 1", "value": "189.830", "tone": "neutral"}, {"label": "Nível 2", "value": "189.735", "tone": "neutral"}, {"label": "Nível 3", "value": "189.305", "tone": "neutral"}]}, {"title": "Ajuste Mini Índice", "items": [{"label": "Ajuste WINV26", "value": "190.025 pts (+1,32%)", "tone": "positive"}]}, {"title": "Moedas", "items": [{"label": "Dólar (USD/BRL)", "value": "R$ 5,12 (-0,10%)", "tone": "positive"}, {"label": "Bitcoin (USD)", "value": "US$ 79.658 (+1,55%)", "tone": "neutral"}, {"label": "Bitcoin (BRL)", "value": "R$ 401.186 (-1,27%)", "tone": "neutral"}]}, {"title": "Índices", "items": [{"label": "DXY", "value": "98,843 (-0,04%)", "tone": "positive"}, {"label": "VIX", "value": "14,53 (+1,47%)", "tone": "negative"}, {"label": "CRB", "value": "400,18 (+0,86%)", "tone": "positive"}, {"label": "EWZ (pré-mercado)", "value": "US$ 38,28 (+1,11%)", "tone": "positive"}]}, {"title": "ADR", "items": [{"label": "Vale (VALE)", "value": "-2,61%", "tone": "negative"}, {"label": "Petrobras (PBR)", "value": "-1,90%", "tone": "negative"}]}, {"title": "Futuros Americanos", "items": [{"label": "S&P 500 (ES)", "value": "-0,32%", "tone": "negative"}, {"label": "Dow (YM)", "value": "-0,50%", "tone": "negative"}, {"label": "Nasdaq (NQ)", "value": "-0,47%", "tone": "negative"}]}, {"title": "Ásia", "items": [{"label": "Nikkei 225", "value": "-0,30%", "tone": "negative"}, {"label": "Hang Seng", "value": "+1,21%", "tone": "positive"}, {"label": "CSI 300", "value": "+0,73%", "tone": "positive"}]}, {"title": "Europa", "items": [{"label": "DAX", "value": "-0,11%", "tone": "negative"}, {"label": "FTSE 100", "value": "+0,21%", "tone": "positive"}, {"label": "Euro Stoxx 50", "value": "N/D", "tone": "neutral"}]}, {"title": "Commodities", "items": [{"label": "Petróleo Brent", "value": "US$ 97,72/barril (+0,34%)", "tone": "positive"}, {"label": "Minério de ferro", "value": "+1,36% (Dalian)", "tone": "positive"}]}, {"title": "Risco Brasil", "items": [{"label": "CDS Brasil 5 anos", "value": "126 pts · baixo", "tone": "positive"}]}], "agenda": [{"time": "09:15", "country": "US", "event": "Variação Semanal de Empregos ADP", "stars": 2, "actual": "-", "forecast": "-", "previous": "11,80K"}, {"time": "12:00", "country": "BR", "event": "Confiança do Consumidor Reuters/Ipsos", "stars": 2, "actual": "-", "forecast": "-", "previous": "53,38"}, {"time": "14:00", "country": "US", "event": "Leilão de Treasury Note de 10 anos", "stars": 2, "actual": "-", "forecast": "-", "previous": "4,683%"}, {"time": "14:00", "country": "DE", "event": "Discurso de Nagel (Bundesbank)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"}, {"time": "14:00", "country": "EU", "event": "Discurso de Lagarde (BCE)", "stars": 3, "actual": "-", "forecast": "-", "previous": "-"}, {"time": "14:30", "country": "BR", "event": "Fluxo Cambial Estrangeiro", "stars": 2, "actual": "-", "forecast": "-", "previous": "-0,542B"}], "news": ["Dow Jones despencou 628 pontos na véspera, pressionado por Amgen e alta dos yields dos Treasuries", "Petróleo Brent ultrapassa US$ 99 em meio à escalada das tensões entre EUA e Irã, pressionando futuros americanos", "Petrobras aprova pagamento de R$ 9 bilhões em JCP aos acionistas, com pagamento previsto para 21/09"]}
+{
+    "updated_at": "09/09/2026 09:00",
+    "gap_estimate": "Abertura pressionada, viés de baixa",
+    "gap_tone": "negative",
+    "summary": "Petróleo dispara para perto de US$ 100/barril após ataques a infraestrutura de energia saudita e escalada EUA-Irã, favorecendo Petrobras mas alimentando aversão a risco global. Futuros nos EUA caem, VIX sobe forte e Ásia/Europa operam majoritariamente no vermelho. Ibovespa já abre em queda nesta quarta após 11ª alta seguida na terça.",
+    "sections": [
+          {
+                  "title": "Taxas - Frequências",
+                  "items": [
+                            {"label": "Nível 1", "value": "189.830", "tone": "neutral"},
+                            {"label": "Nível 2", "value": "189.735", "tone": "neutral"},
+                            {"label": "Nível 3", "value": "189.305", "tone": "neutral"}
+                  ]
+          },
+          {
+                  "title": "Ajuste Mini Índice",
+                  "items": [
+                            {"label": "Ajuste (pontos)", "value": "≈189.800 pts", "tone": "positive"},
+                            {"label": "Variação vs. fechamento anterior", "value": "+2.433 pts (+1,30%)", "tone": "positive"}
+                  ]
+          },
+          {
+                  "title": "Moedas",
+                  "items": [
+                            {"label": "Dólar (USD/BRL)", "value": "R$ 5,0840 (-0,82%)", "tone": "positive"},
+                            {"label": "Bitcoin (USD)", "value": "US$ 79.279 (-0,38%)", "tone": "neutral"},
+                            {"label": "Bitcoin (BRL)", "value": "R$ 406.319 (-0,38%)", "tone": "neutral"}
+                  ]
+          },
+          {
+                  "title": "Índices",
+                  "items": [
+                            {"label": "DXY", "value": "98,77 (-0,01%)", "tone": "neutral"},
+                            {"label": "VIX", "value": "16,49 (+4,90%)", "tone": "negative"},
+                            {"label": "CRB", "value": "N/D", "tone": "neutral"},
+                            {"label": "EWZ (pré-market)", "value": "N/D", "tone": "neutral"}
+                  ]
+          },
+          {
+                  "title": "ADR",
+                  "items": [
+                            {"label": "Vale (VALE)", "value": "US$ 15,50 (-0,91% pré-market)", "tone": "negative"},
+                            {"label": "Petrobras (PBR)", "value": "N/D", "tone": "neutral"}
+                  ]
+          },
+          {
+                  "title": "Futuros Americanos",
+                  "items": [
+                            {"label": "S&P 500 (ES)", "value": "7.648,10 (-0,33%)", "tone": "negative"},
+                            {"label": "Dow (YM)", "value": "52.499,80 (-0,55%)", "tone": "negative"},
+                            {"label": "Nasdaq (NQ)", "value": "29.400 (-0,47%)", "tone": "negative"}
+                  ]
+          },
+          {
+                  "title": "Ásia",
+                  "items": [
+                            {"label": "Nikkei 225", "value": "65.090 (-0,27%)", "tone": "negative"},
+                            {"label": "Hang Seng", "value": "25.280 (-0,20%)", "tone": "negative"},
+                            {"label": "CSI 300", "value": "4.564,42 (+0,12%)", "tone": "positive"}
+                  ]
+          },
+          {
+                  "title": "Europa",
+                  "items": [
+                            {"label": "DAX", "value": "25.662 (-1,30%)", "tone": "negative"},
+                            {"label": "FTSE 100", "value": "10.746 (-0,60%)", "tone": "negative"},
+                            {"label": "Euro Stoxx 50", "value": "+0,4% (futuros)", "tone": "positive"}
+                  ]
+          },
+          {
+                  "title": "Commodities",
+                  "items": [
+                            {"label": "Petróleo Brent", "value": "US$ 100,50 (+2,63%)", "tone": "positive"},
+                            {"label": "Minério de Ferro", "value": "-0,65%", "tone": "negative"}
+                  ]
+          },
+          {
+                  "title": "Risco Brasil",
+                  "items": [
+                            {"label": "CDS Brasil 5 anos", "value": "N/D", "tone": "neutral"}
+                  ]
+          }
+    ],
+    "agenda": [
+          {"time": "09:15", "country": "US", "event": "Variação Semanal de Empregos ADP", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
+          {"time": "12:00", "country": "US", "event": "Confiança do Consumidor Reuters/Ipsos", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
+          {"time": "14:00", "country": "US", "event": "Leilão de Treasury Note de 10 anos", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
+          {"time": "14:30", "country": "BR", "event": "Fluxo Cambial Semanal (Banco Central)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"}
+    ],
+    "news": [
+          "Petróleo Brent dispara para perto de US$ 100/barril após ataques a infraestrutura de energia saudita e escalada das tensões entre EUA e Irã, pressionando os mercados globais.",
+          "Ibovespa fechou a terça-feira (8/9) em alta de +1,20%, aos 187.366,84 pts, com avanço do 'trade eleitoral' após pesquisas mostrarem disputa mais acirrada entre Lula e Flávio Bolsonaro em eventual 2º turno.",
+          "China: CPI de agosto acelera para 0,8% a.a. (ante 0,5% em julho) e PPI sobe 3,8% a.a., impulsionados por custos de energia e demanda por tecnologia.",
+          "Vale teria suspendido o IPO de sua unidade de metais básicos, segundo apuração de mercado.",
+          "Petrobras aprovou pagamento de R$ 9 bilhões em remuneração aos acionistas, com JCP de R$ 0,350486/ação a ser pago em 21/09."
+    ]
+}
