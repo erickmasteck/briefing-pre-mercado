@@ -1,1 +1,307 @@
-{"updated_at":"17/09/2026 09:25","gap_estimate":"Abertura em alta (EWZ +1,4%; Ibov fechou em 185.548)","gap_tone":"positive","summary":"Cenário externo favorável ao Brasil: futuros americanos sobem forte (Nasdaq +1,07%), o VIX despenca 11,5% e o EWZ avança 1,39% no pré-market de NY. O dólar recua 0,43% frente ao real e o CDS de 5 anos segue baixo, em 112 pts. O contraponto é o Brent em queda de 3,7%, que deve pressionar Petrobras na abertura.","sections":[{"title":"Taxas - Frequências","items":[{"label":"Nível 1","value":"188.235","tone":"neutral"},{"label":"Nível 2","value":"188.140","tone":"neutral"},{"label":"Nível 3","value":"187.710","tone":"neutral"}]},{"title":"Ajuste Mini Índice","items":[{"label":"Ajuste","value":"187.935 pts","tone":"negative"},{"label":"Variação","value":"-458 pts","tone":"negative"}]},{"title":"Moedas","items":[{"label":"Dólar (USD/BRL)","value":"R$ 5,1303 · -0,43%","tone":"positive"},{"label":"Bitcoin (USD)","value":"US$ 76.366 · +0,27%","tone":"positive"},{"label":"Bitcoin (BRL)","value":"R$ 393.861 · +0,43%","tone":"positive"}]},{"title":"Índices","items":[{"label":"DXY","value":"99,89 · -0,09%","tone":"positive"},{"label":"VIX","value":"15,67 · -11,52%","tone":"positive"},{"label":"CRB (commodities)","value":"426,14 · -0,69%","tone":"negative"},{"label":"EWZ (pré-market)","value":"US$ 38,00 · +1,39%","tone":"positive"}]},{"title":"ADR","items":[{"label":"Vale (VALE)","value":"US$ 14,39 · +1,84%","tone":"positive"},{"label":"Petrobras (PBR)","value":"US$ 20,82 · -0,45%","tone":"negative"}]},{"title":"Futuros Americanos","items":[{"label":"S&P 500 (ES)","value":"+0,81%","tone":"positive"},{"label":"Dow (YM)","value":"+0,75%","tone":"positive"},{"label":"Nasdaq (NQ)","value":"+1,07%","tone":"positive"}]},{"title":"Ásia","items":[{"label":"Nikkei 225","value":"64.136 · +0,33%","tone":"positive"},{"label":"Hang Seng","value":"24.604 · -0,44%","tone":"negative"},{"label":"CSI 300","value":"4.460 · -0,45%","tone":"negative"}]},{"title":"Europa","items":[{"label":"DAX","value":"25.706 · +0,57%","tone":"positive"},{"label":"FTSE 100","value":"10.735 · +0,43%","tone":"positive"},{"label":"Euro Stoxx 50","value":"6.312 · +0,73%","tone":"positive"}]},{"title":"Commodities","items":[{"label":"Petróleo Brent","value":"US$ 101,87 · -3,74%","tone":"negative"},{"label":"Minério de ferro 62%","value":"US$ 97,41 · 0,00% (ref. 16/09)","tone":"neutral"}]},{"title":"Risco Brasil","items":[{"label":"CDS Brasil 5 anos","value":"112 pts · baixo","tone":"positive"}]}],"agenda":[{"time":"04:00","country":"EU","event":"Pronunciamento de Lane (BCE)","stars":2,"actual":"-","forecast":"-","previous":"-"},{"time":"06:00","country":"EU","event":"IPC Zona do Euro (Anual) (Ago)","stars":3,"actual":"3,2%","forecast":"3,3%","previous":"2,9%"},{"time":"06:00","country":"EU","event":"IPC-núcleo (Anual) (Ago)","stars":3,"actual":"2,4%","forecast":"2,4%","previous":"2,5%"},{"time":"08:00","country":"UK","event":"Decisão de Juros do BoE (Set)","stars":3,"actual":"3,75%","forecast":"3,75%","previous":"3,75%"},{"time":"08:00","country":"UK","event":"Atas da Reunião do MPC","stars":2,"actual":"-","forecast":"-","previous":"-"},{"time":"09:30","country":"US","event":"Pedidos Iniciais por Seguro-Desemprego","stars":3,"actual":"-","forecast":"207K","previous":"206K"},{"time":"09:30","country":"US","event":"Índice de Atividade Industrial Fed Filadélfia (Set)","stars":3,"actual":"-","forecast":"31,3","previous":"47,4"},{"time":"09:30","country":"US","event":"Construção de Novas Casas (Ago)","stars":3,"actual":"-","forecast":"1,320M","previous":"1,239M"},{"time":"09:30","country":"US","event":"Licenças de Construção (Ago)","stars":3,"actual":"-","forecast":"1,400M","previous":"1,433M"},{"time":"11:00","country":"US","event":"Vendas Pendentes de Moradias (Mensal) (Ago)","stars":2,"actual":"-","forecast":"-0,2%","previous":"-2,3%"},{"time":"11:30","country":"US","event":"Estoques de Gás Natural","stars":2,"actual":"-","forecast":"49B","previous":"40B"},{"time":"20:01","country":"UK","event":"Confiança do Consumidor GfK (Set)","stars":2,"actual":"-","forecast":"-16","previous":"-14"}],"news":["Petróleo em forte queda: Brent recua 3,74%, a US$ 101,87, com a Arábia Saudita se mobilizando para restaurar oleoduto vital (InfoMoney)","Ibovespa Futuro sobe no pré-mercado enquanto o mercado digere a decisão do Banco Central e novas pesquisas eleitorais","Petrobras liderou as perdas na véspera (PETR3 -4,27%, PETR4 -3,53%); o ADR PBR cai 0,45% no pré-market de NY com o petróleo pressionado","Vale recuou 2,14% ontem, mas o ADR VALE sobe 1,84% no pré-market e o EWZ avança 1,39%, sinalizando apetite por Brasil","IPC da Zona do Euro (Ago) veio a 3,2% a/a, abaixo da projeção de 3,3%; o BoE manteve a taxa em 3,75%, como esperado"]}
+{
+  "updated_at": "18/09/2026 09:30",
+  "gap_estimate": "Abertura em leve baixa",
+  "gap_tone": "negative",
+  "summary": "Europa abre em forte queda (DAX -1,3%, Euro Stoxx -1,4%) e futuros americanos oscilam perto da estabilidade no dia seguinte à primeira alta de juros do Fed em três anos. Dólar sobe a R$ 5,14 e ADRs de Vale e Petrobras operam no negativo no pré-market, o que pesa contra o Ibovespa, que fechou quinta perto da máxima histórica aos 185.992 pts. Ásia fechou em alta e o CDS Brasil segue baixo (111 pts), limitando o movimento de baixa.",
+  "sections": [
+    {
+      "title": "Taxas - Frequências",
+      "items": [
+        {
+          "label": "Nível 1",
+          "value": "185.650",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nível 2",
+          "value": "185.175",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nível 3",
+          "value": "185.080",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ajuste Mini Índice",
+      "items": [
+        {
+          "label": "Ajuste (pontos)",
+          "value": "187.733 pts",
+          "tone": "positive"
+        },
+        {
+          "label": "Variação (pontos)",
+          "value": "+497 pts (+0,27%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Moedas",
+      "items": [
+        {
+          "label": "Dólar (USD/BRL)",
+          "value": "R$ 5,1404 (+0,29%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Bitcoin (USD)",
+          "value": "US$ 77.968 (+2,05%)",
+          "tone": "positive"
+        },
+        {
+          "label": "Bitcoin (BRL)",
+          "value": "R$ 400.824 (+2,35%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Índices",
+      "items": [
+        {
+          "label": "DXY",
+          "value": "100,25 (+0,26%)",
+          "tone": "negative"
+        },
+        {
+          "label": "VIX",
+          "value": "15,58 (+0,91%)",
+          "tone": "negative"
+        },
+        {
+          "label": "CRB (commodities)",
+          "value": "547,61 (-0,15%)",
+          "tone": "negative"
+        },
+        {
+          "label": "EWZ (pré-market)",
+          "value": "US$ 37,77 (+0,07%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "ADR",
+      "items": [
+        {
+          "label": "Vale (VALE)",
+          "value": "US$ 14,42 (-0,35%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Petrobras (PBR)",
+          "value": "US$ 20,90 (-0,19%)",
+          "tone": "negative"
+        }
+      ]
+    },
+    {
+      "title": "Futuros Americanos",
+      "items": [
+        {
+          "label": "S&P 500 (ES)",
+          "value": "-0,02%",
+          "tone": "neutral"
+        },
+        {
+          "label": "Dow (YM)",
+          "value": "-0,24%",
+          "tone": "negative"
+        },
+        {
+          "label": "Nasdaq (NQ)",
+          "value": "+0,19%",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Ásia",
+      "items": [
+        {
+          "label": "Nikkei 225",
+          "value": "+1,38%",
+          "tone": "positive"
+        },
+        {
+          "label": "Hang Seng",
+          "value": "+0,60%",
+          "tone": "positive"
+        },
+        {
+          "label": "CSI 300",
+          "value": "+1,06%",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Europa",
+      "items": [
+        {
+          "label": "DAX",
+          "value": "-1,28%",
+          "tone": "negative"
+        },
+        {
+          "label": "FTSE 100",
+          "value": "-1,19%",
+          "tone": "negative"
+        },
+        {
+          "label": "Euro Stoxx 50",
+          "value": "-1,35%",
+          "tone": "negative"
+        }
+      ]
+    },
+    {
+      "title": "Commodities",
+      "items": [
+        {
+          "label": "Petróleo Brent",
+          "value": "US$ 103,81 (-0,96%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Minério de ferro 62%",
+          "value": "US$ 97,42 (+0,01%)",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Risco Brasil",
+      "items": [
+        {
+          "label": "CDS Brasil 5 anos",
+          "value": "111 pts · baixo",
+          "tone": "positive"
+        }
+      ]
+    }
+  ],
+  "agenda": [
+    {
+      "time": "00:00",
+      "country": "JP",
+      "event": "Decisão de juros do BoJ",
+      "stars": 3,
+      "actual": "1,25%",
+      "forecast": "1,25%",
+      "previous": "1,00%"
+    },
+    {
+      "time": "03:00",
+      "country": "UK",
+      "event": "Vendas no Varejo (Mensal) (Ago)",
+      "stars": 2,
+      "actual": "0,5%",
+      "forecast": "-0,2%",
+      "previous": "-0,5%"
+    },
+    {
+      "time": "03:00",
+      "country": "UK",
+      "event": "Núcleo de Vendas no Varejo (Mensal) (Ago)",
+      "stars": 2,
+      "actual": "0,6%",
+      "forecast": "-0,2%",
+      "previous": "-0,9%"
+    },
+    {
+      "time": "03:00",
+      "country": "EU",
+      "event": "IPP Alemanha (Mensal) (Ago)",
+      "stars": 2,
+      "actual": "1,1%",
+      "forecast": "0,6%",
+      "previous": "1,1%"
+    },
+    {
+      "time": "07:30",
+      "country": "EU",
+      "event": "Discurso de Christine Lagarde (BCE)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "09:00",
+      "country": "CA",
+      "event": "Preços de Novas Casas (Mensal)",
+      "stars": 2,
+      "actual": "-0,1%",
+      "forecast": "-",
+      "previous": "-0,1%"
+    },
+    {
+      "time": "10:15",
+      "country": "US",
+      "event": "Produção Industrial (Mensal) (Ago)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "0,3%",
+      "previous": "0,2%"
+    },
+    {
+      "time": "10:15",
+      "country": "US",
+      "event": "Utilização da Capacidade Instalada (Ago)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "76,4%",
+      "previous": "76,3%"
+    },
+    {
+      "time": "10:30",
+      "country": "US",
+      "event": "Discurso de Bowman (FOMC)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "11:00",
+      "country": "US",
+      "event": "Índice de Indicadores Antecedentes (Mensal) (Ago)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "0,1%",
+      "previous": "0,2%"
+    },
+    {
+      "time": "12:45",
+      "country": "US",
+      "event": "Discurso de Schmid (Fed)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "14:00",
+      "country": "US",
+      "event": "Contagem de Sondas Baker Hughes",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "450"
+    }
+  ],
+  "news": [
+    "Fed elevou os juros na quarta-feira, a primeira alta em três anos; ainda assim Wall Street fechou quinta em alta (Nasdaq +1,69%, S&P 500 +1,14%, Dow +0,61%).",
+    "Bolsas europeias devolvem ganhos nesta manhã e recuam entre 1,1% e 1,6%, com bancos (-1,7%) e automotivas (-1,7%) liderando as perdas no STOXX 600.",
+    "Petrobras: produção de petróleo atingiu 2,92 milhões de barris/dia em agosto, alta de 4% ante julho, segundo dados preliminares da ANP; a ação renovou máxima histórica nesta semana.",
+    "Vale: frete de minério de ferro Brasil-China mais que dobrou e a MySteel apontou queda forte no percentual de siderúrgicas chinesas lucrativas desde o início de setembro, pressionando a demanda pelo minério.",
+    "Banco do Japão manteve a taxa em 1,25%, em linha com o consenso, e o Nikkei fechou em alta de 1,38%.",
+    "Ibovespa fechou quinta aos 185.992,03 pontos (+0,24%), acumulando alta de 4,83% em setembro; dólar recuou a R$ 5,13.",
+    "Sexta-feira de triple witching nos EUA: vencimento mensal de opções tende a elevar a volatilidade no fechamento."
+  ]
+}
