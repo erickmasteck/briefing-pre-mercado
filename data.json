@@ -1,96 +1,99 @@
 {
-    "updated_at": "25/09/2026 17:38",
-    "gap_estimate": "Abertura com viés levemente negativo",
-    "gap_tone": "negative",
-    "summary": "Futuros americanos operam mistos, com S&P 500 e Nasdaq recuando e o Dow em leve alta; na Ásia, Nikkei sobe forte enquanto Hang Seng cai. O IPCA-15 de setembro veio acima do esperado (0,70% vs 0,55%), reforçando cautela com juros no Brasil, mesmo com o CDS de 5 anos em nível baixo (112 pts). O WIN encerrou a véspera em queda de 0,93%, aos 184.980 pontos, cenário que aponta para abertura cautelosa.",
-    "sections": [
-          {
-                  "title": "Taxas - Frequências",
-                  "items": [
-                            {"label": "Nível 1", "value": "184.785", "tone": "neutral"},
-                            {"label": "Nível 2", "value": "184.690", "tone": "neutral"},
-                            {"label": "Nível 3", "value": "184.260", "tone": "neutral"}
-                  ]
-          },
-          {
-                  "title": "Ajuste Mini Índice",
-                  "items": [
-                            {"label": "Ajuste", "value": "184.980 pts", "tone": "negative"},
-                            {"label": "Variação", "value": "-1.730 pts (-0,93%)", "tone": "negative"}
-                  ]
-          },
-          {
-                  "title": "Moedas",
-                  "items": [
-                            {"label": "Dólar (USD/BRL)", "value": "R$ 5,1950 (+0,05%)", "tone": "negative"},
-                            {"label": "Bitcoin (USD)", "value": "US$ 84.108 (+2,0%)", "tone": "positive"},
-                            {"label": "Bitcoin (BRL)", "value": "R$ 438.394 (+2,0%)", "tone": "positive"}
-                  ]
-          },
-          {
-                  "title": "Índices",
-                  "items": [
-                            {"label": "DXY", "value": "N/D", "tone": "neutral"},
-                            {"label": "VIX", "value": "15,61 pts (-0,38%)", "tone": "positive"},
-                            {"label": "CRB", "value": "N/D", "tone": "neutral"},
-                            {"label": "EWZ", "value": "N/D", "tone": "neutral"}
-                  ]
-          },
-          {
-                  "title": "ADR",
-                  "items": [
-                            {"label": "Vale (NYSE)", "value": "-0,91% (pré-mercado)", "tone": "negative"},
-                            {"label": "Petrobras (NYSE)", "value": "N/D", "tone": "neutral"}
-                  ]
-          },
-          {
-                  "title": "Futuros Americanos",
-                  "items": [
-                            {"label": "S&P 500 (ES)", "value": "-0,6%", "tone": "negative"},
-                            {"label": "Dow (YM)", "value": "+0,18%", "tone": "positive"},
-                            {"label": "Nasdaq (NQ)", "value": "-1,0%", "tone": "negative"}
-                  ]
-          },
-          {
-                  "title": "Ásia",
-                  "items": [
-                            {"label": "Nikkei 225", "value": "+1,30%", "tone": "positive"},
-                            {"label": "Hang Seng", "value": "-1,01%", "tone": "negative"},
-                            {"label": "CSI 300", "value": "N/D", "tone": "neutral"}
-                  ]
-          },
-          {
-                  "title": "Europa",
-                  "items": [
-                            {"label": "DAX", "value": "+0,16%", "tone": "positive"},
-                            {"label": "FTSE 100", "value": "+0,02%", "tone": "positive"},
-                            {"label": "Euro Stoxx 50", "value": "+0,05%", "tone": "positive"}
-                  ]
-          },
-          {
-                  "title": "Commodities",
-                  "items": [
-                            {"label": "Petróleo Brent", "value": "US$ 99,97/barril", "tone": "neutral"},
-                            {"label": "Minério de ferro", "value": "N/D", "tone": "neutral"}
-                  ]
-          },
-          {
-                  "title": "Risco Brasil",
-                  "items": [
-                            {"label": "CDS Brasil 5 anos", "value": "112 pts · baixo", "tone": "positive"}
-                  ]
-          }
-    ],
-    "agenda": [
-          {"time": "03:00", "country": "EU", "event": "Oferta Monetária M3 (a.a.)", "stars": 2, "actual": "3,5%", "forecast": "3,5%", "previous": "3,4%"},
-          {"time": "09:00", "country": "BR", "event": "IPCA-15 (setembro)", "stars": 3, "actual": "0,70%", "forecast": "0,55%", "previous": "-0,40%"},
-          {"time": "09:30", "country": "US", "event": "Encomendas de Bens Duráveis (m/m)", "stars": 2, "actual": "0,0%", "forecast": "-0,4%", "previous": "N/D"},
-          {"time": "11:00", "country": "US", "event": "Confiança do Consumidor Michigan (final)", "stars": 2, "actual": "48,1", "forecast": "47,6", "previous": "51,7"},
-          {"time": "20:01", "country": "UK", "event": "Confiança do Consumidor GfK (set.)", "stars": 2, "actual": "-13", "forecast": "-16", "previous": "-14"}
-    ],
-    "news": [
-          "IPCA-15 de setembro subiu 0,70%, acima do teto das projeções de mercado (0,55%), reforçando aposta em juros mais altos por mais tempo no Brasil.",
-          "Ibovespa fechou a quinta-feira (24/9) em queda de 0,99%, aos 183.965 pontos, pressionado por Treasuries em alta e revisão do Banco Central para o PIB; dólar subiu a R$ 5,19.",
-          "Petróleo Brent seguia perto de US$ 100 o barril, mantendo pressão sobre ativos de risco e contribuindo para a cautela nos mercados emergentes."
-    ]
+      "updated_at": "25/09/2026 18:25",
+      "gap_estimate": "Proxima sessao (segunda-feira) tende a abertura neutra",
+      "gap_tone": "neutral",
+      "summary": "Cenario externo misto a levemente positivo: futuros americanos e bolsas europeias sobem com alivio no petroleo apos sinalizacao de negociacoes EUA-Ira, enquanto a Asia fechou dividida (Nikkei +1,30%, Hang Seng -1,01%). No Brasil, o IPCA-15 veio mais forte que o esperado (0,70% ante 0,53%), pressionando as apostas de corte de juros; dolar cedeu a R$5,18 e o WIN encerrou a ultima sessao em queda de 0,66%. Petrobras (ADR -2,16%) pesa com a queda do petroleo (-1,93%), enquanto Vale segue estavel (ADR +0,37%).",
+      "sections": [
+              {
+                        "title": "Taxas - Frequencias",
+                        "items": [
+                                    {"label": "Nivel 1", "value": "184.785", "tone": "neutral"},
+                                    {"label": "Nivel 2", "value": "184.690", "tone": "neutral"},
+                                    {"label": "Nivel 3", "value": "184.260", "tone": "neutral"}
+                        ]
+              },
+              {
+                        "title": "Ajuste Mini Indice",
+                        "items": [
+                                    {"label": "Ajuste (WINV26)", "value": "183.755 pts", "tone": "negative"},
+                                    {"label": "Variacao", "value": "-0,66% (aprox -1.220 pts)", "tone": "negative"}
+                        ]
+              },
+              {
+                        "title": "Moedas",
+                        "items": [
+                                    {"label": "Dolar (USD/BRL)", "value": "R$ 5,18 (-0,23%)", "tone": "positive"},
+                                    {"label": "Bitcoin (USD)", "value": "US$ 84.600 (+2,0%)", "tone": "positive"},
+                                    {"label": "Bitcoin (BRL)", "value": "R$ 438.393,80 (+2,0%)", "tone": "positive"}
+                        ]
+              },
+              {
+                        "title": "Indices",
+                        "items": [
+                                    {"label": "DXY", "value": "100,98 pts (-0,30%)", "tone": "positive"},
+                                    {"label": "VIX", "value": "15,13 pts (-3,45%)", "tone": "positive"},
+                                    {"label": "CRB", "value": "545,29 pts (+0,86%)", "tone": "positive"},
+                                    {"label": "EWZ", "value": "-0,33% (pre-mercado)", "tone": "negative"}
+                        ]
+              },
+              {
+                        "title": "ADR",
+                        "items": [
+                                    {"label": "Vale (VALE)", "value": "+0,37% (fech. NYSE)", "tone": "positive"},
+                                    {"label": "Petrobras (PBR)", "value": "-2,16% (fech. NYSE)", "tone": "negative"}
+                        ]
+              },
+              {
+                        "title": "Futuros Americanos",
+                        "items": [
+                                    {"label": "S&P 500 (ES)", "value": "+0,24%", "tone": "positive"},
+                                    {"label": "Dow (YM)", "value": "+0,18%", "tone": "positive"},
+                                    {"label": "Nasdaq (NQ)", "value": "+0,48%", "tone": "positive"}
+                        ]
+              },
+              {
+                        "title": "Asia",
+                        "items": [
+                                    {"label": "Nikkei 225", "value": "+1,30%", "tone": "positive"},
+                                    {"label": "Hang Seng", "value": "-1,01%", "tone": "negative"},
+                                    {"label": "CSI 300", "value": "N/D (fechado - feriado)", "tone": "neutral"}
+                        ]
+              },
+              {
+                        "title": "Europa",
+                        "items": [
+                                    {"label": "DAX", "value": "+0,60%", "tone": "positive"},
+                                    {"label": "FTSE 100", "value": "+0,50%", "tone": "positive"},
+                                    {"label": "Euro Stoxx 50", "value": "+0,50%", "tone": "positive"}
+                        ]
+              },
+              {
+                        "title": "Commodities",
+                        "items": [
+                                    {"label": "Petroleo Brent", "value": "US$ 104,55 (-1,93%)", "tone": "negative"},
+                                    {"label": "Minerio de Ferro", "value": "N/D", "tone": "neutral"}
+                        ]
+              },
+              {
+                        "title": "Risco Brasil",
+                        "items": [
+                                    {"label": "CDS Brasil 5 anos", "value": "121 pts - baixo", "tone": "positive"}
+                        ]
+              }
+      ],
+      "agenda": [
+              {"time": "09:00", "country": "BR", "event": "IPCA-15 (setembro)", "stars": 3, "actual": "0,70%", "forecast": "0,53%", "previous": "-0,40%"},
+              {"time": "09:30", "country": "US", "event": "Encomendas de Bens Duraveis (agosto)", "stars": 2, "actual": "-", "forecast": "-0,3%", "previous": "1,1%"},
+              {"time": "09:30", "country": "US", "event": "Bens Duraveis Nucleo (agosto)", "stars": 2, "actual": "-", "forecast": "0,6%", "previous": "0,4%"},
+              {"time": "11:00", "country": "US", "event": "Confianca do Consumidor Michigan (final, setembro)", "stars": 3, "actual": "-", "forecast": "45,8", "previous": "51,5"},
+              {"time": "11:00", "country": "US", "event": "Expectativa de Inflacao Michigan 1 ano", "stars": 2, "actual": "-", "forecast": "4,6%", "previous": "4,0%"},
+              {"time": "05:00", "country": "EU", "event": "Oferta Monetaria M3 (anual)", "stars": 2, "actual": "-", "forecast": "3,5%", "previous": "3,4%"},
+              {"time": "03:00", "country": "EU", "event": "Clima do Consumidor GfK Alemanha (outubro)", "stars": 2, "actual": "-", "forecast": "-27,1", "previous": "-26,6"},
+              {"time": "06:15", "country": "UK", "event": "Discurso do presidente do BoE, Bailey", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"}
+      ],
+      "news": [
+              "IPCA-15 de setembro veio a 0,70%, bem acima da previsao de 0,53%, reforcando duvidas sobre o ritmo de cortes de juros pelo BC",
+              "Goldman Sachs eleva projecao de dividendos da Petrobras para US$ 2,7 bilhoes no 3o trimestre e ve producao acima do guidance; BBI destaca caminho para superar 3 milhoes de barris/dia",
+              "Governo Lula edita medida provisoria para proibir plataformas de apostas (bets) no pais; pesquisa Datafolha mostra Lula com vantagem de 2 pontos sobre Flavio Bolsonaro em cenario de 2o turno"
+      ]
 }
