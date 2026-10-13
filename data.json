@@ -1,25 +1,25 @@
 {
-  "updated_at": "06/10/2026 11:30",
-  "gap_estimate": "Abertura próxima da estabilidade, após alta de 7,70% do Ibovespa na véspera",
-  "gap_tone": "neutral",
-  "summary": "Dia de realização de lucros após a disparada pós-1º turno (Ibovespa fechou a 206.911,89 pts, +7,70%). Exterior positivo (futuros EUA e Europa em alta, DXY e VIX em queda, dólar abaixo de R$ 5), mas petróleo em queda e pressão em PETR4, VALE3 e BBAS3 (rebaixamento do JPMorgan) pesam. Ibovespa à vista recua cerca de 0,7% e o futuro oscila perto da estabilidade.",
+  "updated_at": "13/10/2026 09:49",
+  "gap_estimate": "Abertura em leve queda (WIN ~-0,6%)",
+  "gap_tone": "negative",
+  "summary": "Pré-mercado negativo: futuro do Ibovespa recua ~0,67% seguindo o exterior, com Nasdaq pressionada pela queda das techs/chips (Kospi -5%+) e dólar em alta (R$ 5,01) após pesquisa BTG/Nexus mostrar empate técnico Flávio x Lula. Petróleo Brent em queda (~US$ 104) pesa sobre Petrobras; Dow positivo e Europa em alta limitam o downside. Fechamento anterior do Ibovespa (09/10): 209.066,90 pts (+1,38%), recorde.",
   "sections": [
     {
       "title": "Taxas - Frequências",
       "items": [
         {
           "label": "Nível 1",
-          "value": "195.165",
+          "value": "206.805",
           "tone": "neutral"
         },
         {
           "label": "Nível 2",
-          "value": "195.070",
+          "value": "206.710",
           "tone": "neutral"
         },
         {
           "label": "Nível 3",
-          "value": "194.640",
+          "value": "206.280",
           "tone": "neutral"
         }
       ]
@@ -28,14 +28,24 @@
       "title": "Ajuste Mini Índice",
       "items": [
         {
-          "label": "Ajuste (pts)",
-          "value": "N/D",
-          "tone": "neutral"
+          "label": "Ajuste WINV26 (09/10)",
+          "value": "208.725 pts",
+          "tone": "positive"
         },
         {
-          "label": "Variação (pts)",
-          "value": "N/D",
-          "tone": "neutral"
+          "label": "Variação do ajuste",
+          "value": "+~1.635 pts (+0,79%)",
+          "tone": "positive"
+        },
+        {
+          "label": "Ibovespa fechamento (09/10)",
+          "value": "209.066,90 pts (+1,38%)",
+          "tone": "positive"
+        },
+        {
+          "label": "Ibovespa futuro (09:20)",
+          "value": "-0,67%",
+          "tone": "negative"
         }
       ]
     },
@@ -44,18 +54,18 @@
       "items": [
         {
           "label": "Dólar (USD/BRL)",
-          "value": "R$ 4,98 (-0,36% a -0,82%)",
-          "tone": "positive"
+          "value": "R$ 5,008 (+0,46%)",
+          "tone": "negative"
         },
         {
           "label": "Bitcoin (USD)",
-          "value": "US$ 85.000 (estável, N/D % exata)",
-          "tone": "neutral"
+          "value": "US$ 83.924 (+0,61%)",
+          "tone": "positive"
         },
         {
           "label": "Bitcoin (R$)",
-          "value": "R$ 432.986 (N/D %)",
-          "tone": "neutral"
+          "value": "R$ 420.289 (+~1,07%)",
+          "tone": "positive"
         }
       ]
     },
@@ -64,13 +74,13 @@
       "items": [
         {
           "label": "DXY",
-          "value": "101,98 (-0,18%)",
-          "tone": "positive"
+          "value": "-0,01% (sessão anterior)",
+          "tone": "neutral"
         },
         {
           "label": "VIX",
-          "value": "15,37 (-0,97%)",
-          "tone": "positive"
+          "value": "15,48 (+1,78%)",
+          "tone": "negative"
         },
         {
           "label": "CRB",
@@ -79,8 +89,8 @@
         },
         {
           "label": "EWZ",
-          "value": "+0,28%",
-          "tone": "positive"
+          "value": "-0,05% (overnight)",
+          "tone": "neutral"
         }
       ]
     },
@@ -89,13 +99,13 @@
       "items": [
         {
           "label": "Vale (VALE)",
-          "value": "Pressionada (N/D %)",
-          "tone": "negative"
+          "value": "N/D",
+          "tone": "neutral"
         },
         {
           "label": "Petrobras (PBR)",
-          "value": "Pressionada (N/D %)",
-          "tone": "negative"
+          "value": "N/D",
+          "tone": "neutral"
         }
       ]
     },
@@ -104,18 +114,18 @@
       "items": [
         {
           "label": "S&P 500 (ES)",
-          "value": "+0,77%",
-          "tone": "positive"
+          "value": "-0,02%",
+          "tone": "neutral"
         },
         {
-          "label": "Dow (YM)",
-          "value": "+0,52%",
+          "label": "Dow Jones (YM)",
+          "value": "+0,66%",
           "tone": "positive"
         },
         {
           "label": "Nasdaq (NQ)",
-          "value": "+0,83%",
-          "tone": "positive"
+          "value": "-0,54%",
+          "tone": "negative"
         }
       ]
     },
@@ -124,18 +134,18 @@
       "items": [
         {
           "label": "Nikkei 225",
-          "value": "+1,05%",
-          "tone": "positive"
+          "value": "-1,82%",
+          "tone": "negative"
         },
         {
           "label": "Hang Seng",
-          "value": "+1,00%",
+          "value": "+0,30%",
           "tone": "positive"
         },
         {
           "label": "CSI 300",
-          "value": "N/D (China fechada por feriado)",
-          "tone": "neutral"
+          "value": "-0,29%",
+          "tone": "negative"
         }
       ]
     },
@@ -144,18 +154,18 @@
       "items": [
         {
           "label": "DAX",
-          "value": "+0,69%",
+          "value": "+0,51%",
           "tone": "positive"
         },
         {
           "label": "FTSE 100",
-          "value": "+0,58%",
+          "value": "+0,74%",
           "tone": "positive"
         },
         {
           "label": "Euro Stoxx 50",
-          "value": "N/D (Stoxx 600: +0,74%)",
-          "tone": "positive"
+          "value": "N/D",
+          "tone": "neutral"
         }
       ]
     },
@@ -164,13 +174,13 @@
       "items": [
         {
           "label": "Petróleo Brent",
-          "value": "US$ 98,09 (-2,22%)",
+          "value": "US$ 104,40 (-2,09%)",
           "tone": "negative"
         },
         {
           "label": "Minério de ferro",
-          "value": "N/D",
-          "tone": "neutral"
+          "value": "+0,17%",
+          "tone": "positive"
         }
       ]
     },
@@ -187,28 +197,65 @@
   ],
   "agenda": [
     {
-      "time": "N/D",
-      "country": "BR",
-      "event": "Balança Comercial (setembro)",
+      "time": "07:00",
+      "country": "US",
+      "event": "NFIB Otimismo de Pequenas Empresas (Set)",
       "stars": 2,
       "actual": "-",
-      "forecast": "US$ 7,35 bi (superávit)",
-      "previous": "N/D"
+      "forecast": "98,0",
+      "previous": "98,7"
     },
     {
-      "time": "N/D",
+      "time": "11:00",
       "country": "US",
-      "event": "Balança Comercial",
+      "event": "Vendas de Casas Usadas (Set)",
       "stars": 2,
       "actual": "-",
-      "forecast": "N/D",
-      "previous": "N/D"
+      "forecast": "3,96M",
+      "previous": "3,98M"
+    },
+    {
+      "time": "13:00",
+      "country": "UK",
+      "event": "Discurso Dhingra (BoE)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "14:00",
+      "country": "US",
+      "event": "Discurso Barkin (Fed)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "14:30",
+      "country": "EU",
+      "event": "Discurso Lane (BCE)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "17:00",
+      "country": "US",
+      "event": "Discurso Collins (Fed)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
     }
   ],
   "news": [
-    "Ibovespa fechou a 206.911,89 pts (+7,70%) na segunda-feira, em recorde, após Flávio Bolsonaro liderar o 1º turno (47,03% x 45,16% de Lula); hoje o índice recua cerca de 0,7% com realização de lucros.",
-    "JPMorgan rebaixou Banco do Brasil para underweight; BBAS3 chega a cair 6-7% após alta de cerca de 11% na véspera.",
-    "Petrobras e Vale pressionam o Ibovespa; Brent recua mais de 2% (cerca de US$ 98).",
-    "Agenda: balança comercial de setembro (consenso de superávit de US$ 7,35 bi) e fala do presidente do BC, Galípolo."
+    "Pesquisa BTG/Nexus: Flávio Bolsonaro 48% x Lula 45% no 2º turno (empate técnico); dólar sobe e mercado monitora impacto fiscal.",
+    "Selloff de techs/chips na Ásia: Kospi cai mais de 5% após avanço da chinesa CXMT em memórias; Broadcom critica euforia de IA.",
+    "Petróleo recua (~US$ 104 Brent) após alta de quase US$ 2 na véspera; atenção a ataques à Arábia Saudita e diesel russo.",
+    "BC realiza leilão de rolagem de swap cambial às 11h30 (50 mil contratos).",
+    "Bancos dos EUA (JPMorgan, Goldman, Citi, Wells Fargo) divulgam balanços; CPI americano sai amanhã."
   ]
 }
