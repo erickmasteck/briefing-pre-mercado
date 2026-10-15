@@ -1,25 +1,25 @@
 {
-  "updated_at": "14/10/2026 09:20",
-  "gap_estimate": "Abertura próxima da estabilidade, com viés de leve baixa",
+  "updated_at": "15/10/2026 09:15",
+  "gap_estimate": "Abertura próxima da estabilidade, viés cauteloso",
   "gap_tone": "neutral",
-  "summary": "Ibovespa futuro opera praticamente estável (206.185 pts, -0,02%) após o recuo de 1,04% de ontem (206.888 pts). Futuros dos EUA mistos (Dow e S&P em alta, Nasdaq em leve queda) e Europa em alta, mas EWZ em baixa e minério fraco. Foco no CPI dos EUA às 09:30, no Livro Bege às 15:00 e na pesquisa Quaest do 2º turno às 18:00.",
+  "summary": "Exterior pesado: Nikkei -4,77% após CPI forte nos EUA e Nasdaq futuro -1,17%, com Dow positivo (+0,31%). Contratos do Ibovespa indicados em leve alta (+0,1% a +0,3%), mas EWZ em queda (-0,96%) e cenário doméstico com ruído (empate técnico Lula x Flávio na Quaest, fim da escala 6x1 aprovado no Senado). Dados de PPI e varejo dos EUA às 09:30 podem definir o tom.",
   "sections": [
     {
       "title": "Taxas - Frequências",
       "items": [
         {
           "label": "Nível 1",
-          "value": "210.725",
+          "value": "209.380",
           "tone": "neutral"
         },
         {
           "label": "Nível 2",
-          "value": "210.630",
+          "value": "208.905",
           "tone": "neutral"
         },
         {
           "label": "Nível 3",
-          "value": "210.200",
+          "value": "208.810",
           "tone": "neutral"
         }
       ]
@@ -28,13 +28,18 @@
       "title": "Ajuste Mini Índice",
       "items": [
         {
-          "label": "Ajuste (pontos)",
-          "value": "N/D (WINV26 fechou em 206.230 pts)",
+          "label": "Ajuste (pts)",
+          "value": "N/D",
           "tone": "neutral"
         },
         {
-          "label": "Variação (pontos)",
-          "value": "≈ -2.370 pts (-1,14%)",
+          "label": "Variação (pts)",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "Último WINZ26 (14/10)",
+          "value": "208.995 · -0,97%",
           "tone": "negative"
         }
       ]
@@ -44,17 +49,17 @@
       "items": [
         {
           "label": "Dólar (USD/BRL)",
-          "value": "R$ 5,0219 (-0,02%)",
+          "value": "R$ 5,03 · +0,01%",
           "tone": "neutral"
         },
         {
           "label": "Bitcoin (USD)",
-          "value": "US$ 83.232 (-0,50%)",
+          "value": "US$ 81.159,80 · -2,70%",
           "tone": "negative"
         },
         {
           "label": "Bitcoin (R$)",
-          "value": "R$ 417.980 (-0,50%)",
+          "value": "R$ 408.200 · -2,70%",
           "tone": "negative"
         }
       ]
@@ -64,13 +69,13 @@
       "items": [
         {
           "label": "DXY",
-          "value": "102,24 (var. % N/D)",
+          "value": "N/D",
           "tone": "neutral"
         },
         {
           "label": "VIX",
-          "value": "15,27 (+0,39%, fech. 13/10)",
-          "tone": "neutral"
+          "value": "17,40 · +3,14%",
+          "tone": "negative"
         },
         {
           "label": "CRB",
@@ -78,8 +83,8 @@
           "tone": "neutral"
         },
         {
-          "label": "EWZ (pré-market)",
-          "value": "US$ 42,51 (-0,84%)",
+          "label": "EWZ",
+          "value": "US$ 42,19 · -0,96%",
           "tone": "negative"
         }
       ]
@@ -104,17 +109,17 @@
       "items": [
         {
           "label": "S&P 500 (ES)",
-          "value": "+0,16%",
-          "tone": "positive"
+          "value": "-0,30%",
+          "tone": "negative"
         },
         {
-          "label": "Dow Jones (YM)",
-          "value": "+0,32%",
+          "label": "Dow (YM)",
+          "value": "+0,31%",
           "tone": "positive"
         },
         {
           "label": "Nasdaq (NQ)",
-          "value": "-0,14%",
+          "value": "-1,17%",
           "tone": "negative"
         }
       ]
@@ -124,17 +129,17 @@
       "items": [
         {
           "label": "Nikkei 225",
-          "value": "+0,10%",
-          "tone": "positive"
+          "value": "-4,77%",
+          "tone": "negative"
         },
         {
           "label": "Hang Seng",
-          "value": "-0,13%",
+          "value": "-1,03%",
           "tone": "negative"
         },
         {
           "label": "CSI 300",
-          "value": "N/D (Xangai Composto -0,64%)",
+          "value": "N/D",
           "tone": "neutral"
         }
       ]
@@ -144,12 +149,12 @@
       "items": [
         {
           "label": "DAX",
-          "value": "+0,60%",
-          "tone": "positive"
+          "value": "-0,37%",
+          "tone": "negative"
         },
         {
           "label": "FTSE 100",
-          "value": "+0,46%",
+          "value": "+0,58%",
           "tone": "positive"
         },
         {
@@ -164,13 +169,13 @@
       "items": [
         {
           "label": "Petróleo Brent",
-          "value": "US$ 105,30 (-0,37%)",
+          "value": "US$ 104,08 · -1,87%",
           "tone": "neutral"
         },
         {
-          "label": "Minério de ferro (Dalian)",
-          "value": "-1,10% (fech. 13/10, 677 CNY/t)",
-          "tone": "negative"
+          "label": "Minério de ferro",
+          "value": "N/D",
+          "tone": "neutral"
         }
       ]
     },
@@ -179,26 +184,26 @@
       "items": [
         {
           "label": "CDS Brasil 5 anos",
-          "value": "110 pts · baixo (09/10)",
-          "tone": "positive"
+          "value": "N/D",
+          "tone": "neutral"
         }
       ]
     }
   ],
   "agenda": [
     {
-      "time": "05:30",
-      "country": "EU",
-      "event": "Discurso da presidente do BCE, Christine Lagarde",
-      "stars": 2,
+      "time": "03:00",
+      "country": "UK",
+      "event": "PIB mensal (Reino Unido)",
+      "stars": 3,
       "actual": "-",
       "forecast": "-",
       "previous": "-"
     },
     {
-      "time": "06:40",
-      "country": "US",
-      "event": "Discurso da diretora do Fed, Michelle Bowman",
+      "time": "06:00",
+      "country": "EU",
+      "event": "Produção industrial (Zona do Euro)",
       "stars": 2,
       "actual": "-",
       "forecast": "-",
@@ -207,79 +212,70 @@
     {
       "time": "09:00",
       "country": "BR",
-      "event": "Pesquisa Mensal de Serviços (Ago, m/m)",
+      "event": "Vendas no varejo (PMC) - agosto",
       "stars": 2,
       "actual": "-",
-      "forecast": "0,5%",
-      "previous": "N/D"
-    },
-    {
-      "time": "09:30",
-      "country": "US",
-      "event": "CPI (Set, a/a)",
-      "stars": 3,
-      "actual": "-",
-      "forecast": "3,6%",
-      "previous": "3,4%"
-    },
-    {
-      "time": "09:30",
-      "country": "US",
-      "event": "CPI (Set, m/m)",
-      "stars": 3,
-      "actual": "-",
-      "forecast": "0,6%",
-      "previous": "0,4%"
-    },
-    {
-      "time": "09:30",
-      "country": "US",
-      "event": "Núcleo do CPI (Set, a/a)",
-      "stars": 3,
-      "actual": "-",
-      "forecast": "2,5%",
-      "previous": "2,4%"
-    },
-    {
-      "time": "09:30",
-      "country": "US",
-      "event": "Núcleo do CPI (Set, m/m)",
-      "stars": 3,
-      "actual": "-",
-      "forecast": "0,2%",
-      "previous": "0,3%"
-    },
-    {
-      "time": "09:30",
-      "country": "CA",
-      "event": "Alvarás de construção (m/m)",
-      "stars": 2,
-      "actual": "-",
-      "forecast": "-1,7%",
-      "previous": "-17,3%"
-    },
-    {
-      "time": "11:00",
-      "country": "BR",
-      "event": "Confiança Empresarial (FGV)",
-      "stars": 2,
-      "actual": "-",
-      "forecast": "44,0",
-      "previous": "44,9"
-    },
-    {
-      "time": "15:00",
-      "country": "US",
-      "event": "Livro Bege do Fed",
-      "stars": 3,
-      "actual": "-",
-      "forecast": "-",
+      "forecast": "+0,7% m/m",
       "previous": "-"
     },
     {
-      "time": "18:00",
-      "country": "BR",
-      "event": "Pesquisa presidencial Quaest (2º turno)",
+      "time": "09:30",
+      "country": "US",
+      "event": "Índice de preços ao produtor (PPI) m/m - set",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "+0,5%",
+      "previous": "+0,4%"
+    },
+    {
+      "time": "09:30",
+      "country": "US",
+      "event": "Núcleo do PPI m/m - set",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "+0,3%",
+      "previous": "+0,2%"
+    },
+    {
+      "time": "09:30",
+      "country": "US",
+      "event": "Vendas no varejo m/m - set",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "+0,3%",
+      "previous": "+1,2%"
+    },
+    {
+      "time": "09:30",
+      "country": "US",
+      "event": "Pedidos semanais de auxílio-desemprego",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "200K",
+      "previous": "197K"
+    },
+    {
+      "time": "09:30",
+      "country": "US",
+      "event": "Índice Philly Fed - out",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "28,4",
+      "previous": "37,8"
+    },
+    {
+      "time": "09:30",
+      "country": "US",
+      "event": "Empire Manufacturing - out",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "10,25",
+      "previous": "7,6"
+    },
+    {
+      "time": "17:30",
+      "country": "US",
+      "event": "Discurso de Beth Hammack (Fed)",
       "stars": 2,
       "actual": "-",
       "forecast": "-",
@@ -287,12 +283,11 @@
     }
   ],
   "news": [
-    "Ibovespa fechou ontem (13/10) em queda de 1,04%, aos 206.887,52 pontos, em realização de lucros após recordes e com pesquisas do 2º turno (BTG/Nexus: Flávio 48% x Lula 45%); dólar fechou a R$ 5,02 (+0,7%).",
-    "Petrobras informou ter recebido R$ 16 bilhões de programas de subvenção a preços de combustíveis.",
-    "Vale: após o fechamento de 09/10, anunciou medidas, inclusive criminais, contra o ex-vice-presidente do conselho Marcelo Gasparino por vazamento de informações internas; resultados do 3T em 29/10.",
-    "Petróleo em leve baixa, mas com risco de oferta após ataques a navios no Estreito de Ormuz e tensão entre houthis e Arábia Saudita.",
-    "Minério de ferro em baixa na China com manutenção de altos-fornos e estoques portuários elevados.",
-    "Governo anunciou pacote MEI (perdão de dívidas de até R$ 12,6 bi e Pix MEI); FMI cortou projeção do PIB do Brasil para 2,2% em 2026.",
-    "Fed: Williams disse que mais uma alta de juros neste ano pode ser apropriada; mercado aguarda CPI dos EUA (esperado 3,6% a/a)."
+    "CPI dos EUA de setembro subiu 3,7% a/a (previsão 3,6%); Nasdaq caiu 1,88% na quarta e juros longos seguem pressionando.",
+    "Bolsas da Ásia despencam com liquidação de tecnologia após CPI americano; Nikkei -4,77%.",
+    "Pesquisa Quaest: Flávio Bolsonaro 46% x Lula 44% (empate técnico).",
+    "Senado aprova fim da escala 6x1 por 75 a 1; tema pode gerar ruído na abertura.",
+    "Ibovespa fechou em 206.505,98 pts (-0,18%) na quarta; WINZ26 fechou em 208.995 (-0,97%). Contratos futuros indicam abertura de +0,1% a +0,3%.",
+    "Ouro e prata recuam forte; Brent em queda (~US$ 104); Vale (VALE3) +0,83% e Petrobras (PETR4) -0,05% no fechamento anterior."
   ]
 }
