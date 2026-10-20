@@ -1,25 +1,25 @@
 {
-  "updated_at": "19/10/2026 08:50",
-  "gap_estimate": "Abertura mista, com viés de cautela (tech em queda, petróleo > US$ 100)",
-  "gap_tone": "neutral",
-  "summary": "WIN fechou sexta em 210.040 (+0,74%) e Ibovespa em 205.430 (+0,54%). Exterior pressionado: Nasdaq -2,1% na sexta por dúvidas sobre IA, Nikkei -1,2%, mercado precifica nova alta de juros do Fed; futuros S&P +0,46% e petróleo acima de US$ 100 (favorável a Petrobras). Segundo turno Lula x Flávio em 25/10 segue como fator de volatilidade.",
+  "updated_at": "20/10/2026 08:55",
+  "gap_estimate": "Abertura em leve baixa",
+  "gap_tone": "negative",
+  "summary": "Tom cauteloso: Ásia (Nikkei -1,16%, Hang Seng -1,32%) e Europa (-0,7% a -0,8%) em queda, Nasdaq futuro -0,47% e petróleo em alta (Brent ~US$ 111) com DXY firme. Segundo turno no domingo (25) com disputa apertada mantém cautela; EWZ +0,24% no pré-market dá algum suporte. Ibovespa fechou ontem em 205.079 (-0,17%).",
   "sections": [
     {
       "title": "Taxas - Frequências",
       "items": [
         {
           "label": "Nível 1",
-          "value": "209.415",
+          "value": "208.860",
           "tone": "neutral"
         },
         {
           "label": "Nível 2",
-          "value": "209.320",
+          "value": "208.385",
           "tone": "neutral"
         },
         {
           "label": "Nível 3",
-          "value": "208.890",
+          "value": "208.290",
           "tone": "neutral"
         }
       ]
@@ -28,13 +28,13 @@
       "title": "Ajuste Mini Índice",
       "items": [
         {
-          "label": "Ajuste (pts)",
+          "label": "Ajuste (pontos)",
           "value": "N/D",
           "tone": "neutral"
         },
         {
-          "label": "Variação (pts)",
-          "value": "N/D (fechamento WIN 210.040, +0,74%)",
+          "label": "Variação (pontos)",
+          "value": "N/D",
           "tone": "neutral"
         }
       ]
@@ -44,18 +44,18 @@
       "items": [
         {
           "label": "Dólar (USD/BRL)",
-          "value": "R$ 5,06 (-0,63%)",
+          "value": "R$ 5,0481 (-0,50%)",
           "tone": "positive"
         },
         {
           "label": "Bitcoin (USD)",
-          "value": "N/D (~US$ 85 mil, +1,5% segundo manchete)",
-          "tone": "neutral"
+          "value": "US$ 81.428,84 (-1,60%)",
+          "tone": "negative"
         },
         {
           "label": "Bitcoin (R$)",
-          "value": "N/D",
-          "tone": "neutral"
+          "value": "R$ 411.061 (≈ -1,6%)",
+          "tone": "negative"
         }
       ]
     },
@@ -64,12 +64,12 @@
       "items": [
         {
           "label": "DXY",
-          "value": "101,84 (-0,2%)",
-          "tone": "positive"
+          "value": "+0,11%",
+          "tone": "negative"
         },
         {
           "label": "VIX",
-          "value": "18,82 (-5,85%)",
+          "value": "-7,75%",
           "tone": "positive"
         },
         {
@@ -79,8 +79,8 @@
         },
         {
           "label": "EWZ (pré-market)",
-          "value": "N/D",
-          "tone": "neutral"
+          "value": "+0,24%",
+          "tone": "positive"
         }
       ]
     },
@@ -104,18 +104,18 @@
       "items": [
         {
           "label": "S&P 500 (ES)",
-          "value": "+0,46%",
-          "tone": "positive"
-        },
-        {
-          "label": "Dow (YM)",
-          "value": "-0,18%",
+          "value": "-0,10%",
           "tone": "negative"
         },
         {
+          "label": "Dow Jones (YM)",
+          "value": "+0,17%",
+          "tone": "positive"
+        },
+        {
           "label": "Nasdaq (NQ)",
-          "value": "N/D",
-          "tone": "neutral"
+          "value": "-0,47%",
+          "tone": "negative"
         }
       ]
     },
@@ -124,17 +124,17 @@
       "items": [
         {
           "label": "Nikkei 225",
-          "value": "-1,2%",
+          "value": "-1,16%",
           "tone": "negative"
         },
         {
           "label": "Hang Seng",
-          "value": "Fechado (feriado)",
-          "tone": "neutral"
+          "value": "-1,32%",
+          "tone": "negative"
         },
         {
           "label": "CSI 300",
-          "value": "N/D (Xangai Composto -0,4%)",
+          "value": "N/D (Xangai Composto +0,12%)",
           "tone": "neutral"
         }
       ]
@@ -144,17 +144,17 @@
       "items": [
         {
           "label": "DAX",
-          "value": "N/D",
-          "tone": "neutral"
+          "value": "-0,79%",
+          "tone": "negative"
         },
         {
           "label": "FTSE 100",
-          "value": "N/D (+0,4% em dado anterior)",
-          "tone": "neutral"
+          "value": "-0,70%",
+          "tone": "negative"
         },
         {
           "label": "Euro Stoxx 50",
-          "value": "N/D",
+          "value": "N/D (CAC 40 -0,72%)",
           "tone": "neutral"
         }
       ]
@@ -164,12 +164,12 @@
       "items": [
         {
           "label": "Petróleo Brent",
-          "value": "US$ 108,32 (-1,40%)",
+          "value": "US$ 111,67 (+1,94%)",
           "tone": "positive"
         },
         {
           "label": "Minério de ferro",
-          "value": "N/D",
+          "value": "US$ 161,91 (var. N/D)",
           "tone": "neutral"
         }
       ]
@@ -187,18 +187,54 @@
   ],
   "agenda": [
     {
-      "time": "08:00",
-      "country": "BR",
-      "event": "IGP-10 (outubro)",
+      "time": "03:00",
+      "country": "UK",
+      "event": "Taxa de desemprego (ago)",
       "stars": 2,
       "actual": "-",
       "forecast": "-",
-      "previous": "1,47% m/m"
+      "previous": "-"
     },
     {
-      "time": "08:25",
-      "country": "BR",
-      "event": "Boletim Focus (BCB)",
+      "time": "06:00",
+      "country": "EU",
+      "event": "ZEW - Sentimento Econômico (out)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "09:15",
+      "country": "US",
+      "event": "ADP - Emprego semanal",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "09:30",
+      "country": "US",
+      "event": "Início de construções de casas (set)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "09:30",
+      "country": "US",
+      "event": "Licenças de construção (set, prelim.)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "11:00",
+      "country": "US",
+      "event": "Vendas pendentes de imóveis (set)",
       "stars": 2,
       "actual": "-",
       "forecast": "-",
@@ -206,9 +242,10 @@
     }
   ],
   "news": [
-    "Petrobras PN subiu ~4% na sexta com Brent acima de US$ 107; petróleo segue acima de US$ 100 por tensões no Oriente Médio.",
-    "Wall Street fechou em forte queda na sexta (Nasdaq -2,1%) por dúvidas sobre o retorno do boom de IA; mercado aposta em nova alta de juros do Fed na próxima semana.",
-    "Segundo turno Lula x Flávio Bolsonaro em 25/10: pesquisas BTG/Nexus (Flávio 46,5% x 45,9%) e Atlas (49,8% x 47,6%) indicam empate técnico.",
-    "PIB da China no 3º tri cresceu 4,5%, acima do previsto; Nikkei recua com SoftBank e Tokyo Electron."
+    "Eleição presidencial: segundo turno no domingo (25); Lula e Flávio Bolsonaro empatados na margem de erro (diferença < 1 p.p.).",
+    "Petróleo: Brent volta a subir acima de US$ 110 e WTI avança para ~US$ 108 na madrugada.",
+    "Fiscal: Planejamento diz que medidas do governo exigem realocar R$ 20 bi no Orçamento de 2027 (Bolsa Família +15,04% e Desenrola 3.0).",
+    "IGP-10 de outubro sobe 1,8%, acima dos 1,4% previstos; Copom se reúne em 3 e 4 de novembro.",
+    "Petrobras (PETR4) caiu mais de 2% ontem e pesou sobre o Ibovespa; Galípolo tem visita ao Broadcast/Estadão às 10h."
   ]
 }
