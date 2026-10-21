@@ -1,25 +1,25 @@
 {
-  "updated_at": "20/10/2026 08:55",
-  "gap_estimate": "Abertura em leve baixa",
-  "gap_tone": "negative",
-  "summary": "Tom cauteloso: Ásia (Nikkei -1,16%, Hang Seng -1,32%) e Europa (-0,7% a -0,8%) em queda, Nasdaq futuro -0,47% e petróleo em alta (Brent ~US$ 111) com DXY firme. Segundo turno no domingo (25) com disputa apertada mantém cautela; EWZ +0,24% no pré-market dá algum suporte. Ibovespa fechou ontem em 205.079 (-0,17%).",
+  "updated_at": "21/10/2026 11:11",
+  "gap_estimate": "Abertura em leve alta, com Ibovespa perto da máxima histórica",
+  "gap_tone": "positive",
+  "summary": "Ibovespa fechou ontem em 208.296 pts (+1,57%), 0,4% abaixo do recorde, com dólar em R$ 5,019 (-0,58%) e juros americanos em queda. Futuros de NY levemente positivos (Nasdaq +0,48%), Europa mista e Brent em torno de US$ 110. Atenção ao 2º turno da eleição no domingo (25/10) e aos balanços de Tesla e Meta após o fechamento.",
   "sections": [
     {
       "title": "Taxas - Frequências",
       "items": [
         {
           "label": "Nível 1",
-          "value": "208.860",
+          "value": "210.325",
           "tone": "neutral"
         },
         {
           "label": "Nível 2",
-          "value": "208.385",
+          "value": "210.230",
           "tone": "neutral"
         },
         {
           "label": "Nível 3",
-          "value": "208.290",
+          "value": "209.800",
           "tone": "neutral"
         }
       ]
@@ -44,18 +44,18 @@
       "items": [
         {
           "label": "Dólar (USD/BRL)",
-          "value": "R$ 5,0481 (-0,50%)",
+          "value": "R$ 5,019 (-0,58%)",
           "tone": "positive"
         },
         {
           "label": "Bitcoin (USD)",
-          "value": "US$ 81.428,84 (-1,60%)",
-          "tone": "negative"
+          "value": "US$ 82.830 (+1,3%)",
+          "tone": "positive"
         },
         {
           "label": "Bitcoin (R$)",
-          "value": "R$ 411.061 (≈ -1,6%)",
-          "tone": "negative"
+          "value": "R$ 415.724 (+1,3%)",
+          "tone": "positive"
         }
       ]
     },
@@ -64,13 +64,13 @@
       "items": [
         {
           "label": "DXY",
-          "value": "+0,11%",
-          "tone": "negative"
+          "value": "N/D",
+          "tone": "neutral"
         },
         {
           "label": "VIX",
-          "value": "-7,75%",
-          "tone": "positive"
+          "value": "N/D",
+          "tone": "neutral"
         },
         {
           "label": "CRB",
@@ -79,8 +79,8 @@
         },
         {
           "label": "EWZ (pré-market)",
-          "value": "+0,24%",
-          "tone": "positive"
+          "value": "N/D",
+          "tone": "neutral"
         }
       ]
     },
@@ -104,18 +104,18 @@
       "items": [
         {
           "label": "S&P 500 (ES)",
-          "value": "-0,10%",
-          "tone": "negative"
-        },
-        {
-          "label": "Dow Jones (YM)",
-          "value": "+0,17%",
+          "value": "+0,18%",
           "tone": "positive"
         },
         {
+          "label": "Dow (YM)",
+          "value": "0,00%",
+          "tone": "neutral"
+        },
+        {
           "label": "Nasdaq (NQ)",
-          "value": "-0,47%",
-          "tone": "negative"
+          "value": "+0,48%",
+          "tone": "positive"
         }
       ]
     },
@@ -124,17 +124,17 @@
       "items": [
         {
           "label": "Nikkei 225",
-          "value": "-1,16%",
-          "tone": "negative"
+          "value": "+1,15%",
+          "tone": "positive"
         },
         {
           "label": "Hang Seng",
-          "value": "-1,32%",
+          "value": "-0,4%",
           "tone": "negative"
         },
         {
           "label": "CSI 300",
-          "value": "N/D (Xangai Composto +0,12%)",
+          "value": "N/D",
           "tone": "neutral"
         }
       ]
@@ -144,17 +144,17 @@
       "items": [
         {
           "label": "DAX",
-          "value": "-0,79%",
-          "tone": "negative"
+          "value": "+0,7%",
+          "tone": "positive"
         },
         {
           "label": "FTSE 100",
-          "value": "-0,70%",
-          "tone": "negative"
+          "value": "+0,1%",
+          "tone": "positive"
         },
         {
           "label": "Euro Stoxx 50",
-          "value": "N/D (CAC 40 -0,72%)",
+          "value": "N/D",
           "tone": "neutral"
         }
       ]
@@ -164,12 +164,12 @@
       "items": [
         {
           "label": "Petróleo Brent",
-          "value": "US$ 111,67 (+1,94%)",
-          "tone": "positive"
+          "value": "US$ 110,21 (+1,3%)",
+          "tone": "neutral"
         },
         {
           "label": "Minério de ferro",
-          "value": "US$ 161,91 (var. N/D)",
+          "value": "0,0% (est.)",
           "tone": "neutral"
         }
       ]
@@ -189,63 +189,27 @@
     {
       "time": "03:00",
       "country": "UK",
-      "event": "Taxa de desemprego (ago)",
-      "stars": 2,
+      "event": "CPI (a/a) - Set",
+      "stars": 3,
       "actual": "-",
-      "forecast": "-",
-      "previous": "-"
+      "forecast": "3,4%",
+      "previous": "3,1%"
     },
     {
-      "time": "06:00",
-      "country": "EU",
-      "event": "ZEW - Sentimento Econômico (out)",
-      "stars": 2,
-      "actual": "-",
-      "forecast": "-",
-      "previous": "-"
-    },
-    {
-      "time": "09:15",
+      "time": "11:30",
       "country": "US",
-      "event": "ADP - Emprego semanal",
+      "event": "Estoques de petróleo bruto EIA",
       "stars": 2,
       "actual": "-",
-      "forecast": "-",
-      "previous": "-"
-    },
-    {
-      "time": "09:30",
-      "country": "US",
-      "event": "Início de construções de casas (set)",
-      "stars": 2,
-      "actual": "-",
-      "forecast": "-",
-      "previous": "-"
-    },
-    {
-      "time": "09:30",
-      "country": "US",
-      "event": "Licenças de construção (set, prelim.)",
-      "stars": 2,
-      "actual": "-",
-      "forecast": "-",
-      "previous": "-"
-    },
-    {
-      "time": "11:00",
-      "country": "US",
-      "event": "Vendas pendentes de imóveis (set)",
-      "stars": 2,
-      "actual": "-",
-      "forecast": "-",
-      "previous": "-"
+      "forecast": "-0,3M",
+      "previous": "-8,557M"
     }
   ],
   "news": [
-    "Eleição presidencial: segundo turno no domingo (25); Lula e Flávio Bolsonaro empatados na margem de erro (diferença < 1 p.p.).",
-    "Petróleo: Brent volta a subir acima de US$ 110 e WTI avança para ~US$ 108 na madrugada.",
-    "Fiscal: Planejamento diz que medidas do governo exigem realocar R$ 20 bi no Orçamento de 2027 (Bolsa Família +15,04% e Desenrola 3.0).",
-    "IGP-10 de outubro sobe 1,8%, acima dos 1,4% previstos; Copom se reúne em 3 e 4 de novembro.",
-    "Petrobras (PETR4) caiu mais de 2% ontem e pesou sobre o Ibovespa; Galípolo tem visita ao Broadcast/Estadão às 10h."
+    "Ibovespa fechou em 208.295,98 pts (+1,57%), melhor nível desde 9/10 e 0,4% abaixo do recorde de 209.067; dólar caiu a R$ 5,019, terceira queda seguida.",
+    "WEG divulga resultado do 3º tri antes da abertura; Bradesco reporta na quinta (22/10).",
+    "Segundo turno da eleição presidencial no domingo (25/10); decisão do Copom em 3-4/11.",
+    "Brent perto de US$ 110 em meio a notícias sobre conversas EUA-Irã; Tesla e Meta divulgam balanço após o fechamento em NY.",
+    "Sem notícias específicas de Petrobras e Vale encontradas nas últimas 12h."
   ]
 }
