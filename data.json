@@ -1,25 +1,25 @@
 {
-  "updated_at": "21/10/2026 11:11",
-  "gap_estimate": "Abertura em leve alta, com Ibovespa perto da máxima histórica",
-  "gap_tone": "positive",
-  "summary": "Ibovespa fechou ontem em 208.296 pts (+1,57%), 0,4% abaixo do recorde, com dólar em R$ 5,019 (-0,58%) e juros americanos em queda. Futuros de NY levemente positivos (Nasdaq +0,48%), Europa mista e Brent em torno de US$ 110. Atenção ao 2º turno da eleição no domingo (25/10) e aos balanços de Tesla e Meta após o fechamento.",
+  "updated_at": "22/10/2026 22:02",
+  "gap_estimate": "Abertura em baixa/cautelosa (pré-2º turno, Brent em alta)",
+  "gap_tone": "negative",
+  "summary": "Sentimento negativo: Nasdaq -2,60% e S&P -1,21% com a venda de tecnologia/IA (Meta), Brent a US$ 113 (+4%) e Ásia em forte queda. Ibovespa fechou em 204.120 (-1,15%), pressionado por Vale (-3,97%) e bancos, com dólar a R$ 5,038. Cautela eleitoral: 2º turno no domingo (25), Datafolha e debate da Globo na sexta; IPCA-15 às 09:00. Obs.: rotina rodou com atraso; dados refletem o fechamento de 22/10 e as mensagens do Xandão de 22/10.",
   "sections": [
     {
       "title": "Taxas - Frequências",
       "items": [
         {
           "label": "Nível 1",
-          "value": "210.325",
+          "value": "211.265",
           "tone": "neutral"
         },
         {
           "label": "Nível 2",
-          "value": "210.230",
+          "value": "211.170",
           "tone": "neutral"
         },
         {
           "label": "Nível 3",
-          "value": "209.800",
+          "value": "210.740",
           "tone": "neutral"
         }
       ]
@@ -28,14 +28,14 @@
       "title": "Ajuste Mini Índice",
       "items": [
         {
-          "label": "Ajuste (pontos)",
-          "value": "N/D",
-          "tone": "neutral"
+          "label": "Fechamento WINZ26 (ajuste N/D)",
+          "value": "207.010 pts",
+          "tone": "negative"
         },
         {
-          "label": "Variação (pontos)",
-          "value": "N/D",
-          "tone": "neutral"
+          "label": "Variação",
+          "value": "-2.450 pts (-1,17%)",
+          "tone": "negative"
         }
       ]
     },
@@ -44,18 +44,18 @@
       "items": [
         {
           "label": "Dólar (USD/BRL)",
-          "value": "R$ 5,019 (-0,58%)",
-          "tone": "positive"
+          "value": "R$ 5,0384 (+0,22%)",
+          "tone": "negative"
         },
         {
           "label": "Bitcoin (USD)",
-          "value": "US$ 82.830 (+1,3%)",
-          "tone": "positive"
+          "value": "US$ 81.178 (-4,1%)",
+          "tone": "negative"
         },
         {
-          "label": "Bitcoin (R$)",
-          "value": "R$ 415.724 (+1,3%)",
-          "tone": "positive"
+          "label": "Bitcoin (BRL)",
+          "value": "R$ 409.868 (≈ -3,9%)",
+          "tone": "negative"
         }
       ]
     },
@@ -64,8 +64,8 @@
       "items": [
         {
           "label": "DXY",
-          "value": "N/D",
-          "tone": "neutral"
+          "value": "101,63 (-0,15%)",
+          "tone": "positive"
         },
         {
           "label": "VIX",
@@ -78,9 +78,9 @@
           "tone": "neutral"
         },
         {
-          "label": "EWZ (pré-market)",
-          "value": "N/D",
-          "tone": "neutral"
+          "label": "EWZ (fech. NYSE)",
+          "value": "US$ 41,85 (-1,6%)",
+          "tone": "negative"
         }
       ]
     },
@@ -89,12 +89,12 @@
       "items": [
         {
           "label": "Vale (VALE)",
-          "value": "N/D",
-          "tone": "neutral"
+          "value": "-3,97%",
+          "tone": "negative"
         },
         {
           "label": "Petrobras (PBR)",
-          "value": "N/D",
+          "value": "+0,14%",
           "tone": "neutral"
         }
       ]
@@ -104,18 +104,18 @@
       "items": [
         {
           "label": "S&P 500 (ES)",
-          "value": "+0,18%",
-          "tone": "positive"
+          "value": "+0,03% (pós-fech.; cash -1,21%)",
+          "tone": "neutral"
         },
         {
           "label": "Dow (YM)",
-          "value": "0,00%",
+          "value": "+0,14% (pós-fech.; cash +0,02%)",
           "tone": "neutral"
         },
         {
           "label": "Nasdaq (NQ)",
-          "value": "+0,48%",
-          "tone": "positive"
+          "value": "-0,17% (pós-fech.; cash -2,60%)",
+          "tone": "negative"
         }
       ]
     },
@@ -124,18 +124,18 @@
       "items": [
         {
           "label": "Nikkei 225",
-          "value": "+1,15%",
-          "tone": "positive"
+          "value": "-2,65% (parcial, sessão de 22/10)",
+          "tone": "negative"
         },
         {
           "label": "Hang Seng",
-          "value": "-0,4%",
+          "value": "-3,10% (parcial, sessão de 22/10)",
           "tone": "negative"
         },
         {
           "label": "CSI 300",
-          "value": "N/D",
-          "tone": "neutral"
+          "value": "-1,84% (parcial, sessão de 22/10)",
+          "tone": "negative"
         }
       ]
     },
@@ -144,18 +144,18 @@
       "items": [
         {
           "label": "DAX",
-          "value": "+0,7%",
-          "tone": "positive"
+          "value": "-1,07%",
+          "tone": "negative"
         },
         {
           "label": "FTSE 100",
-          "value": "+0,1%",
-          "tone": "positive"
+          "value": "-0,26%",
+          "tone": "negative"
         },
         {
           "label": "Euro Stoxx 50",
-          "value": "N/D",
-          "tone": "neutral"
+          "value": "-1,90%",
+          "tone": "negative"
         }
       ]
     },
@@ -164,12 +164,12 @@
       "items": [
         {
           "label": "Petróleo Brent",
-          "value": "US$ 110,21 (+1,3%)",
-          "tone": "neutral"
+          "value": "US$ 113,17 (+4,00%)",
+          "tone": "negative"
         },
         {
           "label": "Minério de ferro",
-          "value": "0,0% (est.)",
+          "value": "N/D",
           "tone": "neutral"
         }
       ]
@@ -189,27 +189,91 @@
     {
       "time": "03:00",
       "country": "UK",
-      "event": "CPI (a/a) - Set",
-      "stars": 3,
-      "actual": "-",
-      "forecast": "3,4%",
-      "previous": "3,1%"
-    },
-    {
-      "time": "11:30",
-      "country": "US",
-      "event": "Estoques de petróleo bruto EIA",
+      "event": "Vendas no Varejo m/m (set)",
       "stars": 2,
       "actual": "-",
-      "forecast": "-0,3M",
-      "previous": "-8,557M"
+      "forecast": "-",
+      "previous": "0,5%"
+    },
+    {
+      "time": "04:15",
+      "country": "EU",
+      "event": "PMI Industrial - França/Alemanha (out)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "50,6 / 53,9"
+    },
+    {
+      "time": "05:00",
+      "country": "EU",
+      "event": "PMI Industrial Zona do Euro (out)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "52,8",
+      "previous": "52,9"
+    },
+    {
+      "time": "05:00",
+      "country": "EU",
+      "event": "PMI Serviços Zona do Euro (out)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "52,8",
+      "previous": "53,0"
+    },
+    {
+      "time": "05:30",
+      "country": "UK",
+      "event": "PMI Composto Reino Unido (out)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "52,0"
+    },
+    {
+      "time": "09:00",
+      "country": "BR",
+      "event": "IPCA-15 m/m (out)",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "0,70%"
+    },
+    {
+      "time": "10:45",
+      "country": "US",
+      "event": "PMI Industrial S&P Global (out)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "55,6",
+      "previous": "55,9"
+    },
+    {
+      "time": "10:45",
+      "country": "US",
+      "event": "PMI Serviços S&P Global (out)",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "57,9",
+      "previous": "58,8"
+    },
+    {
+      "time": "11:00",
+      "country": "US",
+      "event": "Confiança do Consumidor Michigan (out)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "47,3",
+      "previous": "46,3"
     }
   ],
   "news": [
-    "Ibovespa fechou em 208.295,98 pts (+1,57%), melhor nível desde 9/10 e 0,4% abaixo do recorde de 209.067; dólar caiu a R$ 5,019, terceira queda seguida.",
-    "WEG divulga resultado do 3º tri antes da abertura; Bradesco reporta na quinta (22/10).",
-    "Segundo turno da eleição presidencial no domingo (25/10); decisão do Copom em 3-4/11.",
-    "Brent perto de US$ 110 em meio a notícias sobre conversas EUA-Irã; Tesla e Meta divulgam balanço após o fechamento em NY.",
-    "Sem notícias específicas de Petrobras e Vale encontradas nas últimas 12h."
+    "Ibovespa fechou em 204.120 pts (-1,15%), segunda queda seguida; dólar a R$ 5,038. Vale -3,97% e bancos em baixa (Bradesco -2,08% antes do balanço do 3T26, divulgado após o fechamento).",
+    "Eleição: 2º turno no domingo (25); Quaest mostra Flávio Bolsonaro 45% x Lula 44% (empate técnico). Datafolha e debate da TV Globo na sexta, véspera do 2º turno.",
+    "Brent saltou +4% a US$ 113,17 (maior nível desde maio) com ataques a petroleiros perto de Ormuz; juros futuros subiram em toda a curva.",
+    "Wall Street: Nasdaq -2,60% (maior queda desde junho) após Meta (-7%) anunciar emissão de ações para financiar IA; semicondutores -6,7%.",
+    "Ásia em queda forte; CSI 300 entrou em bear market (-20% desde o pico de junho). Bitcoin abaixo de US$ 82 mil.",
+    "Receita Federal: arrecadação de setembro de R$ 239,4 bi (+5,62% real), recorde para o mês."
   ]
 }
