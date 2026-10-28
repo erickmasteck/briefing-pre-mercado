@@ -1,1 +1,252 @@
-{"updated_at":"27/10/2026 09:30","gap_estimate":"Abertura em alta (~+1%) após tombo de 13,9% na véspera","gap_tone":"positive","summary":"Dia seguinte à reeleição de Lula: Ibovespa caiu 13,88% ontem (176.608 pts, circuit breaker) e o dólar subiu 8,2% (R$ 5,403). Hoje o Ibovespa futuro ensaia repique (~178,4-179,0 mil, +0,1/+0,2%), dólar recua para ~R$ 5,36 e EWZ sobe no pré-mercado. Exterior positivo nos EUA; minério em mínima de 2 anos e DXY em alta limitam. Atenção à equipe econômica/Fazenda e à coletiva de Galípolo às 11h.","sections":[{"title":"Taxas - Frequências","items":[{"label":"Nível 1","value":"206.460","tone":"neutral"},{"label":"Nível 2","value":"205.985","tone":"neutral"},{"label":"Nível 3","value":"205.890","tone":"neutral"}]},{"title":"Ajuste Mini Índice","items":[{"label":"Ajuste (pontos)","value":"N/D","tone":"neutral"},{"label":"Variação (pontos)","value":"N/D","tone":"neutral"},{"label":"WIN (WINZ26) ~09h","value":"178.585 pts (+0,02%)","tone":"neutral"}]},{"title":"Moedas","items":[{"label":"Dólar (USD/BRL)","value":"R$ 5,364 (-0,73%)","tone":"positive"},{"label":"Bitcoin (USD)","value":"US$ 79.700 (-0,71%)","tone":"neutral"},{"label":"Bitcoin (R$)","value":"R$ ~427.500 (~-1,4%)","tone":"neutral"}]},{"title":"Índices","items":[{"label":"DXY","value":"102,22 (+0,26%)","tone":"negative"},{"label":"VIX","value":"N/D","tone":"neutral"},{"label":"CRB","value":"N/D","tone":"neutral"},{"label":"EWZ (pré-market)","value":"+0,47%","tone":"positive"}]},{"title":"ADR","items":[{"label":"Vale (VALE)","value":"+0,58%","tone":"positive"},{"label":"Petrobras (PBR)","value":"+0,71%","tone":"positive"}]},{"title":"Futuros Americanos","items":[{"label":"S&P 500 (ES)","value":"+0,28%","tone":"positive"},{"label":"Dow Jones (YM)","value":"+0,27%","tone":"positive"},{"label":"Nasdaq (NQ)","value":"+0,36%","tone":"positive"}]},{"title":"Ásia","items":[{"label":"Nikkei 225","value":"+1,73%","tone":"positive"},{"label":"Hang Seng","value":"-0,83%","tone":"negative"},{"label":"CSI 300","value":"N/D","tone":"neutral"}]},{"title":"Europa","items":[{"label":"DAX","value":"+0,39%","tone":"positive"},{"label":"FTSE 100","value":"-0,62%","tone":"negative"},{"label":"Euro Stoxx 50","value":"N/D","tone":"neutral"}]},{"title":"Commodities","items":[{"label":"Petróleo Brent","value":"US$ 115,26 (-0,43%)","tone":"neutral"},{"label":"Minério de ferro (Dalian)","value":"-0,90% (mín. em 2 anos)","tone":"negative"}]},{"title":"Risco Brasil","items":[{"label":"CDS Brasil 5 anos (proxy: risco-país, fech. 26/10)","value":"152 pts · moderado","tone":"neutral"}]}],"agenda":[{"time":"09:00","country":"BR","event":"IPP (Preços ao Produtor) - Set, m/m","stars":2,"actual":"1,54%","forecast":"-","previous":"0,34%"},{"time":"09:30","country":"US","event":"Encomendas de Bens Duráveis - Set, m/m","stars":3,"actual":"-","forecast":"1,5%","previous":"0,0%"},{"time":"10:00","country":"US","event":"Índice S&P/Case-Shiller de Preços de Imóveis - Ago, a/a","stars":2,"actual":"-","forecast":"2,5%","previous":"2,5%"},{"time":"11:00","country":"BR","event":"Coletiva de Galípolo - Relatório de Estabilidade Financeira (BC)","stars":3,"actual":"-","forecast":"-","previous":"-"},{"time":"11:00","country":"US","event":"Confiança do Consumidor (Conference Board) - Out","stars":3,"actual":"-","forecast":"81,0","previous":"81,9"},{"time":"11:00","country":"US","event":"Vendas de Casas Novas - Set","stars":2,"actual":"-","forecast":"650K","previous":"684K"},{"time":"11:00","country":"US","event":"Índice Industrial do Fed de Richmond - Out","stars":2,"actual":"-","forecast":"1","previous":"-2"},{"time":"14:00","country":"EU","event":"Discurso de Lagarde (BCE)","stars":2,"actual":"-","forecast":"-","previous":"-"}],"news":["Lula reeleito: Ibovespa caiu 13,88% ontem (176.608 pts, 1º circuit breaker desde mar/2020), dólar +8,21% a R$ 5,403 e risco-país +26% a 151,6 pts.","Citi e BCA rebaixaram recomendação para ativos brasileiros; mercado aguarda nome da Fazenda e sinais fiscais credíveis.","Tesouro cancelou o leilão de LFT de hoje e anunciou recompra de NTN-Bs (2030, 2035, 2040, 2045).","Vale: balanço do 3T26 nesta semana; ADR +0,58% no pré-market. Petrobras: CEO chamou a queda de ontem (-8,18%) de movimento especulativo; ADR +0,71%.","Gerdau (GGBR4): Ebitda do 3T26 de R$ 3,77 bi, 3% acima da estimativa do Itaú BBA. Raízen propõe aumento de capital de até R$ 39,8 bi.","Minério de ferro em Dalian cai 0,90% a 644 iuanes, menor nível em mais de 2 anos; ações chinesas na menor cotação em 14 meses.","Fed decide juros amanhã (28/10) com 90,6% de chance de manutenção em 3,75%-4%; BCE e BoJ também decidem nesta semana."]}
+{
+  "updated_at": "28/10/2026 09:50",
+  "gap_estimate": "Abertura em leve alta (preço justo 178.614 vs fech. 178.400)",
+  "gap_tone": "positive",
+  "summary": "Futuros de NY mistos (Nasdaq +0,42%, S&P +0,11%, Dow -0,22%), Ásia firme (Nikkei +1,52%) e Europa levemente negativa. Dólar em queda a R$ 5,35 e Brent em alta (~US$ 115) ajudam, mas o mercado segue cauteloso após o tombo histórico do Ibovespa pós-reeleição de Lula (fiscal) e aguarda a decisão do Fed às 15h (expectativa de manutenção em 3,75%-4,00%).",
+  "sections": [
+    {
+      "title": "Taxas - Frequências",
+      "items": [
+        {
+          "label": "Nível 1",
+          "value": "177.925",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nível 2",
+          "value": "177.830",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nível 3",
+          "value": "177.400",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ajuste Mini Índice",
+      "items": [
+        {
+          "label": "Ajuste (pts)",
+          "value": "N/D (fech. WINZ26: 178.400)",
+          "tone": "neutral"
+        },
+        {
+          "label": "Variação (pts)",
+          "value": "-0,06% (~ -110 pts)",
+          "tone": "negative"
+        }
+      ]
+    },
+    {
+      "title": "Moedas",
+      "items": [
+        {
+          "label": "Dólar (USD/BRL)",
+          "value": "R$ 5,3506 · -0,97%",
+          "tone": "positive"
+        },
+        {
+          "label": "Bitcoin (USD)",
+          "value": "US$ 81.306 · +2,1%",
+          "tone": "positive"
+        },
+        {
+          "label": "Bitcoin (BRL)",
+          "value": "R$ 435.038 · ~+2,1%",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Índices",
+      "items": [
+        {
+          "label": "DXY",
+          "value": "102,23 · +0,08%",
+          "tone": "neutral"
+        },
+        {
+          "label": "VIX",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "CRB",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "EWZ",
+          "value": "+0,26% (fech. 27/10; pré-market N/D)",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "ADR",
+      "items": [
+        {
+          "label": "Vale (VALE)",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "Petrobras (PBR)",
+          "value": "N/D",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Futuros Americanos",
+      "items": [
+        {
+          "label": "S&P 500 (ES)",
+          "value": "+0,11%",
+          "tone": "positive"
+        },
+        {
+          "label": "Dow Jones (YM)",
+          "value": "-0,22%",
+          "tone": "negative"
+        },
+        {
+          "label": "Nasdaq (NQ)",
+          "value": "+0,42%",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Ásia",
+      "items": [
+        {
+          "label": "Nikkei 225",
+          "value": "+1,52%",
+          "tone": "positive"
+        },
+        {
+          "label": "Hang Seng",
+          "value": "+0,23%",
+          "tone": "positive"
+        },
+        {
+          "label": "CSI 300",
+          "value": "N/D (Xangai Comp. +0,91%)",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Europa",
+      "items": [
+        {
+          "label": "DAX",
+          "value": "-0,05%",
+          "tone": "negative"
+        },
+        {
+          "label": "FTSE 100",
+          "value": "-0,31%",
+          "tone": "negative"
+        },
+        {
+          "label": "Euro Stoxx 50",
+          "value": "N/D",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Commodities",
+      "items": [
+        {
+          "label": "Petróleo Brent",
+          "value": "US$ 115,47 · +1,40%",
+          "tone": "positive"
+        },
+        {
+          "label": "Minério de ferro",
+          "value": "N/D",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Risco Brasil",
+      "items": [
+        {
+          "label": "CDS Brasil 5 anos",
+          "value": "N/D",
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "agenda": [
+    {
+      "time": "09:30",
+      "country": "US",
+      "event": "Balança comercial de bens (set)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-130 bi USD",
+      "previous": "-132,6 bi USD"
+    },
+    {
+      "time": "10:45",
+      "country": "CA",
+      "event": "Decisão de juros do Banco do Canadá",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "2,50%",
+      "previous": "2,25%"
+    },
+    {
+      "time": "11:30",
+      "country": "US",
+      "event": "Estoques de petróleo bruto (EIA)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-0,3 mi bbl",
+      "previous": "-3,06 mi bbl"
+    },
+    {
+      "time": "14:30",
+      "country": "BR",
+      "event": "Fluxo cambial",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "15:00",
+      "country": "US",
+      "event": "Decisão de juros do Fed (FOMC)",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "3,75%-4,00% (manutenção)",
+      "previous": "-"
+    },
+    {
+      "time": "15:30",
+      "country": "US",
+      "event": "Coletiva de imprensa do Fed",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    }
+  ],
+  "news": [
+    "Fed decide juros às 15h (coletiva 15h30); expectativa de manutenção em 3,75%-4,00%, sem sinalização futura (Warsh suspendeu o forward guidance).",
+    "Ibovespa fechou ontem em 175.710 pts (-0,51%) após tombo histórico pós-reeleição de Lula; preocupação fiscal segue pesando. WIN fechou em 178.400 (-0,06%).",
+    "Repercussão da saída de Flávio Bolsonaro do Brasil / viagem aos EUA e possível impacto nas relações Brasil-EUA.",
+    "Balanços de Alphabet e Microsoft mantêm foco em IA; Brent sobe ~1,4% com Irã/Oriente Médio no radar (relevante para Petrobras).",
+    "Santander (SANB11) lucrou R$ 2,9 bi no 3T26, abaixo do esperado.",
+    "Planilha Xandão: preço justo de abertura do índice 178.614; máxima 180.734 / mínima 176.494 (via VIX futuro)."
+  ]
+}
