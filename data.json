@@ -1,25 +1,25 @@
 {
-  "updated_at": "28/10/2026 09:50",
-  "gap_estimate": "Abertura em leve alta (preço justo 178.614 vs fech. 178.400)",
-  "gap_tone": "positive",
-  "summary": "Futuros de NY mistos (Nasdaq +0,42%, S&P +0,11%, Dow -0,22%), Ásia firme (Nikkei +1,52%) e Europa levemente negativa. Dólar em queda a R$ 5,35 e Brent em alta (~US$ 115) ajudam, mas o mercado segue cauteloso após o tombo histórico do Ibovespa pós-reeleição de Lula (fiscal) e aguarda a decisão do Fed às 15h (expectativa de manutenção em 3,75%-4,00%).",
+  "updated_at": "29/10/2026 09:10",
+  "gap_estimate": "Abertura indefinida, leve viés de baixa",
+  "gap_tone": "neutral",
+  "summary": "Ibovespa fechou a quarta em -2,68% (171.006 pts), terceira queda seguida pós-eleição, com fiscal no radar. EWZ recua 0,45% no pré-market e o Nasdaq futuro cai ~0,9% (Alphabet -10%), enquanto Europa abre em alta e o dólar segue perto de R$ 5,34. PIB e PCE dos EUA às 09:30, BCE às 10:15 e balanço da Vale após o fechamento.",
   "sections": [
     {
       "title": "Taxas - Frequências",
       "items": [
         {
           "label": "Nível 1",
-          "value": "177.925",
+          "value": "N/D",
           "tone": "neutral"
         },
         {
           "label": "Nível 2",
-          "value": "177.830",
+          "value": "N/D",
           "tone": "neutral"
         },
         {
           "label": "Nível 3",
-          "value": "177.400",
+          "value": "N/D",
           "tone": "neutral"
         }
       ]
@@ -28,14 +28,19 @@
       "title": "Ajuste Mini Índice",
       "items": [
         {
-          "label": "Ajuste (pts)",
-          "value": "N/D (fech. WINZ26: 178.400)",
+          "label": "Ibovespa fech. 28/10",
+          "value": "171.006 pts (-2,68%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Ajuste WIN 28/10 (pts)",
+          "value": "N/D",
           "tone": "neutral"
         },
         {
-          "label": "Variação (pts)",
-          "value": "-0,06% (~ -110 pts)",
-          "tone": "negative"
+          "label": "WIN ~09h (WINZ26)",
+          "value": "N/D",
+          "tone": "neutral"
         }
       ]
     },
@@ -44,18 +49,18 @@
       "items": [
         {
           "label": "Dólar (USD/BRL)",
-          "value": "R$ 5,3506 · -0,97%",
+          "value": "R$ 5,3402 (-0,19%)",
           "tone": "positive"
         },
         {
-          "label": "Bitcoin (USD)",
-          "value": "US$ 81.306 · +2,1%",
-          "tone": "positive"
+          "label": "Bitcoin (BTC) em US$",
+          "value": "US$ 80.077 (-1,6%)",
+          "tone": "negative"
         },
         {
-          "label": "Bitcoin (BRL)",
-          "value": "R$ 435.038 · ~+2,1%",
-          "tone": "positive"
+          "label": "Bitcoin (BTC) em R$",
+          "value": "R$ 429.342 (-1,8%)",
+          "tone": "negative"
         }
       ]
     },
@@ -64,7 +69,7 @@
       "items": [
         {
           "label": "DXY",
-          "value": "102,23 · +0,08%",
+          "value": "N/D",
           "tone": "neutral"
         },
         {
@@ -73,14 +78,14 @@
           "tone": "neutral"
         },
         {
-          "label": "CRB",
+          "label": "CRB (commodities)",
           "value": "N/D",
           "tone": "neutral"
         },
         {
-          "label": "EWZ",
-          "value": "+0,26% (fech. 27/10; pré-market N/D)",
-          "tone": "neutral"
+          "label": "EWZ (pré-market)",
+          "value": "US$ 33,62 (-0,45%)",
+          "tone": "negative"
         }
       ]
     },
@@ -103,19 +108,19 @@
       "title": "Futuros Americanos",
       "items": [
         {
-          "label": "S&P 500 (ES)",
-          "value": "+0,11%",
-          "tone": "positive"
-        },
-        {
-          "label": "Dow Jones (YM)",
-          "value": "-0,22%",
+          "label": "S&P 500 fut. (ES)",
+          "value": "-0,19%",
           "tone": "negative"
         },
         {
-          "label": "Nasdaq (NQ)",
-          "value": "+0,42%",
+          "label": "Dow Jones fut. (YM)",
+          "value": "+0,60%",
           "tone": "positive"
+        },
+        {
+          "label": "Nasdaq fut. (NQ)",
+          "value": "-0,93%",
+          "tone": "negative"
         }
       ]
     },
@@ -124,18 +129,18 @@
       "items": [
         {
           "label": "Nikkei 225",
-          "value": "+1,52%",
+          "value": "64.659 pts (+1,10%)",
           "tone": "positive"
         },
         {
           "label": "Hang Seng",
-          "value": "+0,23%",
-          "tone": "positive"
+          "value": "22.959 pts (-0,59%)",
+          "tone": "negative"
         },
         {
-          "label": "CSI 300",
-          "value": "N/D (Xangai Comp. +0,91%)",
-          "tone": "neutral"
+          "label": "CSI 300 (N/D; ref. Xangai Composto)",
+          "value": "3.651 pts (-0,82%)",
+          "tone": "negative"
         }
       ]
     },
@@ -144,17 +149,17 @@
       "items": [
         {
           "label": "DAX",
-          "value": "-0,05%",
-          "tone": "negative"
+          "value": "+0,55% (abertura)",
+          "tone": "positive"
         },
         {
           "label": "FTSE 100",
-          "value": "-0,31%",
-          "tone": "negative"
+          "value": "+0,55% (abertura)",
+          "tone": "positive"
         },
         {
           "label": "Euro Stoxx 50",
-          "value": "N/D",
+          "value": "+0,06% (abertura)",
           "tone": "neutral"
         }
       ]
@@ -164,8 +169,8 @@
       "items": [
         {
           "label": "Petróleo Brent",
-          "value": "US$ 115,47 · +1,40%",
-          "tone": "positive"
+          "value": "US$ 114,44 (-0,76%)",
+          "tone": "neutral"
         },
         {
           "label": "Minério de ferro",
@@ -187,66 +192,94 @@
   ],
   "agenda": [
     {
+      "time": "08:00",
+      "country": "BR",
+      "event": "IGP-M (out)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "1,60%",
+      "previous": "1,57%"
+    },
+    {
+      "time": "08:30",
+      "country": "BR",
+      "event": "Empréstimos bancários (set)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "0,5%"
+    },
+    {
       "time": "09:30",
       "country": "US",
-      "event": "Balança comercial de bens (set)",
-      "stars": 2,
-      "actual": "-",
-      "forecast": "-130 bi USD",
-      "previous": "-132,6 bi USD"
-    },
-    {
-      "time": "10:45",
-      "country": "CA",
-      "event": "Decisão de juros do Banco do Canadá",
+      "event": "PIB preliminar 3T (anualizado)",
       "stars": 3,
       "actual": "-",
-      "forecast": "2,50%",
-      "previous": "2,25%"
+      "forecast": "3,2%",
+      "previous": "2,2%"
     },
     {
-      "time": "11:30",
+      "time": "09:30",
       "country": "US",
-      "event": "Estoques de petróleo bruto (EIA)",
+      "event": "PCE (set) - mensal",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "0,5%",
+      "previous": "0,3%"
+    },
+    {
+      "time": "09:30",
+      "country": "US",
+      "event": "PCE (set) - 12 meses",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "3,6%",
+      "previous": "3,4%"
+    },
+    {
+      "time": "09:30",
+      "country": "US",
+      "event": "Núcleo do PCE (set) - mensal",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "0,3%",
+      "previous": "0,2%"
+    },
+    {
+      "time": "09:30",
+      "country": "US",
+      "event": "Pedidos semanais de seguro-desemprego",
       "stars": 2,
       "actual": "-",
-      "forecast": "-0,3 mi bbl",
-      "previous": "-3,06 mi bbl"
+      "forecast": "198 mil",
+      "previous": "194 mil"
+    },
+    {
+      "time": "10:15",
+      "country": "EU",
+      "event": "Decisão de juros do BCE",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "2,65%",
+      "previous": "2,65%"
     },
     {
       "time": "14:30",
       "country": "BR",
-      "event": "Fluxo cambial",
+      "event": "Caged (set)",
       "stars": 2,
       "actual": "-",
-      "forecast": "-",
-      "previous": "-"
-    },
-    {
-      "time": "15:00",
-      "country": "US",
-      "event": "Decisão de juros do Fed (FOMC)",
-      "stars": 3,
-      "actual": "-",
-      "forecast": "3,75%-4,00% (manutenção)",
-      "previous": "-"
-    },
-    {
-      "time": "15:30",
-      "country": "US",
-      "event": "Coletiva de imprensa do Fed",
-      "stars": 3,
-      "actual": "-",
-      "forecast": "-",
-      "previous": "-"
+      "forecast": "180 mil",
+      "previous": "165,83 mil"
     }
   ],
   "news": [
-    "Fed decide juros às 15h (coletiva 15h30); expectativa de manutenção em 3,75%-4,00%, sem sinalização futura (Warsh suspendeu o forward guidance).",
-    "Ibovespa fechou ontem em 175.710 pts (-0,51%) após tombo histórico pós-reeleição de Lula; preocupação fiscal segue pesando. WIN fechou em 178.400 (-0,06%).",
-    "Repercussão da saída de Flávio Bolsonaro do Brasil / viagem aos EUA e possível impacto nas relações Brasil-EUA.",
-    "Balanços de Alphabet e Microsoft mantêm foco em IA; Brent sobe ~1,4% com Irã/Oriente Médio no radar (relevante para Petrobras).",
-    "Santander (SANB11) lucrou R$ 2,9 bi no 3T26, abaixo do esperado.",
-    "Planilha Xandão: preço justo de abertura do índice 178.614; máxima 180.734 / mínima 176.494 (via VIX futuro)."
+    "Ibovespa caiu 2,68% na quarta (171.006 pts), terceiro pregão de perdas após a eleição, com cautela sobre política fiscal; dólar fechou a R$ 5,3402.",
+    "Vale (VALE3) divulga balanço do 3T após o fechamento; lucro deve cair quase 50%. Reação do mercado fica para sexta.",
+    "Petrobras: investidores acompanham debate sobre política de preços de combustíveis em Brasília; Brent perto de US$ 114.",
+    "Ambev reportou lucro líquido ajustado de R$ 4,4 bi no 3T; Dexco anunciou baixas contábeis de R$ 190 mi.",
+    "Pluxee (Europa) sinalizou cenário de reajuste mais amplo no Brasil e caiu ~13% na abertura em Paris.",
+    "Fed manteve juros em 3,75%-4% com dois membros preferindo alta; Copom se reúne em 3 e 4 de novembro (Selic 13,75%).",
+    "Alphabet recua ~10% no pré-market após balanço; ações de IA/chips pressionam o Nasdaq futuro."
   ]
 }
