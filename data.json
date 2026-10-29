@@ -1,5 +1,5 @@
 {
-  "updated_at": "29/10/2026 09:10",
+  "updated_at": "29/10/2026 09:57",
   "gap_estimate": "Abertura indefinida, leve viés de baixa",
   "gap_tone": "neutral",
   "summary": "Ibovespa fechou a quarta em -2,68% (171.006 pts), terceira queda seguida pós-eleição, com fiscal no radar. EWZ recua 0,45% no pré-market e o Nasdaq futuro cai ~0,9% (Alphabet -10%), enquanto Europa abre em alta e o dólar segue perto de R$ 5,34. PIB e PCE dos EUA às 09:30, BCE às 10:15 e balanço da Vale após o fechamento.",
@@ -9,17 +9,17 @@
       "items": [
         {
           "label": "Nível 1",
-          "value": "N/D",
+          "value": "176.340",
           "tone": "neutral"
         },
         {
           "label": "Nível 2",
-          "value": "N/D",
+          "value": "175.865",
           "tone": "neutral"
         },
         {
           "label": "Nível 3",
-          "value": "N/D",
+          "value": "175.770",
           "tone": "neutral"
         }
       ]
