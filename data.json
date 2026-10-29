@@ -1,25 +1,25 @@
 {
-  "updated_at": "29/10/2026 14:55",
+  "updated_at": "29/10/2026 15:05",
   "gap_estimate": "Abertura estável, com viés de queda ao longo do dia",
   "gap_tone": "neutral",
-  "summary": "Ibovespa fechou ontem em 171.006 pts (-2,68%), o 3º dia de ajuste pós-eleição; WIN abriu praticamente estável (173.165 pts, -0,15%) e o índice à vista oscilou perto de 169-170 mil. Dólar sobe ~0,5% (R$ 5,369), Nasdaq futuro pressionado pela Alphabet (-10%) e Fed mantendo juros com viés de alta. Pontos de atenção: PIB/PCE dos EUA, BCE, Caged e balanço da Vale após o fechamento. Obs.: coleta feita à tarde, valores refletem os últimos dados disponíveis do pré-mercado; Telegram deslogado (Níveis N/D).",
+  "summary": "Ibovespa fechou ontem em 171.006 pts (-2,68%), o 3º dia de ajuste pós-eleição; WIN abriu praticamente estável (173.165 pts, -0,15%) e o índice à vista oscilou perto de 169-170 mil. Dólar sobe ~0,5% (R$ 5,369), Nasdaq futuro pressionado pela Alphabet (-10%) e Fed mantendo juros com viés de alta. Pontos de atenção: PIB/PCE dos EUA, BCE, Caged e balanço da Vale após o fechamento. Obs.: coleta feita à tarde, valores refletem os últimos dados disponíveis do pré-mercado.",
   "sections": [
     {
       "title": "Taxas - Frequências",
       "items": [
         {
           "label": "Nível 1",
-          "value": "N/D",
+          "value": "176.340",
           "tone": "neutral"
         },
         {
           "label": "Nível 2",
-          "value": "N/D",
+          "value": "175.865",
           "tone": "neutral"
         },
         {
           "label": "Nível 3",
-          "value": "N/D",
+          "value": "175.770",
           "tone": "neutral"
         }
       ]
