@@ -1,1 +1,303 @@
-{"updated_at":"04/11/2026 11:20","gap_estimate":"Abertura em alta (~+0,5%)","gap_tone":"positive","summary":"Ibovespa fechou em 165.528,92 pts (-1,42%, 6ª queda seguida) e o dólar a R$ 5,4872, maior nível do ano. Hoje o clima externo melhora: vitória democrata no Congresso dos EUA impulsiona futuros (S&P +1,03%), Europa sobe forte (DAX +1,39%) e o EWZ ganha +1,51% no pré-market. Dólar recua e Brent cai; atenção à decisão do Copom após as 18h30 (Selic esperada em 13,75%).","sections":[{"title":"Taxas - Frequências","items":[{"label":"Nível 1","value":"168.920","tone":"neutral"},{"label":"Nível 2","value":"168.445","tone":"neutral"},{"label":"Nível 3","value":"168.350","tone":"neutral"}]},{"title":"Ajuste Mini Índice","items":[{"label":"Ajuste (pts) - estimado","value":"~168.075 pts","tone":"neutral"},{"label":"Variação do ajuste (pts)","value":"N/D","tone":"neutral"},{"label":"WIN ~09h (WINZ26)","value":"168.950 pts (+0,52%)","tone":"positive"}]},{"title":"Moedas","items":[{"label":"Dólar (USD/BRL)","value":"R$ 5,469 (-0,32%)","tone":"positive"},{"label":"Bitcoin (BTC/USD)","value":"US$ 77.980 (+1,8%)","tone":"positive"},{"label":"Bitcoin (BTC/BRL) - estimado","value":"R$ 426.500 (~+1,5%)","tone":"positive"}]},{"title":"Índices","items":[{"label":"DXY","value":"101,36 (-0,50%)","tone":"positive"},{"label":"VIX","value":"N/D","tone":"neutral"},{"label":"CRB (commodities)","value":"N/D","tone":"neutral"},{"label":"EWZ (pré-market)","value":"+1,51%","tone":"positive"}]},{"title":"ADR","items":[{"label":"Vale (VALE) pré-market","value":"N/D","tone":"neutral"},{"label":"Petrobras (PBR) pré-market","value":"N/D","tone":"neutral"}]},{"title":"Futuros Americanos","items":[{"label":"S&P 500 fut. (ES)","value":"+1,03%","tone":"positive"},{"label":"Dow fut. (YM)","value":"+1,47%","tone":"positive"},{"label":"Nasdaq fut. (NQ)","value":"+0,99%","tone":"positive"}]},{"title":"Ásia","items":[{"label":"Nikkei 225","value":"-1,42%","tone":"negative"},{"label":"Hang Seng","value":"+1,67%","tone":"positive"},{"label":"CSI 300 (proxy: Xangai Comp.)","value":"+2,16%","tone":"positive"}]},{"title":"Europa","items":[{"label":"DAX","value":"+1,39%","tone":"positive"},{"label":"FTSE 100","value":"+1,04%","tone":"positive"},{"label":"Euro Stoxx 50","value":"N/D (STOXX 600: +1,30%)","tone":"neutral"}]},{"title":"Commodities","items":[{"label":"Petróleo Brent","value":"US$ 102,22 (-1,27%)","tone":"negative"},{"label":"Minério de ferro (Dalian)","value":"+1,56%","tone":"positive"}]},{"title":"Risco Brasil","items":[{"label":"CDS Brasil 5 anos (último dado achado: 26/10, intradia)","value":"152 pts · moderado","tone":"neutral"}]}],"agenda":[{"time":"07:00","country":"EU","event":"IPC Flash (HICP) Zona do Euro a/a - out","stars":3,"actual":"4,0%","forecast":"3,9%","previous":"3,8%"},{"time":"10:15","country":"US","event":"ADP - emprego privado","stars":2,"actual":"-","forecast":"-","previous":"-"},{"time":"10:30","country":"US","event":"Balança comercial","stars":2,"actual":"-","forecast":"-US$ 108 bi","previous":"-"},{"time":"12:00","country":"US","event":"ISM de Serviços - out","stars":3,"actual":"-","forecast":"54,8","previous":"-"},{"time":"12:30","country":"US","event":"Estoques de petróleo (EIA)","stars":2,"actual":"-","forecast":"-","previous":"-"},{"time":"14:30","country":"BR","event":"Caged - saldo de empregos (set)","stars":2,"actual":"-","forecast":"~180 mil","previous":"-"},{"time":"18:30","country":"BR","event":"Decisão do Copom (Selic)","stars":3,"actual":"-","forecast":"13,75%","previous":"13,75%"}],"news":["Democratas conquistam o controle das duas casas do Congresso dos EUA; futuros sobem e bancos europeus avançam. Trump admite que a guerra com o Irã pesou no resultado.","Ibovespa caiu 1,42% a 165.528 pts na terça (6ª queda); Petrobras (PETR4) -3,79% com petróleo em baixa e Vale (VALE3) -2,85% com minério mais fraco. Dólar fechou a R$ 5,4872, maior nível desde dez/2025.","Copom decide a Selic hoje (esperada em 13,75%, fim do ciclo de cortes); Focus eleva IPCA 2027 para 4,76% e dólar de fim de 2026 para R$ 5,34.","Itaú reporta lucro recorrente de R$ 12,62 bi no 3T; Prio, Vibra, Totvs, C&A, Tenda e Smart Fit divulgam balanços após o fechamento.","Governo brasileiro aguarda proposta comercial dos EUA nos próximos dias; Brent cai com negociações para encerrar a guerra EUA-Israel x Irã (mediação do Catar)."]}
+{
+  "updated_at": "05/11/2026 09:30",
+  "gap_estimate": "Abertura em leve alta",
+  "gap_tone": "positive",
+  "summary": "Brasil deve abrir em leve alta após o Ibovespa interromper seis quedas: WINZ26 ~170.315 pts (+0,46%), EWZ +0,65% e ADRs de Vale e Petrobras no azul no pré-market. Copom travou a Selic em 13,75%, e o Nasdaq futuro (-0,49%) e a Ásia (Nikkei -1,79%) pesam; Brent recupera (US$ 96,9) após tombo de 8,7%. Agenda: produção industrial às 9h e decisão do BoE.",
+  "sections": [
+    {
+      "title": "Taxas - Frequências",
+      "items": [
+        {
+          "label": "Nível 1",
+          "value": "168.860",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nível 2",
+          "value": "168.385",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nível 3",
+          "value": "168.290",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ajuste Mini Índice",
+      "items": [
+        {
+          "label": "Ajuste (WINZ26, fech. 04/11)",
+          "value": "169.530 pts",
+          "tone": "positive"
+        },
+        {
+          "label": "Variação (pontos)",
+          "value": "+1.530 pts (+0,91%)",
+          "tone": "positive"
+        },
+        {
+          "label": "WIN ~09h (WINZ26)",
+          "value": "170.315 pts (+0,46%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Moedas",
+      "items": [
+        {
+          "label": "Dólar (USD/BRL)",
+          "value": "R$ 5,458 (-0,03%)",
+          "tone": "neutral"
+        },
+        {
+          "label": "Bitcoin (BTC/USD)",
+          "value": "US$ 80.060 (-0,45%)",
+          "tone": "neutral"
+        },
+        {
+          "label": "Bitcoin (BTC/BRL)",
+          "value": "R$ 438.394 (-0,14%)",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Índices",
+      "items": [
+        {
+          "label": "DXY",
+          "value": "101,55 (-0,02%)",
+          "tone": "neutral"
+        },
+        {
+          "label": "VIX",
+          "value": "16,85 (+1,69%)",
+          "tone": "neutral"
+        },
+        {
+          "label": "CRB (fech. 04/11)",
+          "value": "503,43 (-2,32%)",
+          "tone": "negative"
+        },
+        {
+          "label": "EWZ (pré-market)",
+          "value": "US$ 32,46 (+0,65%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "ADR",
+      "items": [
+        {
+          "label": "Vale (VALE) pré-market",
+          "value": "US$ 11,53 (+0,87%)",
+          "tone": "positive"
+        },
+        {
+          "label": "Petrobras (PBR) pré-market",
+          "value": "US$ 19,82 (+1,07%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Futuros Americanos",
+      "items": [
+        {
+          "label": "S&P 500 fut. (ES)",
+          "value": "+0,23%",
+          "tone": "positive"
+        },
+        {
+          "label": "Dow fut. (YM)",
+          "value": "+0,65%",
+          "tone": "positive"
+        },
+        {
+          "label": "Nasdaq fut. (NQ)",
+          "value": "-0,49%",
+          "tone": "negative"
+        }
+      ]
+    },
+    {
+      "title": "Ásia",
+      "items": [
+        {
+          "label": "Nikkei 225",
+          "value": "61.078 (-1,79%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Hang Seng",
+          "value": "24.755 (+3,49%)",
+          "tone": "positive"
+        },
+        {
+          "label": "CSI 300",
+          "value": "4.113 (+0,29%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Europa",
+      "items": [
+        {
+          "label": "DAX",
+          "value": "26.607 (+0,64%)",
+          "tone": "positive"
+        },
+        {
+          "label": "FTSE 100",
+          "value": "10.892 (+0,58%)",
+          "tone": "positive"
+        },
+        {
+          "label": "Euro Stoxx 50",
+          "value": "6.300 (+0,20%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Commodities",
+      "items": [
+        {
+          "label": "Petróleo Brent",
+          "value": "US$ 96,88 (+2,38%)",
+          "tone": "positive"
+        },
+        {
+          "label": "Minério de ferro (Dalian)",
+          "value": "CNY 691 (+1,32%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Risco Brasil",
+      "items": [
+        {
+          "label": "CDS Brasil 5 anos (fech. 04/11)",
+          "value": "148 pts · baixo",
+          "tone": "positive"
+        }
+      ]
+    }
+  ],
+  "agenda": [
+    {
+      "time": "07:00",
+      "country": "EU",
+      "event": "Preços ao Produtor (PPI) m/m - set",
+      "stars": 2,
+      "actual": "2,5%",
+      "forecast": "2,5%",
+      "previous": "2,0%"
+    },
+    {
+      "time": "07:00",
+      "country": "EU",
+      "event": "Preços ao Produtor (PPI) a/a - set",
+      "stars": 2,
+      "actual": "11,1%",
+      "forecast": "10,9%",
+      "previous": "8,3%"
+    },
+    {
+      "time": "07:00",
+      "country": "EU",
+      "event": "Vendas no Varejo m/m - set",
+      "stars": 2,
+      "actual": "0,1%",
+      "forecast": "0,2%",
+      "previous": "0,3%"
+    },
+    {
+      "time": "09:00",
+      "country": "BR",
+      "event": "Produção Industrial m/m - set",
+      "stars": 2,
+      "actual": "-0,8%",
+      "forecast": "-0,2%",
+      "previous": "-0,7%"
+    },
+    {
+      "time": "09:00",
+      "country": "BR",
+      "event": "Produção Industrial a/a - set",
+      "stars": 2,
+      "actual": "-2,5%",
+      "forecast": "-1,7%",
+      "previous": "-1,2%"
+    },
+    {
+      "time": "09:00",
+      "country": "UK",
+      "event": "Decisão de Juros do Banco da Inglaterra (BoE)",
+      "stars": 3,
+      "actual": "4,00%",
+      "forecast": "4,00%",
+      "previous": "3,75%"
+    },
+    {
+      "time": "10:30",
+      "country": "US",
+      "event": "Pedidos Iniciais de Seguro-Desemprego",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "196 mil",
+      "previous": "194 mil"
+    },
+    {
+      "time": "10:30",
+      "country": "US",
+      "event": "Produtividade Não Agrícola t/t (prel. 3T)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "2,8%",
+      "previous": "1,4%"
+    },
+    {
+      "time": "10:50",
+      "country": "US",
+      "event": "Discurso de Hammack (Fed)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "11:10",
+      "country": "US",
+      "event": "Discurso de Barkin (Fed)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "12:00",
+      "country": "EU",
+      "event": "Discurso de Lagarde (BCE)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    }
+  ],
+  "news": [
+    "Copom manteve a Selic em 13,75% por unanimidade, interrompendo cinco cortes seguidos; projeção do BC para o IPCA 2026 subiu de 5,2% para 5,6% e a de 2027 de 3,9% para 4,7%.",
+    "Ibovespa subiu 1,23% (167.563 pts) na quarta, encerrando seis quedas; dólar à vista recuou 0,64% para R$ 5,4518. WINZ26 fechou a 169.530 pts (+0,91%).",
+    "Petrobras: PETR4 -7,08% e PETR3 -7,64% (Prio -8,73%) na quarta com Brent -8,66% a US$ 94,62 por expectativa de saída diplomática na guerra com o Irã após vitória democrata nos EUA; ADR PBR +1,07% no pré-market e Brent tenta recuperar (~US$ 96,9).",
+    "Vale: ADR subiu 4,1% na quarta e +0,87% no pré-market; minério de ferro em Dalian +1,32% (CNY 691).",
+    "Balanços: Axia lucro líquido de R$ 1,113 bi (ajustado -19,1%), Prio lucro de US$ 521 mi, Vibra R$ 2,46 bi; teleconferência da Axia às 11h.",
+    "Ásia em queda forte em tecnologia: Kospi -5,28%, Taiex -3,20%, Nikkei -1,79%; Hang Seng +3,67%. Qualcomm cai mais de 8% no after-market e pressiona o Nasdaq futuro.",
+    "Lula fará pronunciamento em rede nacional no domingo; mercado espera sinais fiscais e a definição do próximo ministro da Fazenda."
+  ]
+}
