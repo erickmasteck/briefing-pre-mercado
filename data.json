@@ -1,72 +1,311 @@
 {
-  "updated_at": "09/11/2026 06:30",
-  "gap_estimate": "Abertura mista, viés neutro a leve alta",
-  "gap_tone": "neutral",
-  "summary": "Futuros de NY sobem (S&P +0,2% a +0,6%, Dow +0,6%), Nikkei sobe 2,3% e Europa abre em alta, mas Brent cai ~2% (pesa em Petrobras) e o minério recua em Dalian. Ibovespa fechou sexta em 168.498 pts (+1,39%); o WIN/ajuste e os ADRs/EWZ não foram confirmados. Nvidia cai ~4% no pré-mercado e o CPI dos EUA sai amanhã.",
+  "updated_at": "09/11/2026 09:53",
+  "gap_estimate": "Abertura em leve alta",
+  "gap_tone": "positive",
+  "summary": "WINZ26 opera em leve alta (~170.980, +0,20%) com futuros de NY positivos (ES +0,7%, YM +1,0%, NQ +0,7%), Nikkei +2,3% e Europa em alta. Brent cai ~3,4% (US$ 94,96) e pressiona Petrobras no pré; Vale sobe ~2,6% no pré-market. Ibovespa fechou sexta em 168.498 pts (+1,39%). Ajuste oficial do WIN ficou N/D.",
   "sections": [
-    {"title": "Taxas - Frequências", "items": [
-      {"label": "Nível 1", "value": "169.205", "tone": "neutral"},
-      {"label": "Nível 2", "value": "169.110", "tone": "neutral"},
-      {"label": "Nível 3", "value": "168.680", "tone": "neutral"}
-    ]},
-    {"title": "Ajuste Mini Índice", "items": [
-      {"label": "Ajuste (pontos)", "value": "N/D", "tone": "neutral"},
-      {"label": "Variação (pontos)", "value": "N/D", "tone": "neutral"},
-      {"label": "WIN ~09h (WINZ26)", "value": "N/D", "tone": "neutral"}
-    ]},
-    {"title": "Moedas", "items": [
-      {"label": "Dólar (USD/BRL) fech. 06/11", "value": "R$ 5,508 (+0,36%)", "tone": "negative"},
-      {"label": "Bitcoin (USD)", "value": "US$ 74.094 (-2,16%)", "tone": "negative"},
-      {"label": "Bitcoin (R$, aprox.)", "value": "R$ 408.100 (-2,16%)", "tone": "negative"}
-    ]},
-    {"title": "Índices", "items": [
-      {"label": "DXY", "value": "N/D", "tone": "neutral"},
-      {"label": "VIX", "value": "23,46 (-8,46%)", "tone": "positive"},
-      {"label": "CRB (commodities)", "value": "N/D", "tone": "neutral"},
-      {"label": "EWZ (pré-market)", "value": "N/D", "tone": "neutral"}
-    ]},
-    {"title": "ADR", "items": [
-      {"label": "Vale (VALE)", "value": "N/D", "tone": "neutral"},
-      {"label": "Petrobras (PBR)", "value": "N/D", "tone": "neutral"}
-    ]},
-    {"title": "Futuros Americanos", "items": [
-      {"label": "S&P 500 fut. (ES)", "value": "+0,22% a +0,59%", "tone": "positive"},
-      {"label": "Dow Jones fut. (YM)", "value": "+0,63% a +1,02%", "tone": "positive"},
-      {"label": "Nasdaq fut. (NQ)", "value": "-0,29% a +0,36%", "tone": "neutral"}
-    ]},
-    {"title": "Ásia", "items": [
-      {"label": "Nikkei 225", "value": "58.775,50 (+2,3%)", "tone": "positive"},
-      {"label": "Hang Seng", "value": "24.448,95 (-0,1%)", "tone": "neutral"},
-      {"label": "CSI 300", "value": "N/D (Xangai +0,3%)", "tone": "neutral"}
-    ]},
-    {"title": "Europa", "items": [
-      {"label": "DAX", "value": "25.974,42 (+0,6%)", "tone": "positive"},
-      {"label": "FTSE 100", "value": "10.720,81 (+0,4%)", "tone": "positive"},
-      {"label": "Euro Stoxx 50", "value": "N/D (STOXX 600 +0,27%)", "tone": "neutral"}
-    ]},
-    {"title": "Commodities", "items": [
-      {"label": "Petróleo Brent", "value": "US$ 96,37 (-1,98%)", "tone": "negative"},
-      {"label": "Minério de ferro (Dalian)", "value": "em queda (% N/D)", "tone": "negative"}
-    ]},
-    {"title": "Risco Brasil", "items": [
-      {"label": "CDS Brasil 5 anos", "value": "N/D", "tone": "neutral"}
-    ]}
+    {
+      "title": "Taxas - Frequências",
+      "items": [
+        {
+          "label": "Nível 1",
+          "value": "169.205",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nível 2",
+          "value": "169.110",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nível 3",
+          "value": "168.680",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ajuste Mini Índice",
+      "items": [
+        {
+          "label": "Ajuste (pontos)",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "Variação (pontos)",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "WIN agora (WINZ26)",
+          "value": "170.980 (+0,20%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Moedas",
+      "items": [
+        {
+          "label": "Dólar (USD/BRL)",
+          "value": "R$ 5,508 (+0,09%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Bitcoin (USD)",
+          "value": "US$ 74.814 (-1,33%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Bitcoin (R$, aprox.)",
+          "value": "R$ 412.110 (-1,33%)",
+          "tone": "negative"
+        }
+      ]
+    },
+    {
+      "title": "Índices",
+      "items": [
+        {
+          "label": "DXY",
+          "value": "101,88 (-0,41%)",
+          "tone": "positive"
+        },
+        {
+          "label": "VIX",
+          "value": "23,36 (-8,89%)",
+          "tone": "positive"
+        },
+        {
+          "label": "CRB (commodities)",
+          "value": "504,89 (-0,12%, fech. 06/11)",
+          "tone": "neutral"
+        },
+        {
+          "label": "EWZ (pré-market)",
+          "value": "US$ 32,25 (+0,84%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "ADR",
+      "items": [
+        {
+          "label": "Vale (VALE)",
+          "value": "US$ 11,89 (+2,57% pré)",
+          "tone": "positive"
+        },
+        {
+          "label": "Petrobras (PBR)",
+          "value": "US$ 18,45 (-0,43% pré)",
+          "tone": "negative"
+        }
+      ]
+    },
+    {
+      "title": "Futuros Americanos",
+      "items": [
+        {
+          "label": "S&P 500 fut. (ES)",
+          "value": "+0,72%",
+          "tone": "positive"
+        },
+        {
+          "label": "Dow Jones fut. (YM)",
+          "value": "+1,00%",
+          "tone": "positive"
+        },
+        {
+          "label": "Nasdaq fut. (NQ)",
+          "value": "+0,67%",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Ásia",
+      "items": [
+        {
+          "label": "Nikkei 225",
+          "value": "58.775,50 (+2,33%)",
+          "tone": "positive"
+        },
+        {
+          "label": "Hang Seng",
+          "value": "24.448,95 (-0,13%)",
+          "tone": "neutral"
+        },
+        {
+          "label": "CSI 300",
+          "value": "4.056,11 (var. N/D; Xangai +0,32%)",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Europa",
+      "items": [
+        {
+          "label": "DAX",
+          "value": "26.082,34 (+1,01%)",
+          "tone": "positive"
+        },
+        {
+          "label": "FTSE 100",
+          "value": "10.749,22 (+0,71%)",
+          "tone": "positive"
+        },
+        {
+          "label": "Euro Stoxx 50",
+          "value": "6.247,77 (+1,25%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Commodities",
+      "items": [
+        {
+          "label": "Petróleo Brent",
+          "value": "US$ 94,96 (-3,42%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Minério de ferro (Dalian)",
+          "value": "687,5 yuan (-0,29%)",
+          "tone": "negative"
+        }
+      ]
+    },
+    {
+      "title": "Risco Brasil",
+      "items": [
+        {
+          "label": "CDS Brasil 5 anos (fech. 06/11)",
+          "value": "148 pts · baixo",
+          "tone": "positive"
+        }
+      ]
+    }
   ],
   "agenda": [
-    {"time": "04:00", "country": "DE", "event": "Balança comercial (set)", "stars": 2, "actual": "€15,6 bi", "forecast": "€19,2 bi", "previous": "€17,8 bi"},
-    {"time": "08:30", "country": "BR", "event": "Boletim Focus (BCB)", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "10:40", "country": "US", "event": "Discurso Fed Bowman", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "12:00", "country": "US", "event": "Discurso Fed Goolsbee", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "14:15", "country": "US", "event": "Discursos Fed Barkin e Bowman", "stars": 2, "actual": "-", "forecast": "-", "previous": "-"},
-    {"time": "22:30", "country": "CN", "event": "CPI a/a (out) - divulgado dom. à noite", "stars": 2, "actual": "0,7%", "forecast": "0,8%", "previous": "0,9%"},
-    {"time": "22:30", "country": "CN", "event": "PPI a/a (out) - divulgado dom. à noite", "stars": 2, "actual": "5,7%", "forecast": "5,3%", "previous": "5,0%"}
+    {
+      "time": "04:00",
+      "country": "DE",
+      "event": "Balança comercial (set)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "06:30",
+      "country": "EU",
+      "event": "Sentix confiança do investidor (nov)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "08:00",
+      "country": "BR",
+      "event": "IGP-DI (out)",
+      "stars": 2,
+      "actual": "1,15%",
+      "forecast": "1,29%",
+      "previous": "1,50%"
+    },
+    {
+      "time": "08:00",
+      "country": "BR",
+      "event": "IPC-S 1ª quadrissemana (nov)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "0,32%"
+    },
+    {
+      "time": "08:25",
+      "country": "BR",
+      "event": "Boletim Focus (BCB)",
+      "stars": 2,
+      "actual": "Selic 2026 13,75%",
+      "forecast": "-",
+      "previous": "13,50%"
+    },
+    {
+      "time": "10:40",
+      "country": "US",
+      "event": "Discurso Fed Bowman",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "12:00",
+      "country": "US",
+      "event": "Discurso Fed Goolsbee",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "13:00",
+      "country": "US",
+      "event": "Expectativas de inflação consumidores NY Fed (out)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "3,9%"
+    },
+    {
+      "time": "14:15",
+      "country": "US",
+      "event": "Discurso Fed Barkin",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "15:00",
+      "country": "BR",
+      "event": "Balança comercial semanal (Secex)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "—",
+      "country": "CN",
+      "event": "CPI a/a (out) - divulgado",
+      "stars": 2,
+      "actual": "0,7%",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "—",
+      "country": "CN",
+      "event": "PPI a/a (out) - divulgado",
+      "stars": 2,
+      "actual": "5,7%",
+      "forecast": "-",
+      "previous": "-"
+    }
   ],
   "news": [
-    "Nvidia cai ~4% no pré-mercado após o conselho abrir investigação independente sobre o CEO Jensen Huang.",
-    "Petróleo recua ~2% (Brent a US$ 96,37) após Trump dizer ser improvável novos ataques ao Irã enquanto negociações avançam.",
-    "China: PPI de outubro a 5,7% a/a (máxima em mais de 4 anos) e CPI a 0,7%, abaixo do esperado; minério cai em Dalian.",
-    "CPI dos EUA sai amanhã (10/11) e PPI na sexta; mercado busca pistas sobre o próximo passo do Fed.",
-    "Ibovespa fechou sexta em 168.498,45 pts (+1,39%), semana +0,34%; dólar comercial fechou a R$ 5,508 (+0,36%).",
-    "Balanços de IA (CoreWeave, Cisco, Applied Materials) no radar da semana."
+    "Ibovespa fechou sexta (06/11) em 168.498,45 pts (+1,39%); WINZ26 opera perto de 170.980 (+0,20% vs. ant. ADVFN).",
+    "Petróleo Brent cai ~3,4% (US$ 94,96) após Trump indicar ser improvável novos ataques ao Irã; Petrobras recua no pré-market (-0,43%).",
+    "Nvidia cai ~4,5% no pré-market após anunciar investigação envolvendo o CEO Jensen Huang.",
+    "Focus: mercado eleva Selic 2026 de 13,50% para 13,75%, mantém IPCA 2026 em 5,22% e corta PIB 2026 para 1,75%.",
+    "IGP-DI de outubro sobe 1,15% (abaixo da mediana 1,29%); CPI China 0,7% e PPI 5,7% a/a; minério em Dalian -0,29%.",
+    "Estrelas da agenda foram estimadas a partir de calendários (Valor/Boletim Nacional); Investing.com bloqueou o scrape de importância."
   ]
 }
