@@ -1,25 +1,25 @@
 {
- "updated_at": "10/11/2026 08:55",
+ "updated_at": "11/11/2026 11:51",
  "gap_estimate": "Abertura em leve alta, viés positivo",
  "gap_tone": "positive",
- "summary": "Ásia (Nikkei +2,87%) e Europa (DAX +1,2%) sobem e o Brent cai ~1,4% (US$ 91,26), enquanto futuros de NY ficam mistos antes do CPI dos EUA (10h30) e da ata do Copom. Ibovespa fechou ontem em 172.236 pts (+2,22%) e o WINZ26 em 174.276 (ajuste). ADR da Vale, EWZ, VIX, CRB e CDS estão N/D; não há WIN ~09h confirmado.",
+ "summary": "Futuros de NY mistos (S&P +0,79%, Nasdaq +1,80%, Dow -0,02%), Nikkei +1,31% e Europa em alta (DAX +0,67%), puxados por tecnologia/IA após CoreWeave; Brent sobe ~1,9% (US$ 93,21) e minério cai em Dalian. Ibovespa fechou ontem em 171.336,99 pts (-0,52%) e dólar a R$ 5,586 (+1,46%), pressionado pelo CPI dos EUA. Ajuste/WIN, ADRs, EWZ, CRB e CDS não confirmados (N/D).",
  "sections": [
   {
    "title": "Taxas - Frequências",
    "items": [
     {
      "label": "Nível 1",
-     "value": "173.325",
+     "value": "173.740",
      "tone": "neutral"
     },
     {
      "label": "Nível 2",
-     "value": "173.230",
+     "value": "173.265",
      "tone": "neutral"
     },
     {
      "label": "Nível 3",
-     "value": "172.800",
+     "value": "173.170",
      "tone": "neutral"
     }
    ]
@@ -29,7 +29,7 @@
    "items": [
     {
      "label": "Ajuste (pontos)",
-     "value": "174.276 (fech. 09/11)",
+     "value": "N/D",
      "tone": "neutral"
     },
     {
@@ -48,19 +48,19 @@
    "title": "Moedas",
    "items": [
     {
-     "label": "Dólar (USD/BRL) fech. 09/11",
-     "value": "R$ 5,506 (-0,06%)",
-     "tone": "positive"
+     "label": "Dólar (USD/BRL) fech. 10/11",
+     "value": "R$ 5,586 (+1,46%)",
+     "tone": "negative"
     },
     {
      "label": "Bitcoin (USD)",
-     "value": "US$ 74.212 (-0,3%)",
-     "tone": "negative"
+     "value": "US$ 73.969 (+0,36%)",
+     "tone": "positive"
     },
     {
      "label": "Bitcoin (R$, aprox.)",
-     "value": "R$ 409.405 (-0,3%)",
-     "tone": "negative"
+     "value": "N/D",
+     "tone": "neutral"
     }
    ]
   },
@@ -69,13 +69,13 @@
    "items": [
     {
      "label": "DXY",
-     "value": "101,59 (-0,06%)",
-     "tone": "neutral"
+     "value": "102,5 (+0,19%)",
+     "tone": "negative"
     },
     {
      "label": "VIX",
-     "value": "N/D",
-     "tone": "neutral"
+     "value": "18,68 (-4,01%)",
+     "tone": "positive"
     },
     {
      "label": "CRB (commodities)",
@@ -94,12 +94,12 @@
    "items": [
     {
      "label": "Vale (VALE)",
-     "value": "N/D (fech. 09/11: US$ 11,97, +3,28%)",
+     "value": "N/D",
      "tone": "neutral"
     },
     {
      "label": "Petrobras (PBR)",
-     "value": "estável (ON); PBR-A -0,25%",
+     "value": "N/D",
      "tone": "neutral"
     }
    ]
@@ -109,18 +109,18 @@
    "items": [
     {
      "label": "S&P 500 fut. (ES)",
-     "value": "-0,03% a +0,10%",
-     "tone": "neutral"
-    },
-    {
-     "label": "Dow Jones fut. (YM)",
-     "value": "+0,29% a +0,35%",
+     "value": "+0,79%",
      "tone": "positive"
     },
     {
+     "label": "Dow Jones fut. (YM)",
+     "value": "-0,02%",
+     "tone": "neutral"
+    },
+    {
      "label": "Nasdaq fut. (NQ)",
-     "value": "-0,19% a -0,43%",
-     "tone": "negative"
+     "value": "+1,80%",
+     "tone": "positive"
     }
    ]
   },
@@ -129,18 +129,18 @@
    "items": [
     {
      "label": "Nikkei 225",
-     "value": "+2,87%",
+     "value": "61.248,59 (+1,31%)",
      "tone": "positive"
     },
     {
      "label": "Hang Seng",
-     "value": "+0,44%",
-     "tone": "positive"
+     "value": "24.315,92 (-0,98%)",
+     "tone": "negative"
     },
     {
      "label": "CSI 300",
-     "value": "N/D (Xangai +0,08%)",
-     "tone": "neutral"
+     "value": "4.075,71 (+0,34%)",
+     "tone": "positive"
     }
    ]
   },
@@ -149,18 +149,18 @@
    "items": [
     {
      "label": "DAX",
-     "value": "+1,16% a +1,31%",
+     "value": "26.619 (+0,87%)",
      "tone": "positive"
     },
     {
      "label": "FTSE 100",
-     "value": "+0,34% a +0,40%",
+     "value": "10.834 (+0,77%)",
      "tone": "positive"
     },
     {
      "label": "Euro Stoxx 50",
-     "value": "N/D (STOXX 600 +0,78%)",
-     "tone": "neutral"
+     "value": "+0,92% (abertura)",
+     "tone": "positive"
     }
    ]
   },
@@ -169,13 +169,13 @@
    "items": [
     {
      "label": "Petróleo Brent",
-     "value": "US$ 91,26 (-1,42%)",
-     "tone": "negative"
+     "value": "US$ 93,21 (+1,87%)",
+     "tone": "positive"
     },
     {
      "label": "Minério de ferro (Dalian)",
-     "value": "684 iuanes (-0,07%)",
-     "tone": "neutral"
+     "value": "683,50 iuanes (-0,36%)",
+     "tone": "negative"
     }
    ]
   },
@@ -190,77 +190,13 @@
    ]
   }
  ],
- "agenda": [
-  {
-   "time": "08:00",
-   "country": "BR",
-   "event": "Ata do Copom",
-   "stars": 3,
-   "actual": "-",
-   "forecast": "-",
-   "previous": "-"
-  },
-  {
-   "time": "10:30",
-   "country": "US",
-   "event": "CPI a/a (out)",
-   "stars": 3,
-   "actual": "-",
-   "forecast": "3,9%",
-   "previous": "3,7%"
-  },
-  {
-   "time": "10:30",
-   "country": "US",
-   "event": "CPI m/m (out)",
-   "stars": 3,
-   "actual": "-",
-   "forecast": "0,3%",
-   "previous": "0,6%"
-  },
-  {
-   "time": "10:30",
-   "country": "US",
-   "event": "CPI núcleo m/m (out)",
-   "stars": 3,
-   "actual": "-",
-   "forecast": "0,2%",
-   "previous": "0,3%"
-  },
-  {
-   "time": "11:50",
-   "country": "US",
-   "event": "Discurso Fed Logan",
-   "stars": 2,
-   "actual": "-",
-   "forecast": "-",
-   "previous": "-"
-  },
-  {
-   "time": "15:30",
-   "country": "US",
-   "event": "Discurso Fed Schmid",
-   "stars": 2,
-   "actual": "-",
-   "forecast": "-",
-   "previous": "-"
-  },
-  {
-   "time": "17:30",
-   "country": "US",
-   "event": "Discurso Fed Bowman",
-   "stars": 2,
-   "actual": "-",
-   "forecast": "-",
-   "previous": "-"
-  }
- ],
+ "agenda": [],
  "news": [
-  "Ibovespa fechou ontem em 172.236,05 pts (+2,22%), na máxima do dia, puxado por Vale (+3,23%) e bancos; dólar comercial a R$ 5,506.",
-  "Brent recua ~1,4% (US$ 91,26) após queda de mais de 4% na véspera; Petrobras divulga balanço do 3T26 após o fechamento.",
-  "CPI de outubro dos EUA sai às 10h30; consenso de +0,3% m/m e 3,9% a/a, com CME FedWatch indicando 84% de chance de alta de juros em dezembro.",
-  "Ata do Copom (Selic mantida em 13,75%) sai às 8h; Embraer reportou lucro líquido ajustado de R$ 379,8 mi no 3T26.",
-  "Nikkei sobe 2,87% e Kospi mais de 4% na Ásia; receita de outubro da TSMC cresce 59,7% a/a.",
-  "Estrelas da agenda estimadas a partir de calendários públicos (fonte sem classificação de importância)."
+  "Ibovespa fechou ontem em 171.336,99 pts (-0,52%); dólar subiu 1,46% a R$ 5,586, maior valor desde jul/2025, após CPI dos EUA acima do esperado.",
+  "Petrobras teve lucro líquido de R$ 39,75 bi no 3T (+21,5%) e faz teleconferência hoje; Banco do Brasil e Hapvida divulgam balanços após o fechamento.",
+  "CoreWeave reportou receita +168% no trimestre e impulsiona tecnologia; Nasdaq futuro sobe 1,80%.",
+  "CPI dos EUA subiu 0,4% em outubro; mercado precifica alta de juros do Fed em dezembro, com possibilidade de 50 pb.",
+  "Brent sobe ~1,9% a US$ 93,21 com ataques a navios no Estreito de Ormuz; minério cai 0,36% em Dalian.",
+  "Galípolo (BC) fala às 14h15; agenda econômica não incluída por falta de fonte com estrelas confiável."
  ]
 }
