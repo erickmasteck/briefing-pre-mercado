@@ -1,202 +1,302 @@
 {
- "updated_at": "11/11/2026 08:51",
- "gap_estimate": "Abertura em leve alta, viés positivo",
- "gap_tone": "positive",
- "summary": "Futuros de NY mistos (S&P +0,79%, Nasdaq +1,80%, Dow -0,02%), Nikkei +1,31% e Europa em alta (DAX +0,67%), puxados por tecnologia/IA após CoreWeave; Brent sobe ~1,9% (US$ 93,21) e minério cai em Dalian. Ibovespa fechou ontem em 171.336,99 pts (-0,52%) e dólar a R$ 5,586 (+1,46%), pressionado pelo CPI dos EUA. Ajuste/WIN, ADRs, EWZ, CRB e CDS não confirmados (N/D).",
- "sections": [
-  {
-   "title": "Taxas - Frequências",
-   "items": [
+  "updated_at": "12/11/2026 11:56",
+  "gap_estimate": "Abertura em leve queda, viés negativo",
+  "gap_tone": "negative",
+  "summary": "Pesam Nvidia (queda no after-market), futuros de NY em baixa (S&P -0,38%, Nasdaq -0,83%), Ásia no vermelho (Hang Seng -1,26%), EWZ -0,99% no pré-mercado, VIX +4,69% e minério em Dalian -1,61%; Europa em alta (DAX +0,82%) e dólar fechou ontem em R$ 5,5618 (-0,43%). Ibovespa fechou ontem em 172.060 pts (+0,42%); IPCA de outubro sai às 09h. Pendentes/N/D: níveis de Taxas - Frequências (aguardando Telegram) e variação do ajuste.",
+  "sections": [
     {
-     "label": "Nível 1",
-     "value": "173.740",
-     "tone": "neutral"
+      "title": "Taxas - Frequências",
+      "items": [
+        {
+          "label": "Nível 1",
+          "value": "172.680",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nível 2",
+          "value": "172.205",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nível 3",
+          "value": "172.110",
+          "tone": "neutral"
+        }
+      ]
     },
     {
-     "label": "Nível 2",
-     "value": "173.265",
-     "tone": "neutral"
+      "title": "Ajuste Mini Índice",
+      "items": [
+        {
+          "label": "Ajuste (pontos)",
+          "value": "173.849",
+          "tone": "neutral"
+        },
+        {
+          "label": "Variação (pontos)",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "WIN ~09h (WINZ26) fech. 11/11",
+          "value": "173.375 (+0,10%)",
+          "tone": "neutral"
+        }
+      ]
     },
     {
-     "label": "Nível 3",
-     "value": "173.170",
-     "tone": "neutral"
+      "title": "Moedas",
+      "items": [
+        {
+          "label": "Dólar (USD/BRL) fech. 11/11",
+          "value": "R$ 5,5618 (-0,43%)",
+          "tone": "positive"
+        },
+        {
+          "label": "Bitcoin (USD)",
+          "value": "US$ 73.021 (-1,29%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Bitcoin (R$, aprox.)",
+          "value": "R$ 407.498 (-1,42%)",
+          "tone": "negative"
+        }
+      ]
+    },
+    {
+      "title": "Índices",
+      "items": [
+        {
+          "label": "DXY",
+          "value": "102,92 (0,00%)",
+          "tone": "neutral"
+        },
+        {
+          "label": "VIX",
+          "value": "18,31 (+4,69%)",
+          "tone": "negative"
+        },
+        {
+          "label": "CRB (commodities) fech. 11/11",
+          "value": "386,48 (+0,69%)",
+          "tone": "positive"
+        },
+        {
+          "label": "EWZ (pré-market)",
+          "value": "US$ 32,12 (-0,99%)",
+          "tone": "negative"
+        }
+      ]
+    },
+    {
+      "title": "ADR",
+      "items": [
+        {
+          "label": "Vale (VALE)",
+          "value": "US$ 11,51 (-0,60%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Petrobras (PBR)",
+          "value": "US$ 17,90 (+0,45%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Futuros Americanos",
+      "items": [
+        {
+          "label": "S&P 500 fut. (ES)",
+          "value": "7.611,75 (-0,38%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Dow Jones fut. (YM)",
+          "value": "52.609 (+0,06%)",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nasdaq fut. (NQ)",
+          "value": "28.235,50 (-0,83%)",
+          "tone": "negative"
+        }
+      ]
+    },
+    {
+      "title": "Ásia",
+      "items": [
+        {
+          "label": "Nikkei 225",
+          "value": "60.819,36 (-0,70%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Hang Seng",
+          "value": "24.008,55 (-1,26%)",
+          "tone": "negative"
+        },
+        {
+          "label": "CSI 300",
+          "value": "4.043,93 (-0,78%)",
+          "tone": "negative"
+        }
+      ]
+    },
+    {
+      "title": "Europa",
+      "items": [
+        {
+          "label": "DAX",
+          "value": "26.859,49 (+0,82%)",
+          "tone": "positive"
+        },
+        {
+          "label": "FTSE 100",
+          "value": "10.875,28 (+0,37%)",
+          "tone": "positive"
+        },
+        {
+          "label": "Euro Stoxx 50",
+          "value": "6.411,15 (+0,28%)",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Commodities",
+      "items": [
+        {
+          "label": "Petróleo Brent",
+          "value": "US$ 92,25 (-0,55%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Minério de ferro (Dalian)",
+          "value": "¥ 671/t (-1,61%)",
+          "tone": "negative"
+        }
+      ]
+    },
+    {
+      "title": "Risco Brasil",
+      "items": [
+        {
+          "label": "CDS Brasil 5 anos fech. 11/11",
+          "value": "143,97 pts · baixo",
+          "tone": "positive"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "title": "Ajuste Mini Índice",
-   "items": [
+  ],
+  "agenda": [
     {
-     "label": "Ajuste (pontos)",
-     "value": "N/D",
-     "tone": "neutral"
+      "time": "04:00",
+      "country": "GB",
+      "event": "PIB (3T) t/t",
+      "stars": 3,
+      "actual": "0,7%",
+      "forecast": "0,7%",
+      "previous": "0,5%"
     },
     {
-     "label": "Variação (pontos)",
-     "value": "N/D",
-     "tone": "neutral"
+      "time": "09:00",
+      "country": "BR",
+      "event": "IPCA (out) m/m",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "0,26%",
+      "previous": "0,82%"
     },
     {
-     "label": "WIN ~09h (WINZ26)",
-     "value": "N/D",
-     "tone": "neutral"
+      "time": "09:00",
+      "country": "BR",
+      "event": "IPCA (out) 12 meses",
+      "stars": 3,
+      "actual": "-",
+      "forecast": "4,74%",
+      "previous": "4,58%"
+    },
+    {
+      "time": "10:30",
+      "country": "US",
+      "event": "Pedidos iniciais de seguro-desemprego",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "194K",
+      "previous": "189K"
+    },
+    {
+      "time": "12:00",
+      "country": "US",
+      "event": "Vendas de casas usadas (out)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "3,89M",
+      "previous": "3,99M"
+    },
+    {
+      "time": "12:00",
+      "country": "US",
+      "event": "Discurso Fed Barr",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "13:30",
+      "country": "US",
+      "event": "Discurso Fed Goolsbee",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "14:00",
+      "country": "US",
+      "event": "Estoques de petróleo bruto (EIA)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-0,6M",
+      "previous": "-0,865M"
+    },
+    {
+      "time": "15:10",
+      "country": "US",
+      "event": "Discurso Fed Daly",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "18:30",
+      "country": "EU",
+      "event": "Discurso Lagarde (BCE)",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
+    },
+    {
+      "time": "20:30",
+      "country": "US",
+      "event": "Discurso Fed Williams",
+      "stars": 2,
+      "actual": "-",
+      "forecast": "-",
+      "previous": "-"
     }
-   ]
-  },
-  {
-   "title": "Moedas",
-   "items": [
-    {
-     "label": "Dólar (USD/BRL) fech. 10/11",
-     "value": "R$ 5,586 (+1,46%)",
-     "tone": "negative"
-    },
-    {
-     "label": "Bitcoin (USD)",
-     "value": "US$ 73.969 (+0,36%)",
-     "tone": "positive"
-    },
-    {
-     "label": "Bitcoin (R$, aprox.)",
-     "value": "N/D",
-     "tone": "neutral"
-    }
-   ]
-  },
-  {
-   "title": "Índices",
-   "items": [
-    {
-     "label": "DXY",
-     "value": "102,5 (+0,19%)",
-     "tone": "negative"
-    },
-    {
-     "label": "VIX",
-     "value": "18,68 (-4,01%)",
-     "tone": "positive"
-    },
-    {
-     "label": "CRB (commodities)",
-     "value": "N/D",
-     "tone": "neutral"
-    },
-    {
-     "label": "EWZ (pré-market)",
-     "value": "N/D",
-     "tone": "neutral"
-    }
-   ]
-  },
-  {
-   "title": "ADR",
-   "items": [
-    {
-     "label": "Vale (VALE)",
-     "value": "N/D",
-     "tone": "neutral"
-    },
-    {
-     "label": "Petrobras (PBR)",
-     "value": "N/D",
-     "tone": "neutral"
-    }
-   ]
-  },
-  {
-   "title": "Futuros Americanos",
-   "items": [
-    {
-     "label": "S&P 500 fut. (ES)",
-     "value": "+0,79%",
-     "tone": "positive"
-    },
-    {
-     "label": "Dow Jones fut. (YM)",
-     "value": "-0,02%",
-     "tone": "neutral"
-    },
-    {
-     "label": "Nasdaq fut. (NQ)",
-     "value": "+1,80%",
-     "tone": "positive"
-    }
-   ]
-  },
-  {
-   "title": "Ásia",
-   "items": [
-    {
-     "label": "Nikkei 225",
-     "value": "61.248,59 (+1,31%)",
-     "tone": "positive"
-    },
-    {
-     "label": "Hang Seng",
-     "value": "24.315,92 (-0,98%)",
-     "tone": "negative"
-    },
-    {
-     "label": "CSI 300",
-     "value": "4.075,71 (+0,34%)",
-     "tone": "positive"
-    }
-   ]
-  },
-  {
-   "title": "Europa",
-   "items": [
-    {
-     "label": "DAX",
-     "value": "26.619 (+0,87%)",
-     "tone": "positive"
-    },
-    {
-     "label": "FTSE 100",
-     "value": "10.834 (+0,77%)",
-     "tone": "positive"
-    },
-    {
-     "label": "Euro Stoxx 50",
-     "value": "+0,92% (abertura)",
-     "tone": "positive"
-    }
-   ]
-  },
-  {
-   "title": "Commodities",
-   "items": [
-    {
-     "label": "Petróleo Brent",
-     "value": "US$ 93,21 (+1,87%)",
-     "tone": "positive"
-    },
-    {
-     "label": "Minério de ferro (Dalian)",
-     "value": "683,50 iuanes (-0,36%)",
-     "tone": "negative"
-    }
-   ]
-  },
-  {
-   "title": "Risco Brasil",
-   "items": [
-    {
-     "label": "CDS Brasil 5 anos",
-     "value": "N/D",
-     "tone": "neutral"
-    }
-   ]
-  }
- ],
- "agenda": [],
- "news": [
-  "Ibovespa fechou ontem em 171.336,99 pts (-0,52%); dólar subiu 1,46% a R$ 5,586, maior valor desde jul/2025, após CPI dos EUA acima do esperado.",
-  "Petrobras teve lucro líquido de R$ 39,75 bi no 3T (+21,5%) e faz teleconferência hoje; Banco do Brasil e Hapvida divulgam balanços após o fechamento.",
-  "CoreWeave reportou receita +168% no trimestre e impulsiona tecnologia; Nasdaq futuro sobe 1,80%.",
-  "CPI dos EUA subiu 0,4% em outubro; mercado precifica alta de juros do Fed em dezembro, com possibilidade de 50 pb.",
-  "Brent sobe ~1,9% a US$ 93,21 com ataques a navios no Estreito de Ormuz; minério cai 0,36% em Dalian.",
-  "Galípolo (BC) fala às 14h15; agenda econômica não incluída por falta de fonte com estrelas confiável."
- ]
+  ],
+  "news": [
+    "Nvidia caiu no after-market após notícia de que o conselho se prepara para afastar o CEO Jensen Huang; futuros da Nasdaq recuam (-0,83%).",
+    "Brent recua a US$ 92,25 (-0,55%) com esforços diplomáticos EUA-Irã; Petrobras avalia ajustes pontuais na política de preços.",
+    "Minério de ferro cai 1,61% em Dalian (¥ 671/t) com restrições à produção em Hebei e margens fracas das siderúrgicas; China importou 105,66 Mt em outubro.",
+    "IPCA de outubro sai às 09h (projeção 0,26% m/m e 4,74% em 12 meses); lucro do Banco do Brasil no 3T caiu 66,5%.",
+    "Petrobras fechou acordo para comprar os 70% restantes da Logum por R$ 620 mi.",
+    "Ibovespa fechou quarta em 172.060 pts (+0,42%) e o dólar a R$ 5,5618 (-0,43%); estrelas da agenda estimadas (fonte sem classificação de importância)."
+  ]
 }
