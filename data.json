@@ -1,257 +1,266 @@
 {
-  "updated_at": "17/11/2026 08:58",
-  "gap_estimate": "Abertura mista, viés neutro a negativo",
-  "gap_tone": "neutral",
-  "summary": "Europa (-0,8%) e Ásia (-1,0% a -1,3%) em queda e minério -2,44% em Dalian pesam; futuros de NY mistos (Nasdaq +0,53%, Dow -0,30%), Brent +0,49% e ADR da Petrobras +0,58% dão suporte. Ibovespa fechou segunda em 169.295 pts (-1,83%) e WIN em 171.000 (-1,83%) com dólar em alta e risco fiscal. Níveis do Telegram e var. % do dólar pendentes (N/D); estrelas da agenda estimadas.",
-  "sections": [
+ "updated_at": "18/11/2026 08:51",
+ "gap_estimate": "Abertura mista, viés neutro",
+ "gap_tone": "neutral",
+ "summary": "Futuros de NY sobem (S&P +0,45%, Nasdaq +0,93%) após balanço da Nvidia, e o Brent recua; por outro lado, EWZ (-0,58%), Vale (-1,15%) e Petrobras (-0,46%) caem no pré-mercado e o DXY sobe 0,29%. Ibovespa fechou ontem em 169.817 pts (+0,31%) e o WIN em 171.540 (+0,41%); variação do ajuste não confirmada (N/D). Hoje: votação dos destaques do ajuste fiscal no Senado (14h) e ata do Fed (16h).",
+ "sections": [
+  {
+   "title": "Taxas - Frequências",
+   "items": [
     {
-      "title": "Taxas - Frequências",
-      "items": [
-        {
-          "label": "Nível 1",
-          "value": "171.985",
-          "tone": "neutral"
-        },
-        {
-          "label": "Nível 2",
-          "value": "171.890",
-          "tone": "neutral"
-        },
-        {
-          "label": "Nível 3",
-          "value": "171.460",
-          "tone": "neutral"
-        }
-      ]
+     "label": "Nível 1",
+     "value": "172.925",
+     "tone": "neutral"
     },
     {
-      "title": "Ajuste Mini Índice",
-      "items": [
-        {
-          "label": "Ajuste (pontos)",
-          "value": "170.845",
-          "tone": "neutral"
-        },
-        {
-          "label": "Variação (pontos)",
-          "value": "-3.334",
-          "tone": "negative"
-        },
-        {
-          "label": "WIN ~09h (WINZ26) fech. 16/11",
-          "value": "171.000 (-1,83%)",
-          "tone": "negative"
-        }
-      ]
+     "label": "Nível 2",
+     "value": "172.830",
+     "tone": "neutral"
     },
     {
-      "title": "Moedas",
-      "items": [
-        {
-          "label": "Dólar (USD/BRL) fech. 16/11",
-          "value": "R$ 5,7911 (var. % N/D)",
-          "tone": "neutral"
-        },
-        {
-          "label": "Bitcoin (USD)",
-          "value": "US$ 64.850 (+0,64%)",
-          "tone": "positive"
-        },
-        {
-          "label": "Bitcoin (R$, aprox.)",
-          "value": "R$ 375.777 (+1,94%)",
-          "tone": "positive"
-        }
-      ]
-    },
-    {
-      "title": "Índices",
-      "items": [
-        {
-          "label": "DXY",
-          "value": "103,57 (-0,02%)",
-          "tone": "neutral"
-        },
-        {
-          "label": "VIX",
-          "value": "22,66 (-1,09%)",
-          "tone": "positive"
-        },
-        {
-          "label": "CRB (commodities) fech. 16/11",
-          "value": "379,76 (-1,75%)",
-          "tone": "negative"
-        },
-        {
-          "label": "EWZ (pré-market)",
-          "value": "US$ 30,86 (-0,19%)",
-          "tone": "neutral"
-        }
-      ]
-    },
-    {
-      "title": "ADR",
-      "items": [
-        {
-          "label": "Vale (VALE)",
-          "value": "US$ 10,47 (+0,10%)",
-          "tone": "neutral"
-        },
-        {
-          "label": "Petrobras (PBR)",
-          "value": "US$ 17,40 (+0,58%)",
-          "tone": "positive"
-        }
-      ]
-    },
-    {
-      "title": "Futuros Americanos",
-      "items": [
-        {
-          "label": "S&P 500 fut. (ES)",
-          "value": "+0,11%",
-          "tone": "neutral"
-        },
-        {
-          "label": "Dow Jones fut. (YM)",
-          "value": "-0,30%",
-          "tone": "neutral"
-        },
-        {
-          "label": "Nasdaq fut. (NQ)",
-          "value": "+0,53%",
-          "tone": "positive"
-        }
-      ]
-    },
-    {
-      "title": "Ásia",
-      "items": [
-        {
-          "label": "Nikkei 225",
-          "value": "58.860,43 (-1,34%)",
-          "tone": "negative"
-        },
-        {
-          "label": "Hang Seng",
-          "value": "23.508,17 (-1,03%)",
-          "tone": "negative"
-        },
-        {
-          "label": "CSI 300",
-          "value": "3.976,46 (-0,08%)",
-          "tone": "neutral"
-        }
-      ]
-    },
-    {
-      "title": "Europa",
-      "items": [
-        {
-          "label": "DAX",
-          "value": "26.428,61 (-0,76%)",
-          "tone": "negative"
-        },
-        {
-          "label": "FTSE 100",
-          "value": "10.803,33 (-0,82%)",
-          "tone": "negative"
-        },
-        {
-          "label": "Euro Stoxx 50",
-          "value": "6.300,25 (-0,76%)",
-          "tone": "negative"
-        }
-      ]
-    },
-    {
-      "title": "Commodities",
-      "items": [
-        {
-          "label": "Petróleo Brent",
-          "value": "US$ 92,89 (+0,49%)",
-          "tone": "positive"
-        },
-        {
-          "label": "Minério de ferro (Dalian)",
-          "value": "CNY 640,5 (-2,44%)",
-          "tone": "negative"
-        }
-      ]
-    },
-    {
-      "title": "Risco Brasil",
-      "items": [
-        {
-          "label": "CDS Brasil 5 anos fech. 16/11",
-          "value": "147,95 pts · baixo",
-          "tone": "positive"
-        }
-      ]
+     "label": "Nível 3",
+     "value": "172.400",
+     "tone": "neutral"
     }
-  ],
-  "agenda": [
+   ]
+  },
+  {
+   "title": "Ajuste Mini Índice",
+   "items": [
     {
-      "time": "04:00",
-      "country": "GB",
-      "event": "Taxa de desemprego (set-out)",
-      "stars": 2,
-      "actual": "-",
-      "forecast": "4,7%",
-      "previous": "4,7%"
+     "label": "Ajuste (pontos)",
+     "value": "171.468",
+     "tone": "neutral"
     },
     {
-      "time": "07:00",
-      "country": "DE",
-      "event": "ZEW percepção econômica (nov)",
-      "stars": 2,
-      "actual": "-",
-      "forecast": "28,3",
-      "previous": "28,1"
+     "label": "Variação (pontos)",
+     "value": "N/D",
+     "tone": "neutral"
     },
     {
-      "time": "10:30",
-      "country": "US",
-      "event": "Vendas no varejo m/m (out)",
-      "stars": 3,
-      "actual": "-",
-      "forecast": "0,2%",
-      "previous": "0,8%"
-    },
-    {
-      "time": "11:15",
-      "country": "US",
-      "event": "Produção industrial m/m (out)",
-      "stars": 2,
-      "actual": "-",
-      "forecast": "0,1%",
-      "previous": "0,7%"
-    },
-    {
-      "time": "11:10",
-      "country": "US",
-      "event": "Discurso Fed Waller",
-      "stars": 2,
-      "actual": "-",
-      "forecast": "-",
-      "previous": "-"
-    },
-    {
-      "time": "16:25",
-      "country": "US",
-      "event": "Discurso Fed Williams",
-      "stars": 2,
-      "actual": "-",
-      "forecast": "-",
-      "previous": "-"
+     "label": "WIN ~09h (WINZ26) fech. 17/11",
+     "value": "171.540 (+0,41%)",
+     "tone": "positive"
     }
-  ],
-  "news": [
-    "Ibovespa fechou segunda em 169.295,41 pts (-1,83%) com risco fiscal e saída de capital estrangeiro; Vale (VALE3) caiu 4,41% e Petrobras (PETR4) 2,83%.",
-    "Dólar comercial subiu cerca de 2,1% na segunda e fechou perto de R$ 5,78, maior nível desde abril de 2025.",
-    "Minério de ferro fechou em queda de 2,44% em Dalian (CNY 640,5), com quinta queda seguida da Vale.",
-    "Brent sobe ~0,5% a US$ 92,89 após cair 3,55% na segunda; Petrobras divulga plano de negócios 2027-2031 em 24/11.",
-    "Senado vota destaques do ajuste fiscal hoje; nos EUA, vendas no varejo de outubro às 10h30 e balanço da Nvidia à noite.",
-    "Estrelas da agenda estimadas (fontes não mostram importância)."
-  ]
+   ]
+  },
+  {
+   "title": "Moedas",
+   "items": [
+    {
+     "label": "Dólar (USD/BRL)",
+     "value": "R$ 5,7752 (0,00%)",
+     "tone": "neutral"
+    },
+    {
+     "label": "Bitcoin (USD)",
+     "value": "US$ 64.148 (-1,15%)",
+     "tone": "negative"
+    },
+    {
+     "label": "Bitcoin (R$, aprox.)",
+     "value": "R$ 372.770 (-0,95%)",
+     "tone": "negative"
+    }
+   ]
+  },
+  {
+   "title": "Índices",
+   "items": [
+    {
+     "label": "DXY",
+     "value": "103,71 (+0,29%)",
+     "tone": "neutral"
+    },
+    {
+     "label": "VIX",
+     "value": "24,09 (-5,38%)",
+     "tone": "positive"
+    },
+    {
+     "label": "CRB (commodities) fech. 17/11",
+     "value": "380,39 (+0,17%)",
+     "tone": "positive"
+    },
+    {
+     "label": "EWZ (pré-market)",
+     "value": "US$ 30,84 (-0,58%)",
+     "tone": "negative"
+    }
+   ]
+  },
+  {
+   "title": "ADR",
+   "items": [
+    {
+     "label": "Vale (VALE)",
+     "value": "US$ 10,30 (-1,15%) pré",
+     "tone": "negative"
+    },
+    {
+     "label": "Petrobras (PBR)",
+     "value": "US$ 17,33 (-0,46%) pré",
+     "tone": "negative"
+    }
+   ]
+  },
+  {
+   "title": "Futuros Americanos",
+   "items": [
+    {
+     "label": "S&P 500 fut. (ES)",
+     "value": "+0,45%",
+     "tone": "positive"
+    },
+    {
+     "label": "Dow Jones fut. (YM)",
+     "value": "+0,14%",
+     "tone": "neutral"
+    },
+    {
+     "label": "Nasdaq fut. (NQ)",
+     "value": "+0,93%",
+     "tone": "positive"
+    }
+   ]
+  },
+  {
+   "title": "Ásia",
+   "items": [
+    {
+     "label": "Nikkei 225",
+     "value": "59.024,28 (+0,28%)",
+     "tone": "neutral"
+    },
+    {
+     "label": "Hang Seng",
+     "value": "23.294,75 (-0,91%)",
+     "tone": "negative"
+    },
+    {
+     "label": "CSI 300",
+     "value": "3.983,77 (+0,18%)",
+     "tone": "neutral"
+    }
+   ]
+  },
+  {
+   "title": "Europa",
+   "items": [
+    {
+     "label": "DAX",
+     "value": "26.060,40 (+0,06%)",
+     "tone": "neutral"
+    },
+    {
+     "label": "FTSE 100",
+     "value": "10.650,27 (-0,37%)",
+     "tone": "negative"
+    },
+    {
+     "label": "Euro Stoxx 50",
+     "value": "6.226,53 (+0,23%)",
+     "tone": "neutral"
+    }
+   ]
+  },
+  {
+   "title": "Commodities",
+   "items": [
+    {
+     "label": "Petróleo Brent",
+     "value": "US$ 92,74 (-0,43%)",
+     "tone": "neutral"
+    },
+    {
+     "label": "Minério de ferro (Dalian) fech. 18/11",
+     "value": "646 iuanes (+0,08%)",
+     "tone": "neutral"
+    }
+   ]
+  },
+  {
+   "title": "Risco Brasil",
+   "items": [
+    {
+     "label": "CDS Brasil 5 anos fech. 17/11",
+     "value": "152,44 pts · moderado",
+     "tone": "neutral"
+    }
+   ]
+  }
+ ],
+ "agenda": [
+  {
+   "time": "09:00",
+   "country": "BR",
+   "event": "Pnad Contínua trimestral (3º tri)",
+   "stars": 2,
+   "actual": "-",
+   "forecast": "N/D",
+   "previous": "N/D"
+  },
+  {
+   "time": "10:30",
+   "country": "US",
+   "event": "Construções iniciadas (out)",
+   "stars": 2,
+   "actual": "-",
+   "forecast": "1,27 mi",
+   "previous": "1,221 mi"
+  },
+  {
+   "time": "10:30",
+   "country": "US",
+   "event": "Permissões de construção (out)",
+   "stars": 2,
+   "actual": "-",
+   "forecast": "N/D",
+   "previous": "1,398 mi"
+  },
+  {
+   "time": "12:30",
+   "country": "US",
+   "event": "Estoques de petróleo (EIA)",
+   "stars": 2,
+   "actual": "-",
+   "forecast": "N/D",
+   "previous": "+4,657 mi bbl"
+  },
+  {
+   "time": "14:15",
+   "country": "US",
+   "event": "Discurso Fed Daly",
+   "stars": 2,
+   "actual": "-",
+   "forecast": "-",
+   "previous": "-"
+  },
+  {
+   "time": "16:00",
+   "country": "US",
+   "event": "Ata do FOMC (reunião de 27-28/out)",
+   "stars": 3,
+   "actual": "-",
+   "forecast": "-",
+   "previous": "-"
+  },
+  {
+   "time": "16:30",
+   "country": "US",
+   "event": "Discurso Fed Williams",
+   "stars": 2,
+   "actual": "-",
+   "forecast": "-",
+   "previous": "-"
+  }
+ ],
+ "news": [
+  "Ibovespa fechou ontem em 169.817 pts (+0,31%), com mínima de 169.300 e máxima de 171.749; WIN fechou em 171.540 (+0,41%). Dólar fechou a R$ 5,783, maior nível desde abr/2025.",
+  "Senado adiou para hoje a votação dos destaques do ajuste fiscal (PLP 299/2026); sessão marcada para as 14h. Estrangeiros retiraram R$ 5,34 bi da B3 em novembro (até 16/11).",
+  "Nvidia superou as projeções do 3º tri e elevou a previsão de receita (+75% no próximo ano fiscal); ações subiram ~4% no after-market e os futuros de NY avançam.",
+  "Ata do Fed sai às 16h; Hang Seng caiu 0,91% e ações chinesas ficam perto das mínimas de 16 meses em meio a restrições tecnológicas dos EUA.",
+  "Minério de ferro em Dalian (I2701) fechou estável a 646 iuanes (+0,08%) após mínima de 16 meses na segunda; Brent recua a US$ 92,74 (-0,43%).",
+  "Estrelas da agenda estimadas (fonte sem importância); horários conforme Valor Econômico/InfoMoney. Ajuste: 171.468 (Investorama/Investing), variação N/D."
+ ]
 }
