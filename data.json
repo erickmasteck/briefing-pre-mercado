@@ -1,25 +1,25 @@
 {
- "updated_at": "18/11/2026 08:51",
- "gap_estimate": "Abertura mista, viés neutro",
- "gap_tone": "neutral",
- "summary": "Futuros de NY sobem (S&P +0,45%, Nasdaq +0,93%) após balanço da Nvidia, e o Brent recua; por outro lado, EWZ (-0,58%), Vale (-1,15%) e Petrobras (-0,46%) caem no pré-mercado e o DXY sobe 0,29%. Ibovespa fechou ontem em 169.817 pts (+0,31%) e o WIN em 171.540 (+0,41%); variação do ajuste não confirmada (N/D). Hoje: votação dos destaques do ajuste fiscal no Senado (14h) e ata do Fed (16h).",
+ "updated_at": "19/11/2026 08:52",
+ "gap_estimate": "Abertura em alta, após forte queda ontem",
+ "gap_tone": "positive",
+ "summary": "Futuros de NY sobem (S&P +1,25%, Nasdaq +2,28%), Europa em alta, VIX recua 10,4%, DXY cai 0,11% e EWZ (+0,43%) e Vale (+1,49%) sobem no pré-mercado; por outro lado, Brent recua 0,33% e o Fed sinaliza novas altas de juros. Ibovespa fechou ontem em 167.538 pts (-1,34%) e o WIN em 168.970 (-1,46%), ajuste 168.854 (-2.614 pts). Pendentes: Taxas - Frequências (N/D) e variação do dólar (N/D).",
  "sections": [
   {
    "title": "Taxas - Frequências",
    "items": [
     {
      "label": "Nível 1",
-     "value": "172.925",
+     "value": "N/D",
      "tone": "neutral"
     },
     {
      "label": "Nível 2",
-     "value": "172.830",
+     "value": "N/D",
      "tone": "neutral"
     },
     {
      "label": "Nível 3",
-     "value": "172.400",
+     "value": "N/D",
      "tone": "neutral"
     }
    ]
@@ -29,18 +29,18 @@
    "items": [
     {
      "label": "Ajuste (pontos)",
-     "value": "171.468",
+     "value": "168.854",
      "tone": "neutral"
     },
     {
      "label": "Variação (pontos)",
-     "value": "N/D",
-     "tone": "neutral"
+     "value": "-2.614",
+     "tone": "negative"
     },
     {
-     "label": "WIN ~09h (WINZ26) fech. 17/11",
-     "value": "171.540 (+0,41%)",
-     "tone": "positive"
+     "label": "WIN ~09h (WINZ26) fech. 18/11",
+     "value": "168.970 (-1,46%)",
+     "tone": "negative"
     }
    ]
   },
@@ -49,18 +49,18 @@
    "items": [
     {
      "label": "Dólar (USD/BRL)",
-     "value": "R$ 5,7752 (0,00%)",
+     "value": "R$ 5,8891 (var. N/D)",
      "tone": "neutral"
     },
     {
      "label": "Bitcoin (USD)",
-     "value": "US$ 64.148 (-1,15%)",
-     "tone": "negative"
+     "value": "US$ 64.038 (-0,27%)",
+     "tone": "neutral"
     },
     {
      "label": "Bitcoin (R$, aprox.)",
-     "value": "R$ 372.770 (-0,95%)",
-     "tone": "negative"
+     "value": "R$ 376.697 (+0,86%)",
+     "tone": "positive"
     }
    ]
   },
@@ -69,23 +69,23 @@
    "items": [
     {
      "label": "DXY",
-     "value": "103,71 (+0,29%)",
+     "value": "103,68 (-0,11%)",
      "tone": "neutral"
     },
     {
      "label": "VIX",
-     "value": "24,09 (-5,38%)",
+     "value": "22,01 (-10,38%)",
      "tone": "positive"
     },
     {
-     "label": "CRB (commodities) fech. 17/11",
-     "value": "380,39 (+0,17%)",
-     "tone": "positive"
+     "label": "CRB (commodities) fech. 18/11",
+     "value": "371,60 (-2,31%)",
+     "tone": "negative"
     },
     {
      "label": "EWZ (pré-market)",
-     "value": "US$ 30,84 (-0,58%)",
-     "tone": "negative"
+     "value": "US$ 30,20 (+0,43%)",
+     "tone": "positive"
     }
    ]
   },
@@ -94,13 +94,13 @@
    "items": [
     {
      "label": "Vale (VALE)",
-     "value": "US$ 10,30 (-1,15%) pré",
-     "tone": "negative"
+     "value": "US$ 10,19 (+1,49%) pré",
+     "tone": "positive"
     },
     {
      "label": "Petrobras (PBR)",
-     "value": "US$ 17,33 (-0,46%) pré",
-     "tone": "negative"
+     "value": "US$ 16,76 (+0,18%) pré",
+     "tone": "neutral"
     }
    ]
   },
@@ -109,17 +109,17 @@
    "items": [
     {
      "label": "S&P 500 fut. (ES)",
-     "value": "+0,45%",
+     "value": "+1,25%",
      "tone": "positive"
     },
     {
      "label": "Dow Jones fut. (YM)",
-     "value": "+0,14%",
-     "tone": "neutral"
+     "value": "+0,69%",
+     "tone": "positive"
     },
     {
      "label": "Nasdaq fut. (NQ)",
-     "value": "+0,93%",
+     "value": "+2,28%",
      "tone": "positive"
     }
    ]
@@ -129,17 +129,17 @@
    "items": [
     {
      "label": "Nikkei 225",
-     "value": "59.024,28 (+0,28%)",
-     "tone": "neutral"
+     "value": "59.444,21 (+0,71%)",
+     "tone": "positive"
     },
     {
      "label": "Hang Seng",
-     "value": "23.294,75 (-0,91%)",
+     "value": "22.841,62 (-1,95%)",
      "tone": "negative"
     },
     {
      "label": "CSI 300",
-     "value": "3.983,77 (+0,18%)",
+     "value": "3.984,84 (+0,03%)",
      "tone": "neutral"
     }
    ]
@@ -149,18 +149,18 @@
    "items": [
     {
      "label": "DAX",
-     "value": "26.060,40 (+0,06%)",
+     "value": "25.823,14 (+0,26%)",
      "tone": "neutral"
     },
     {
      "label": "FTSE 100",
-     "value": "10.650,27 (-0,37%)",
+     "value": "10.512,51 (-0,37%)",
      "tone": "negative"
     },
     {
      "label": "Euro Stoxx 50",
-     "value": "6.226,53 (+0,23%)",
-     "tone": "neutral"
+     "value": "6.194,35 (+0,65%)",
+     "tone": "positive"
     }
    ]
   },
@@ -169,7 +169,7 @@
    "items": [
     {
      "label": "Petróleo Brent",
-     "value": "US$ 92,74 (-0,43%)",
+     "value": "US$ 91,65 (-0,33%)",
      "tone": "neutral"
     },
     {
@@ -183,8 +183,8 @@
    "title": "Risco Brasil",
    "items": [
     {
-     "label": "CDS Brasil 5 anos fech. 17/11",
-     "value": "152,44 pts · moderado",
+     "label": "CDS Brasil 5 anos fech. 18/11",
+     "value": "154,43 pts · moderado",
      "tone": "neutral"
     }
    ]
@@ -192,63 +192,36 @@
  ],
  "agenda": [
   {
-   "time": "09:00",
-   "country": "BR",
-   "event": "Pnad Contínua trimestral (3º tri)",
+   "time": "10:30",
+   "country": "US",
+   "event": "Pedidos iniciais de seguro-desemprego",
    "stars": 2,
    "actual": "-",
-   "forecast": "N/D",
-   "previous": "N/D"
+   "forecast": "197 mil",
+   "previous": "200 mil"
   },
   {
    "time": "10:30",
    "country": "US",
-   "event": "Construções iniciadas (out)",
+   "event": "Índice industrial do Fed da Filadélfia (nov)",
    "stars": 2,
    "actual": "-",
-   "forecast": "1,27 mi",
-   "previous": "1,221 mi"
+   "forecast": "20",
+   "previous": "20,9"
   },
   {
    "time": "10:30",
-   "country": "US",
-   "event": "Permissões de construção (out)",
-   "stars": 2,
-   "actual": "-",
-   "forecast": "N/D",
-   "previous": "1,398 mi"
-  },
-  {
-   "time": "12:30",
-   "country": "US",
-   "event": "Estoques de petróleo (EIA)",
-   "stars": 2,
-   "actual": "-",
-   "forecast": "N/D",
-   "previous": "+4,657 mi bbl"
-  },
-  {
-   "time": "14:15",
-   "country": "US",
-   "event": "Discurso Fed Daly",
+   "country": "EU",
+   "event": "Discurso de Christine Lagarde (BCE)",
    "stars": 2,
    "actual": "-",
    "forecast": "-",
    "previous": "-"
   },
   {
-   "time": "16:00",
+   "time": "14:30",
    "country": "US",
-   "event": "Ata do FOMC (reunião de 27-28/out)",
-   "stars": 3,
-   "actual": "-",
-   "forecast": "-",
-   "previous": "-"
-  },
-  {
-   "time": "16:30",
-   "country": "US",
-   "event": "Discurso Fed Williams",
+   "event": "Discurso de Austan Goolsbee (Fed)",
    "stars": 2,
    "actual": "-",
    "forecast": "-",
@@ -256,11 +229,11 @@
   }
  ],
  "news": [
-  "Ibovespa fechou ontem em 169.817 pts (+0,31%), com mínima de 169.300 e máxima de 171.749; WIN fechou em 171.540 (+0,41%). Dólar fechou a R$ 5,783, maior nível desde abr/2025.",
-  "Senado adiou para hoje a votação dos destaques do ajuste fiscal (PLP 299/2026); sessão marcada para as 14h. Estrangeiros retiraram R$ 5,34 bi da B3 em novembro (até 16/11).",
-  "Nvidia superou as projeções do 3º tri e elevou a previsão de receita (+75% no próximo ano fiscal); ações subiram ~4% no after-market e os futuros de NY avançam.",
-  "Ata do Fed sai às 16h; Hang Seng caiu 0,91% e ações chinesas ficam perto das mínimas de 16 meses em meio a restrições tecnológicas dos EUA.",
-  "Minério de ferro em Dalian (I2701) fechou estável a 646 iuanes (+0,08%) após mínima de 16 meses na segunda; Brent recua a US$ 92,74 (-0,43%).",
-  "Estrelas da agenda estimadas (fonte sem importância); horários conforme Valor Econômico/InfoMoney. Ajuste: 171.468 (Investorama/Investing), variação N/D."
+  "Ibovespa fechou ontem em 167.538 pts (-1,34%), entre 167.099 e 170.260; WIN fechou em 168.970 (-1,46%). Dólar fechou a R$ 5,867 (+1,46%), maior nível desde abr/2025.",
+  "Senado aprovou o PLP do ajuste fiscal de 2027 após rejeitar os destaques; Goldman Sachs rebaixou o Brasil para venda.",
+  "Ata do Fed (mantido em 3,75%-4,00%) mostrou risco de mais altas; Waller defendeu +0,5 p.p. em dezembro. Dow caiu 1,11%, S&P 500 -0,23% e Nasdaq +0,42%.",
+  "Anthropic estreia hoje na Nasdaq após IPO de US$ 81,3 bi a US$ 83 por papel; Nvidia caiu 2,89% ontem após balanço.",
+  "Brent fechou ontem em US$ 91,95 (-1,28%) com estoques dos EUA acima do esperado (+3,4 mi bbl); minério em Dalian (I2701) fechou a 646 iuanes (+0,08%).",
+  "Estrelas da agenda estimadas (fonte sem importância); horários conforme Valor/Money Times. Amanhã (20/11) é feriado da Consciência Negra."
  ]
 }
