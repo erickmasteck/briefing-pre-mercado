@@ -2,24 +2,24 @@
  "updated_at": "24/11/2026 08:55",
  "gap_estimate": "Abertura em queda; NY e EWZ no vermelho",
  "gap_tone": "negative",
- "summary": "Futuros de NY caem (S&P -0,90%, Nasdaq -1,69%), Europa recua (DAX -0,76%), EWZ pré -1,27% e PBR/VALE pré em queda; o minério em Dalian sobe 1% e a Ásia fechou em alta (Nikkei +3,91%). Ibovespa fechou segunda (23/11) em 164.796 pts (-0,95%) e o WIN em 166.250 (-0,84%; ajuste 166.206). Petrobras divulgou plano de US$ 122 bi para 2027-2031 e o ajuste fiscal foi aprovado. Pendente: Taxas - Frequências (N/D) e variação do ajuste (N/D).",
+ "summary": "Futuros de NY caem (S&P -0,90%, Nasdaq -1,69%), Europa recua (DAX -0,76%), EWZ pré -1,27% e PBR/VALE pré em queda; o minério em Dalian sobe 1% e a Ásia fechou em alta (Nikkei +3,91%). Ibovespa fechou segunda (23/11) em 164.796 pts (-0,95%) e o WIN em 166.250 (-0,84%; ajuste 166.206). Petrobras divulgou plano de US$ 122 bi para 2027-2031 e o ajuste fiscal foi aprovado. Pendente: variação do ajuste (N/D).",
  "sections": [
   {
    "title": "Taxas - Frequências",
    "items": [
     {
      "label": "Nível 1",
-     "value": "N/D",
+     "value": "166.160",
      "tone": "neutral"
     },
     {
      "label": "Nível 2",
-     "value": "N/D",
+     "value": "166.114",
      "tone": "neutral"
     },
     {
      "label": "Nível 3",
-     "value": "N/D",
+     "value": "165.685",
      "tone": "neutral"
     }
    ]
