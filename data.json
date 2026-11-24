@@ -1,25 +1,25 @@
 {
- "updated_at": "23/11/2026 08:53",
- "gap_estimate": "Abertura em queda moderada; B3 absorve sexta de NY",
+ "updated_at": "24/11/2026 08:55",
+ "gap_estimate": "Abertura em queda; NY e EWZ no vermelho",
  "gap_tone": "negative",
- "summary": "Futuros de NY sobem (S&P +2,92%, Nasdaq +3,57%), Europa em alta e VIX recua 16,63%, mas a B3 ainda precisa absorver a sexta de NY (S&P -3,70%, Nasdaq -5,61%): EWZ pré (US$ 29,10) fica abaixo do fechamento de quinta (US$ 29,51) e o dólar (R$ 5,9491, fech. 20/11) está acima do fechamento de quinta (R$ 5,8886). Ibovespa fechou quinta (19/11) em 166.376 pts (-0,69%) e o WIN em 167.666 (-0,70%); sexta (20/11) foi feriado na B3. Plano de Negócios da Petrobras sai após o pregão e a Câmara vota o ajuste fiscal às 18h.",
+ "summary": "Futuros de NY caem (S&P -0,90%, Nasdaq -1,69%), Europa recua (DAX -0,76%), EWZ pré -1,27% e PBR/VALE pré em queda; o minério em Dalian sobe 1% e a Ásia fechou em alta (Nikkei +3,91%). Ibovespa fechou segunda (23/11) em 164.796 pts (-0,95%) e o WIN em 166.250 (-0,84%; ajuste 166.206). Petrobras divulgou plano de US$ 122 bi para 2027-2031 e o ajuste fiscal foi aprovado. Pendente: Taxas - Frequências (N/D) e variação do ajuste (N/D).",
  "sections": [
   {
    "title": "Taxas - Frequências",
    "items": [
     {
      "label": "Nível 1",
-     "value": "167.745",
+     "value": "N/D",
      "tone": "neutral"
     },
     {
      "label": "Nível 2",
-     "value": "167.650",
+     "value": "N/D",
      "tone": "neutral"
     },
     {
      "label": "Nível 3",
-     "value": "167.220",
+     "value": "N/D",
      "tone": "neutral"
     }
    ]
@@ -29,17 +29,17 @@
    "items": [
     {
      "label": "Ajuste (pontos)",
-     "value": "167.666",
+     "value": "166.206",
      "tone": "neutral"
     },
     {
      "label": "Variação (pontos)",
-     "value": "-1.188",
-     "tone": "negative"
+     "value": "N/D",
+     "tone": "neutral"
     },
     {
-     "label": "WIN ~09h (WINZ26) fech. 19/11",
-     "value": "167.666 (-0,70%)",
+     "label": "WIN ~09h (WINZ26) fech. 23/11",
+     "value": "166.250 (-0,84%)",
      "tone": "negative"
     }
    ]
@@ -48,18 +48,18 @@
    "title": "Moedas",
    "items": [
     {
-     "label": "Dólar (USD/BRL) fech. 20/11",
-     "value": "R$ 5,9491 (+0,24%)",
-     "tone": "negative"
+     "label": "Dólar (USD/BRL) fech. 23/11",
+     "value": "R$ 5,9337 (0,00%)",
+     "tone": "neutral"
     },
     {
      "label": "Bitcoin (USD)",
-     "value": "US$ 61.465 (+0,67%)",
-     "tone": "positive"
+     "value": "US$ 59.847 (-2,55%)",
+     "tone": "negative"
     },
     {
      "label": "Bitcoin (R$, aprox.)",
-     "value": "R$ 371.685 (-0,56%)",
+     "value": "R$ 358.907 (-3,73%)",
      "tone": "negative"
     }
    ]
@@ -69,23 +69,23 @@
    "items": [
     {
      "label": "DXY",
-     "value": "103,90 (+0,09%)",
+     "value": "104,01 (-0,32%)",
      "tone": "neutral"
     },
     {
      "label": "VIX",
-     "value": "29,92 (-16,63%)",
-     "tone": "positive"
+     "value": "28,83 (+8,30%)",
+     "tone": "negative"
     },
     {
-     "label": "CRB (commodities) fech. 20/11",
-     "value": "369,76 (-0,49%)",
-     "tone": "neutral"
+     "label": "CRB (commodities) fech. 23/11",
+     "value": "366,47 (-0,89%)",
+     "tone": "negative"
     },
     {
      "label": "EWZ (pré-market)",
-     "value": "US$ 29,10 (+1,96%)",
-     "tone": "positive"
+     "value": "US$ 28,87 (-1,27%)",
+     "tone": "negative"
     }
    ]
   },
@@ -94,13 +94,13 @@
    "items": [
     {
      "label": "Vale (VALE)",
-     "value": "US$ 9,79 (+3,16%) pré",
-     "tone": "positive"
+     "value": "US$ 9,70 (-1,02%) pré",
+     "tone": "negative"
     },
     {
      "label": "Petrobras (PBR)",
-     "value": "US$ 16,20 (+1,19%) pré",
-     "tone": "positive"
+     "value": "US$ 15,58 (-1,45%) pré",
+     "tone": "negative"
     }
    ]
   },
@@ -109,18 +109,18 @@
    "items": [
     {
      "label": "S&P 500 fut. (ES)",
-     "value": "+2,92%",
-     "tone": "positive"
+     "value": "-0,90%",
+     "tone": "negative"
     },
     {
      "label": "Dow Jones fut. (YM)",
-     "value": "+2,17%",
-     "tone": "positive"
+     "value": "-0,46%",
+     "tone": "negative"
     },
     {
      "label": "Nasdaq fut. (NQ)",
-     "value": "+3,57%",
-     "tone": "positive"
+     "value": "-1,69%",
+     "tone": "negative"
     }
    ]
   },
@@ -128,18 +128,18 @@
    "title": "Ásia",
    "items": [
     {
-     "label": "Nikkei 225 fech. 20/11",
-     "value": "56.436,65 (-5,06%)",
+     "label": "Nikkei 225 fech. 24/11",
+     "value": "58.644,63 (+3,91%)",
+     "tone": "positive"
+    },
+    {
+     "label": "Hang Seng fech. 24/11",
+     "value": "22.219,65 (-0,73%)",
      "tone": "negative"
     },
     {
-     "label": "Hang Seng",
-     "value": "22.383,74 (-0,12%)",
-     "tone": "neutral"
-    },
-    {
-     "label": "CSI 300",
-     "value": "3.958,29 (+0,09%)",
+     "label": "CSI 300 fech. 24/11",
+     "value": "3.963,82 (+0,14%)",
      "tone": "neutral"
     }
    ]
@@ -149,18 +149,18 @@
    "items": [
     {
      "label": "DAX",
-     "value": "25.008,32 (+0,68%)",
-     "tone": "positive"
+     "value": "25.171,53 (-0,76%)",
+     "tone": "negative"
     },
     {
      "label": "FTSE 100",
-     "value": "10.398,28 (+0,50%)",
-     "tone": "positive"
+     "value": "10.472,42 (-0,08%)",
+     "tone": "neutral"
     },
     {
      "label": "Euro Stoxx 50",
-     "value": "5.995,05 (+0,89%)",
-     "tone": "positive"
+     "value": "6.039,40 (-0,58%)",
+     "tone": "negative"
     }
    ]
   },
@@ -169,13 +169,13 @@
    "items": [
     {
      "label": "Petróleo Brent",
-     "value": "US$ 88,59 (-1,51%)",
-     "tone": "negative"
+     "value": "US$ 86,70 (+0,02%)",
+     "tone": "neutral"
     },
     {
-     "label": "Minério de ferro (Dalian) fech. 23/11",
-     "value": "654 iuanes (-0,31%)",
-     "tone": "neutral"
+     "label": "Minério de ferro (Dalian) fech. 24/11",
+     "value": "658,5 iuanes (+1,00%)",
+     "tone": "positive"
     }
    ]
   },
@@ -183,8 +183,8 @@
    "title": "Risco Brasil",
    "items": [
     {
-     "label": "CDS Brasil 5 anos fech. 20/11",
-     "value": "175,36 pts · moderado",
+     "label": "CDS Brasil 5 anos fech. 23/11",
+     "value": "176,98 pts · moderado",
      "tone": "neutral"
     }
    ]
@@ -192,57 +192,57 @@
  ],
  "agenda": [
   {
-   "time": "08:30",
+   "time": "08:00",
    "country": "BR",
-   "event": "Boletim Focus (BCB)",
+   "event": "Confiança do Consumidor FGV (nov)",
    "stars": 2,
    "actual": "-",
    "forecast": "-",
-   "previous": "-"
+   "previous": "84,7"
   },
   {
-   "time": "11:45",
-   "country": "US",
-   "event": "PMI Industrial S&P Global (prévia, nov)",
-   "stars": 3,
-   "actual": "-",
-   "forecast": "54,5",
-   "previous": "54,9"
-  },
-  {
-   "time": "11:45",
-   "country": "US",
-   "event": "PMI de Serviços S&P Global (prévia, nov)",
-   "stars": 3,
-   "actual": "-",
-   "forecast": "55,6",
-   "previous": "56,1"
-  },
-  {
-   "time": "14:00",
+   "time": "09:30",
    "country": "BR",
-   "event": "Boletim Macrofiscal (Fazenda)",
+   "event": "Relatório Bimestral de Receitas e Despesas (Fazenda/Planejamento)",
    "stars": 2,
    "actual": "-",
    "forecast": "-",
    "previous": "-"
   },
   {
-   "time": "18:00",
+   "time": "10:15",
    "country": "US",
-   "event": "Discurso de John Williams (Fed de NY)",
+   "event": "Empregos privados semanais ADP",
    "stars": 2,
    "actual": "-",
    "forecast": "-",
    "previous": "-"
+  },
+  {
+   "time": "11:00",
+   "country": "BR",
+   "event": "Arrecadação federal (out)",
+   "stars": 2,
+   "actual": "-",
+   "forecast": "-",
+   "previous": "-"
+  },
+  {
+   "time": "12:00",
+   "country": "US",
+   "event": "Confiança do Consumidor Conference Board (nov)",
+   "stars": 2,
+   "actual": "-",
+   "forecast": "-",
+   "previous": "91,7"
   }
  ],
  "news": [
-  "Ibovespa fechou quinta (19/11) em 166.376 pts (-0,69%), com queda de 3,53% na semana; WIN fechou em 167.666 (-0,70%). Sexta (20/11) foi feriado da Consciência Negra na B3.",
-  "Wall Street caiu forte na sexta (20/11) com receio sobre o setor de IA: Dow -1,93%, S&P 500 -3,70% e Nasdaq -5,61%; hoje os futuros de NY recuperam parte (S&P +2,92%).",
-  "Petrobras divulga após o pregão o Plano de Negócios 2027-2031, com investimentos previstos de US$ 115-120 bi segundo Broadcast; a Câmara vota o ajuste fiscal às 18h.",
-  "Minério em Dalian (I2701) fechou a 654 iuanes (-0,31%) com demanda chinesa fraca e margens siderúrgicas em queda; Brent recua 1,51% para US$ 88,59.",
-  "CDS Brasil 5 anos fechou sexta (20/11) em 175,36 pts (+6,56%); Nikkei fechou a 56.436,65 (-5,06%) e Europa abre em alta (DAX +0,68%).",
-  "Estrelas da agenda estimadas (fonte sem importância); horários conforme InfoMoney/Investing. PMIs europeus e asiáticos de hoje não incluídos."
+  "Ibovespa fechou segunda (23/11) em 164.796 pts (-0,95%), perto do suporte de 164.446; WIN fechou em 166.250 (-0,84%).",
+  "Petrobras divulgou plano de investimentos de US$ 122 bi para 2027-2031, com capex acima do esperado, que pode pesar sobre PETR3/PETR4; ajuste fiscal foi aprovado.",
+  "Futuros de NY caem no pré-mercado: S&P 500 -0,90%, Nasdaq -1,69% e Dow -0,46%; VIX sobe 8,30% para 28,83.",
+  "Minério de ferro sobe 1,00% em Dalian (I2701 a 658,5 iuanes); Vale retomou parcialmente a Mina de Viga.",
+  "Nikkei fechou em alta de 3,91% (58.644,63); Europa recua (DAX -0,76%) e Brent está estável a US$ 86,70.",
+  "Estrelas da agenda estimadas (fontes sem importância); previsões não encontradas."
  ]
 }
