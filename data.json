@@ -1,212 +1,197 @@
 {
- "updated_at": "26/11/2026 08:58",
- "gap_estimate": "Abertura em alta moderada",
- "gap_tone": "positive",
- "summary": "Futuros de NY (+0,27% a +0,56%), Ásia e Europa (DAX +1,73%, Euro Stoxx +1,92%) sobem, DXY estável; EUA em feriado de Ação de Graças (liquidez menor). Ibovespa fechou ontem em 166.684,61 pts (+1,58%); WIN fechou 25/11 em 167.725 (+1,41%). Pendente/N/D: ajuste do WIN, Brent (fontes divergentes), ADRs/EWZ (sem pré-market), Bitcoin em US$ e variação do dólar.",
- "sections": [
-  {
-   "title": "Taxas - Frequências",
-   "items": [
+  "updated_at": "27/11/2026 08:58",
+  "gap_estimate": "Abertura indefinida, viés neutro",
+  "gap_tone": "neutral",
+  "summary": "Ásia e Europa em alta (Nikkei +2,1%, DAX +0,7%), VIX em queda. Pendente/N/D: níveis do Xandão (há caixa vermelha ilegível na elipse), ajuste/WIN, futuros EUA, ADRs, EWZ, Brent (EUA fechados ontem, Thanksgiving; dados defasados), CRB, CDS, agenda e notícias; fechamento anterior do Ibovespa não confirmado.",
+  "sections": [
     {
-     "label": "Nível 1",
-     "value": "167.615",
-     "tone": "neutral"
+      "title": "Taxas - Frequências",
+      "items": [
+        {
+          "label": "Nível 1",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nível 2",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nível 3",
+          "value": "N/D",
+          "tone": "neutral"
+        }
+      ]
     },
     {
-     "label": "Nível 2",
-     "value": "167.520",
-     "tone": "neutral"
+      "title": "Ajuste Mini Índice",
+      "items": [
+        {
+          "label": "Ajuste (pontos)",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "Variação (pontos)",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "WIN ~09h (WINZ26)",
+          "value": "N/D",
+          "tone": "neutral"
+        }
+      ]
     },
     {
-     "label": "Nível 3",
-     "value": "167.090",
-     "tone": "neutral"
+      "title": "Moedas",
+      "items": [
+        {
+          "label": "Dólar (USD/BRL)",
+          "value": "R$ 5,653 (+0,02%)",
+          "tone": "negative"
+        },
+        {
+          "label": "Bitcoin (USD)",
+          "value": "US$ 61.503 (+1,66%)",
+          "tone": "positive"
+        },
+        {
+          "label": "Bitcoin (R$, aprox.)",
+          "value": "N/D",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Índices",
+      "items": [
+        {
+          "label": "DXY",
+          "value": "103,83 (+0,16%)",
+          "tone": "negative"
+        },
+        {
+          "label": "VIX",
+          "value": "25,06 (-6,49%)",
+          "tone": "positive"
+        },
+        {
+          "label": "CRB (commodities)",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "EWZ (pré-market)",
+          "value": "N/D",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "ADR",
+      "items": [
+        {
+          "label": "Vale (VALE)",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "Petrobras (PBR)",
+          "value": "N/D",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Futuros Americanos",
+      "items": [
+        {
+          "label": "S&P 500 fut. (ES)",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "Dow Jones fut. (YM)",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "Nasdaq fut. (NQ)",
+          "value": "N/D",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ásia",
+      "items": [
+        {
+          "label": "Nikkei 225",
+          "value": "58.711,11 (+2,11%)",
+          "tone": "positive"
+        },
+        {
+          "label": "Hang Seng",
+          "value": "22.694,77 (+3,32%)",
+          "tone": "positive"
+        },
+        {
+          "label": "CSI 300",
+          "value": "4.063,06 (+4,17%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Europa",
+      "items": [
+        {
+          "label": "DAX",
+          "value": "25.396,50 (+0,72%)",
+          "tone": "positive"
+        },
+        {
+          "label": "FTSE 100",
+          "value": "10.688,22 (+0,74%)",
+          "tone": "positive"
+        },
+        {
+          "label": "Euro Stoxx 50",
+          "value": "6.081,59 (+1,11%)",
+          "tone": "positive"
+        }
+      ]
+    },
+    {
+      "title": "Commodities",
+      "items": [
+        {
+          "label": "Petróleo Brent",
+          "value": "N/D",
+          "tone": "neutral"
+        },
+        {
+          "label": "Minério de ferro (Dalian)",
+          "value": "N/D",
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "title": "Risco Brasil",
+      "items": [
+        {
+          "label": "CDS Brasil 5 anos",
+          "value": "N/D",
+          "tone": "neutral"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "title": "Ajuste Mini Índice",
-   "items": [
-    {
-     "label": "Ajuste (pontos)",
-     "value": "N/D",
-     "tone": "neutral"
-    },
-    {
-     "label": "Variação (pontos)",
-     "value": "N/D",
-     "tone": "neutral"
-    },
-    {
-     "label": "WIN ~09h (WINZ26) fech. 25/11",
-     "value": "167.725 (+1,41%)",
-     "tone": "positive"
-    }
-   ]
-  },
-  {
-   "title": "Moedas",
-   "items": [
-    {
-     "label": "Dólar (USD/BRL) fech. 25/11",
-     "value": "R$ 5,820 (var. N/D)",
-     "tone": "neutral"
-    },
-    {
-     "label": "Bitcoin (USD)",
-     "value": "N/D",
-     "tone": "neutral"
-    },
-    {
-     "label": "Bitcoin (R$, aprox.)",
-     "value": "R$ 352.829 (+1,25%)",
-     "tone": "positive"
-    }
-   ]
-  },
-  {
-   "title": "Índices",
-   "items": [
-    {
-     "label": "DXY",
-     "value": "103,79 (+0,08%)",
-     "tone": "neutral"
-    },
-    {
-     "label": "VIX",
-     "value": "27,00 (-4,56%)",
-     "tone": "positive"
-    },
-    {
-     "label": "CRB (commodities) fech. 25/11",
-     "value": "368,50 (+0,55%)",
-     "tone": "positive"
-    },
-    {
-     "label": "EWZ (pré-market)",
-     "value": "N/D",
-     "tone": "neutral"
-    }
-   ]
-  },
-  {
-   "title": "ADR",
-   "items": [
-    {
-     "label": "Vale (VALE)",
-     "value": "N/D",
-     "tone": "neutral"
-    },
-    {
-     "label": "Petrobras (PBR)",
-     "value": "N/D",
-     "tone": "neutral"
-    }
-   ]
-  },
-  {
-   "title": "Futuros Americanos",
-   "items": [
-    {
-     "label": "S&P 500 fut. (ES)",
-     "value": "+0,56%",
-     "tone": "positive"
-    },
-    {
-     "label": "Dow Jones fut. (YM)",
-     "value": "+0,27%",
-     "tone": "positive"
-    },
-    {
-     "label": "Nasdaq fut. (NQ)",
-     "value": "+0,52%",
-     "tone": "positive"
-    }
-   ]
-  },
-  {
-   "title": "Ásia",
-   "items": [
-    {
-     "label": "Nikkei 225",
-     "value": "57.499,16 (+0,86%)",
-     "tone": "positive"
-    },
-    {
-     "label": "Hang Seng",
-     "value": "22.226,88 (+1,19%)",
-     "tone": "positive"
-    },
-    {
-     "label": "CSI 300",
-     "value": "3.900,55 (+0,06%)",
-     "tone": "neutral"
-    }
-   ]
-  },
-  {
-   "title": "Europa",
-   "items": [
-    {
-     "label": "DAX",
-     "value": "25.162,00 (+1,73%)",
-     "tone": "positive"
-    },
-    {
-     "label": "FTSE 100",
-     "value": "10.584,25 (+1,51%)",
-     "tone": "positive"
-    },
-    {
-     "label": "Euro Stoxx 50",
-     "value": "6.007,35 (+1,92%)",
-     "tone": "positive"
-    }
-   ]
-  },
-  {
-   "title": "Commodities",
-   "items": [
-    {
-     "label": "Petróleo Brent",
-     "value": "N/D",
-     "tone": "neutral"
-    },
-    {
-     "label": "Minério de ferro (Dalian)",
-     "value": "663 iuanes (+1,07%)",
-     "tone": "positive"
-    }
-   ]
-  },
-  {
-   "title": "Risco Brasil",
-   "items": [
-    {
-     "label": "CDS Brasil 5 anos fech. 25/11",
-     "value": "171,30 pts · moderado",
-     "tone": "neutral"
-    }
-   ]
-  }
- ],
- "agenda": [
-  {
-   "time": "09:00",
-   "country": "BR",
-   "event": "IPCA-15 (nov)",
-   "stars": 2,
-   "actual": "-",
-   "forecast": "-",
-   "previous": "-"
-  }
- ],
- "news": [
-  "Ibovespa fechou quarta em 166.684,61 pts (+1,58%), com ajuda de notícias sobre Fazenda e fiscal; dólar comercial recuou 1,58%, a R$ 5,817.",
-  "EUA em feriado de Ação de Graças: bolsas e mercado de títulos fechados, com liquidez global reduzida.",
-  "Petróleo opera em leve alta com tensão no Oriente Médio; cotações do Brent divergem entre fontes, por isso Brent está N/D.",
-  "Minério de ferro em Dalian sobe 1,07%, a 663 iuanes, com expectativa de reposição de estoques das siderúrgicas chinesas.",
-  "Fundos globais de mercados emergentes reduzem alocação em ações brasileiras ao menor nível relativo desde 2022 (InfoMoney).",
-  "Foco no IPCA-15 de novembro às 9h; estrelas da agenda estimadas, sem consenso confirmado."
- ]
+  ],
+  "agenda": [],
+  "news": [
+    "Agenda e notícias overnight não apuradas nesta edição (N/D); EUA fechados ontem por Thanksgiving."
+  ]
 }
