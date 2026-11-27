@@ -1,197 +1,197 @@
 {
-  "updated_at": "27/11/2026 08:58",
-  "gap_estimate": "Abertura indefinida, viés neutro",
-  "gap_tone": "neutral",
-  "summary": "Ásia e Europa em alta (Nikkei +2,1%, DAX +0,7%), VIX em queda. Pendente/N/D: níveis do Xandão (há caixa vermelha ilegível na elipse), ajuste/WIN, futuros EUA, ADRs, EWZ, Brent (EUA fechados ontem, Thanksgiving; dados defasados), CRB, CDS, agenda e notícias; fechamento anterior do Ibovespa não confirmado.",
-  "sections": [
+ "updated_at": "27/11/2026 08:58",
+ "gap_estimate": "Abertura indefinida, viés neutro",
+ "gap_tone": "neutral",
+ "summary": "Ásia e Europa em alta (Nikkei +2,1%, DAX +0,7%), VIX em queda. Pendente/N/D: ajuste/WIN, futuros EUA, ADRs, EWZ, Brent (EUA fechados ontem, Thanksgiving; dados defasados), CRB, CDS, agenda e notícias; fechamento anterior do Ibovespa não confirmado.",
+ "sections": [
+  {
+   "title": "Taxas - Frequências",
+   "items": [
     {
-      "title": "Taxas - Frequências",
-      "items": [
-        {
-          "label": "Nível 1",
-          "value": "N/D",
-          "tone": "neutral"
-        },
-        {
-          "label": "Nível 2",
-          "value": "N/D",
-          "tone": "neutral"
-        },
-        {
-          "label": "Nível 3",
-          "value": "N/D",
-          "tone": "neutral"
-        }
-      ]
+     "label": "Nível 1",
+     "value": "169.555",
+     "tone": "neutral"
     },
     {
-      "title": "Ajuste Mini Índice",
-      "items": [
-        {
-          "label": "Ajuste (pontos)",
-          "value": "N/D",
-          "tone": "neutral"
-        },
-        {
-          "label": "Variação (pontos)",
-          "value": "N/D",
-          "tone": "neutral"
-        },
-        {
-          "label": "WIN ~09h (WINZ26)",
-          "value": "N/D",
-          "tone": "neutral"
-        }
-      ]
+     "label": "Nível 2",
+     "value": "169.460",
+     "tone": "neutral"
     },
     {
-      "title": "Moedas",
-      "items": [
-        {
-          "label": "Dólar (USD/BRL)",
-          "value": "R$ 5,653 (+0,02%)",
-          "tone": "negative"
-        },
-        {
-          "label": "Bitcoin (USD)",
-          "value": "US$ 61.503 (+1,66%)",
-          "tone": "positive"
-        },
-        {
-          "label": "Bitcoin (R$, aprox.)",
-          "value": "N/D",
-          "tone": "neutral"
-        }
-      ]
-    },
-    {
-      "title": "Índices",
-      "items": [
-        {
-          "label": "DXY",
-          "value": "103,83 (+0,16%)",
-          "tone": "negative"
-        },
-        {
-          "label": "VIX",
-          "value": "25,06 (-6,49%)",
-          "tone": "positive"
-        },
-        {
-          "label": "CRB (commodities)",
-          "value": "N/D",
-          "tone": "neutral"
-        },
-        {
-          "label": "EWZ (pré-market)",
-          "value": "N/D",
-          "tone": "neutral"
-        }
-      ]
-    },
-    {
-      "title": "ADR",
-      "items": [
-        {
-          "label": "Vale (VALE)",
-          "value": "N/D",
-          "tone": "neutral"
-        },
-        {
-          "label": "Petrobras (PBR)",
-          "value": "N/D",
-          "tone": "neutral"
-        }
-      ]
-    },
-    {
-      "title": "Futuros Americanos",
-      "items": [
-        {
-          "label": "S&P 500 fut. (ES)",
-          "value": "N/D",
-          "tone": "neutral"
-        },
-        {
-          "label": "Dow Jones fut. (YM)",
-          "value": "N/D",
-          "tone": "neutral"
-        },
-        {
-          "label": "Nasdaq fut. (NQ)",
-          "value": "N/D",
-          "tone": "neutral"
-        }
-      ]
-    },
-    {
-      "title": "Ásia",
-      "items": [
-        {
-          "label": "Nikkei 225",
-          "value": "58.711,11 (+2,11%)",
-          "tone": "positive"
-        },
-        {
-          "label": "Hang Seng",
-          "value": "22.694,77 (+3,32%)",
-          "tone": "positive"
-        },
-        {
-          "label": "CSI 300",
-          "value": "4.063,06 (+4,17%)",
-          "tone": "positive"
-        }
-      ]
-    },
-    {
-      "title": "Europa",
-      "items": [
-        {
-          "label": "DAX",
-          "value": "25.396,50 (+0,72%)",
-          "tone": "positive"
-        },
-        {
-          "label": "FTSE 100",
-          "value": "10.688,22 (+0,74%)",
-          "tone": "positive"
-        },
-        {
-          "label": "Euro Stoxx 50",
-          "value": "6.081,59 (+1,11%)",
-          "tone": "positive"
-        }
-      ]
-    },
-    {
-      "title": "Commodities",
-      "items": [
-        {
-          "label": "Petróleo Brent",
-          "value": "N/D",
-          "tone": "neutral"
-        },
-        {
-          "label": "Minério de ferro (Dalian)",
-          "value": "N/D",
-          "tone": "neutral"
-        }
-      ]
-    },
-    {
-      "title": "Risco Brasil",
-      "items": [
-        {
-          "label": "CDS Brasil 5 anos",
-          "value": "N/D",
-          "tone": "neutral"
-        }
-      ]
+     "label": "Nível 3",
+     "value": "169.030",
+     "tone": "neutral"
     }
-  ],
-  "agenda": [],
-  "news": [
-    "Agenda e notícias overnight não apuradas nesta edição (N/D); EUA fechados ontem por Thanksgiving."
-  ]
+   ]
+  },
+  {
+   "title": "Ajuste Mini Índice",
+   "items": [
+    {
+     "label": "Ajuste (pontos)",
+     "value": "N/D",
+     "tone": "neutral"
+    },
+    {
+     "label": "Variação (pontos)",
+     "value": "N/D",
+     "tone": "neutral"
+    },
+    {
+     "label": "WIN ~09h (WINZ26)",
+     "value": "N/D",
+     "tone": "neutral"
+    }
+   ]
+  },
+  {
+   "title": "Moedas",
+   "items": [
+    {
+     "label": "Dólar (USD/BRL)",
+     "value": "R$ 5,653 (+0,02%)",
+     "tone": "negative"
+    },
+    {
+     "label": "Bitcoin (USD)",
+     "value": "US$ 61.503 (+1,66%)",
+     "tone": "positive"
+    },
+    {
+     "label": "Bitcoin (R$, aprox.)",
+     "value": "N/D",
+     "tone": "neutral"
+    }
+   ]
+  },
+  {
+   "title": "Índices",
+   "items": [
+    {
+     "label": "DXY",
+     "value": "103,83 (+0,16%)",
+     "tone": "negative"
+    },
+    {
+     "label": "VIX",
+     "value": "25,06 (-6,49%)",
+     "tone": "positive"
+    },
+    {
+     "label": "CRB (commodities)",
+     "value": "N/D",
+     "tone": "neutral"
+    },
+    {
+     "label": "EWZ (pré-market)",
+     "value": "N/D",
+     "tone": "neutral"
+    }
+   ]
+  },
+  {
+   "title": "ADR",
+   "items": [
+    {
+     "label": "Vale (VALE)",
+     "value": "N/D",
+     "tone": "neutral"
+    },
+    {
+     "label": "Petrobras (PBR)",
+     "value": "N/D",
+     "tone": "neutral"
+    }
+   ]
+  },
+  {
+   "title": "Futuros Americanos",
+   "items": [
+    {
+     "label": "S&P 500 fut. (ES)",
+     "value": "N/D",
+     "tone": "neutral"
+    },
+    {
+     "label": "Dow Jones fut. (YM)",
+     "value": "N/D",
+     "tone": "neutral"
+    },
+    {
+     "label": "Nasdaq fut. (NQ)",
+     "value": "N/D",
+     "tone": "neutral"
+    }
+   ]
+  },
+  {
+   "title": "Ásia",
+   "items": [
+    {
+     "label": "Nikkei 225",
+     "value": "58.711,11 (+2,11%)",
+     "tone": "positive"
+    },
+    {
+     "label": "Hang Seng",
+     "value": "22.694,77 (+3,32%)",
+     "tone": "positive"
+    },
+    {
+     "label": "CSI 300",
+     "value": "4.063,06 (+4,17%)",
+     "tone": "positive"
+    }
+   ]
+  },
+  {
+   "title": "Europa",
+   "items": [
+    {
+     "label": "DAX",
+     "value": "25.396,50 (+0,72%)",
+     "tone": "positive"
+    },
+    {
+     "label": "FTSE 100",
+     "value": "10.688,22 (+0,74%)",
+     "tone": "positive"
+    },
+    {
+     "label": "Euro Stoxx 50",
+     "value": "6.081,59 (+1,11%)",
+     "tone": "positive"
+    }
+   ]
+  },
+  {
+   "title": "Commodities",
+   "items": [
+    {
+     "label": "Petróleo Brent",
+     "value": "N/D",
+     "tone": "neutral"
+    },
+    {
+     "label": "Minério de ferro (Dalian)",
+     "value": "N/D",
+     "tone": "neutral"
+    }
+   ]
+  },
+  {
+   "title": "Risco Brasil",
+   "items": [
+    {
+     "label": "CDS Brasil 5 anos",
+     "value": "N/D",
+     "tone": "neutral"
+    }
+   ]
+  }
+ ],
+ "agenda": [],
+ "news": [
+  "Agenda e notícias overnight não apuradas nesta edição (N/D); EUA fechados ontem por Thanksgiving."
+ ]
 }
